@@ -1,0 +1,47 @@
+{
+  "name": "Address.Book",
+  "description": "An example address book project for a work sample.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Scienary/Address.Book",
+  "author": {
+    "name": "Ahmet Cavus",
+    "email": "ahmet.cavus@scienary.com",
+    "url": "scienary.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Scienary"
+  },
+  "bugs": {
+    "url": "https://github.com/Scienary/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Scienary/Address.Book/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/Address.Book",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "mocha test --exit",
+    "start": "node index"
+  },
+  "keywords": [],
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "moment": "^2.20.1",
+    "sequelize": "^4.38.0",
+    "sqlite3": "^4.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-http": "^3.0.0",
+    "mocha": "^4.0.1"
+  }
+}
