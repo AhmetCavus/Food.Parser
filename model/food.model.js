@@ -1,16 +1,27 @@
 class FoodModel {
 
     constructor() {
-        this._foods = [];
-        this._formattedFoods = '';
+        this._productItems = [];
+        this._genericItems = [];
+        this._productCategories = [];
     }
 
-    init(foods) {
-        this._foods = foods;
+    init(data) {
+        this._productItems = data.productItems;
+        this._genericItems = data.genericItems;
+        this._productCategories = data.productCategories;
     }
 
-    getAll() {
-        return this._foods;
+    getProductItems() {
+        return this._productItems;
+    }
+
+    getGenericItems() {
+        return this._genericItems;
+    }
+
+    getProductCategories() {
+        return this._productCategories;
     }
 }
 

@@ -5,6 +5,9 @@ class FoodParser {
 
     constructor(resModel) {
         this._resModel = resModel;
+        this._productItems = [];
+        this._genericItems = [];
+        this._productCategories = [];
     }
 
     /**
@@ -16,9 +19,9 @@ class FoodParser {
             (resolve, reject) => {
                 this._resModel
                 .fetchCsv(process.env.CSVFILE)
-                .then(foods => {
-                    this._foods = foods;
-                    resolve(this._foods);
+                .then(genericItems => {
+                    this._genericItems = genericItems;
+                    resolve(this._genericItems);
                 })
                 .catch(err => {
                     reject(err);
@@ -71,42 +74,31 @@ class FoodParser {
      * @param {Array} an array of sorting keys 
      * @returns {Array} The sorted address array
      */
-    formatItems() {
-        return _.map(this._foods, item => {
-            var catObject = {};
-            var id = parseInt(item["ID"]) * 100;
-            this.createCategory(item["category D"].split('/'), 0, catObject, id);
-            return { id: parseInt(item["ID"]), name: item["name D"], category: catObject.subcategory }
-        }).sort((a, b) => +(a.id > b.id) || +(a.id === b.id) - 1);
-    }
-
-    /**
-     * Creates an array of elements, sorted in ascending order by the results 
-     * of running each element in a collection thru each iteratee. 
-     * For more information see
-     * https://lodash.com/docs/#map
-     * 
-     * @param {Array} an array of sorting keys 
-     * @returns {Array} The sorted address array
-     */
-    formatCategories() {
-        return _.map(this._foods, item => {
-            this._categories = [];
-            var id = parseInt(item["ID"]) * 100;
+    parse() {
+        this._genericItems = _.map(this._genericItems, item => {
+            var catObject = { id: parseInt(item["ID"]) * 10 }
             var categories = item["category D"].split('/');
-            categroies.forEach(cat => {
-                var found = _.find(this._categories, (item) => item.name === cat);
-                if(!found) continue;
-            });
-            return { id: parseInt(item["ID"]), name: item["name D"], category: catObject.subcategory }
+            var catId = this.createCategory(categories, 0, null, catObject.id);
+            return { productItemId: parseInt(item["ID"]), name: item["name D"], productCategoryId: catId }
         }).sort((a, b) => +(a.id > b.id) || +(a.id === b.id) - 1);
+        this._productItems = _.map(this._genericItems, item => { return { productItemId: item.productItemId } })
+        return { productItems: this._productItems, genericItems: this._genericItems, productCategories: this._productCategories };
     }
 
-    createCategory(categories, index, catObject, id) {
-        if(categories.length <= index) return;
-        catObject.subcategory = { id: id, name: categories[index], parentId: catObject.id };
-        this.createCategory(categories, index+1, catObject.subcategory, id + 10);
+    createCategory(categories, index, prevCat, catId) {
+        if(categories.length <= index) return prevCat.productCategoryId;
+        var currentCat = categories[index];
+        var found = _.find(this._productCategories, (item) => item.name === currentCat);
+        if(found) {
+            return this.createCategory(categories, index+1, found, catId + 10);
+        } else {
+            var catObject = { productCategoryId: catId, name: categories[index], parentId: prevCat ? prevCat.productCategoryId : null, subcategoryId: catId + 10};
+            this._productCategories.push(catObject);
+            return this.createCategory(categories, index+1, catObject, catId + 10);
+        }
+
     }
+
 }
 
 var foodParser;

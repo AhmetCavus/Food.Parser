@@ -19,17 +19,21 @@ class DbService {
             });
 
         //  MODELS
+        this._productItem = this._sequelize.define('ProductItem', {
+            productItemId: { type: Sequelize.INTEGER, primaryKey: true }
+        });
+
         this._genericItem = this._sequelize.define('GenericItem', {
-            id: { type: Sequelize.INTEGER, primaryKey: true },
+            productItemId: Sequelize.INTEGER,
             name: Sequelize.TEXT,
-            category: Sequelize.INTEGER
+            productCategoryId: Sequelize.INTEGER
         });
       
         this._productCategory = this._sequelize.define('ProductCategory', {
-            id: { type: Sequelize.INTEGER, primaryKey: true },
+            productCategoryId: { type: Sequelize.INTEGER, primaryKey: true },
             name: Sequelize.TEXT,
-            subcategory: Sequelize.INTEGER,
-            parentId: Sequelize.INTEGER
+            parentId: Sequelize.INTEGER,
+            subcategoryId: Sequelize.INTEGER
         });
 
         //  SYNC SCHEMA
@@ -42,15 +46,27 @@ class DbService {
             });
     }
 
-    insertCategory(categoryData) {
-        this._productCategory.create({
-            id: categoryData.id,
-            name: categoryData.name,
-            subcategory: categoryData.subcategory ? categoryData.subcategory.id : null,
-            parentId: categoryData.parentId
+    insertProductItem(productItem) {
+        this._productItem.create({
+            productItemId: productItem.productItemId
         })
-        if(!categoryData.subcategory) return;
-        this.insertCategory(categoryData.subcategory);
+    }
+
+    insertGenericItem(genericItem) {
+        this._genericItem.create({
+            productItemId: genericItem.productItemId,
+            name: genericItem.name,
+            productCategoryId: genericItem.productCategoryId
+        })
+    }
+
+    insertProductCategory(productCategory) {
+        this._productCategory.create({
+            productCategoryId: productCategory.productCategoryId,
+            name: productCategory.name,
+            subcategoryId: productCategory.subcategoryId ? productCategory.subcategoryId : null,
+            parentId: productCategory.parentId
+        })
     }
 }
 

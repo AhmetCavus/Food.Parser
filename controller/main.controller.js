@@ -4,8 +4,10 @@ var foodModel = require('../model/food.model')();
 var dbService = require('../service/db.service')();
 
 module.exports = {
-    getFoodsAction: getFoodsAction,
-    saveFoodsAction: saveFoodsAction
+    getProductItemsAction: getProductItems,
+    getGenericItemsAction: getGenericItemsAction,
+    getProductCategoriesAction: getProductCategoriesAction,
+    saveAction: saveAction
 };
 
 dbService.init();
@@ -15,22 +17,38 @@ dbService.init();
 parser
 .init()
 .then(foods => {
-    foodModel.init(parser.format());
+    foodModel.init(parser.parse());
 })
 .catch(err => {
     console.log(err);
     throw err;
 });
 
-function getFoodsAction (req, res) {
+function getProductItems (req, res) {
     res.type('application/json');
-    res.send(foodModel.getAll());
+    res.send(foodModel.getProductItems());
 }
 
-function saveFoodsAction (req, res) {
+function getGenericItemsAction (req, res) {
     res.type('application/json');
-    foodModel.getAll().forEach(food => {
-        dbService.insertCategory(food.category);
+    res.send(foodModel.getGenericItems());
+}
+
+function getProductCategoriesAction (req, res) {
+    res.type('application/json');
+    res.send(foodModel.getProductCategories());
+}
+
+function saveAction (req, res) {
+    res.type('application/json');
+    foodModel.getProductItems().forEach(productItem => {
+        dbService.insertProductItem(productItem);
+    });
+    foodModel.getGenericItems().forEach(genericItem => {
+        dbService.insertGenericItem(genericItem);
+    });
+    foodModel.getProductCategories().forEach(category => {
+        dbService.insertProductCategory(category);
     });
     res.send({ success: true });
 }
