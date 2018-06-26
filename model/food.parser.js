@@ -82,6 +82,11 @@ class FoodParser {
             return { productItemId: parseInt(item["ID"]), name: item["name D"], productCategoryId: catId }
         }).sort((a, b) => +(a.id > b.id) || +(a.id === b.id) - 1);
         this._productItems = _.map(this._genericItems, item => { return { productItemId: item.productItemId } })
+        this._productCategories = _.map(this._productCategories, item => {
+            item.count = _.filter(this._genericItems, subitem => subitem.productCategoryId === item.productCategoryId).length;
+            item.count = item.count <= 0 ? (item.subcategoryId ? 1 : 0) : item.count;
+            return item;
+        });
         return { productItems: this._productItems, genericItems: this._genericItems, productCategories: this._productCategories };
     }
 
@@ -92,7 +97,7 @@ class FoodParser {
         if(found) {
             return this.createCategory(categories, index+1, found, catId + 10);
         } else {
-            var catObject = { productCategoryId: catId, name: categories[index], parentId: prevCat ? prevCat.productCategoryId : null, subcategoryId: catId + 10};
+            var catObject = { productCategoryId: catId, name: categories[index], parentId: prevCat ? prevCat.productCategoryId : null, subcategoryId: categories.length <= index+1 ? null : catId +10 };
             this._productCategories.push(catObject);
             return this.createCategory(categories, index+1, catObject, catId + 10);
         }

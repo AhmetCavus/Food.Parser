@@ -19,21 +19,22 @@ class DbService {
             });
 
         //  MODELS
-        this._productItem = this._sequelize.define('ProductItem', {
+        this._productItem = this._sequelize.define('productItem', {
             productItemId: { type: Sequelize.INTEGER, primaryKey: true }
         });
 
-        this._genericItem = this._sequelize.define('GenericItem', {
+        this._genericItem = this._sequelize.define('genericItem', {
             productItemId: Sequelize.INTEGER,
             name: Sequelize.TEXT,
             productCategoryId: Sequelize.INTEGER
         });
       
-        this._productCategory = this._sequelize.define('ProductCategory', {
+        this._productCategory = this._sequelize.define('productCategory', {
             productCategoryId: { type: Sequelize.INTEGER, primaryKey: true },
             name: Sequelize.TEXT,
             parentId: Sequelize.INTEGER,
-            subcategoryId: Sequelize.INTEGER
+            subcategoryId: Sequelize.INTEGER,
+            count: Sequelize.INTEGER
         });
 
         //  SYNC SCHEMA
@@ -64,6 +65,7 @@ class DbService {
         this._productCategory.create({
             productCategoryId: productCategory.productCategoryId,
             name: productCategory.name,
+            count: productCategory.count,
             subcategoryId: productCategory.subcategoryId ? productCategory.subcategoryId : null,
             parentId: productCategory.parentId
         })
