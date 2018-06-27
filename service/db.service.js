@@ -5,9 +5,16 @@ class DbService {
     constructor() {}
 
     init() {
-        this._sequelize = new Sequelize('foodDb', null, null, {
-            dialect: "sqlite",
-            storage: './food.sqlite',
+        this._sequelize = new Sequelize(process.env.DB_NAME, process.env.DB_USER, process.env.DB_PASS, {
+            dialect: process.env.DB_DIALECT,
+            host: process.env.DB_HOST,
+            dialectOptions: {
+				encrypt: true
+            },
+            define: {
+                //prevent sequelize from pluralizing table names
+                freezeTableName: true
+            }
         });
 
         this._sequelize
@@ -20,16 +27,19 @@ class DbService {
 
         //  MODELS
         this._productItem = this._sequelize.define('productItem', {
-            productItemId: { type: Sequelize.INTEGER, primaryKey: true }
+            id: { type: Sequelize.INTEGER, primaryKey: true, autoIncrement: true },
+            productItemId: { type: Sequelize.INTEGER }
         });
 
         this._genericItem = this._sequelize.define('genericItem', {
-            productItemId: Sequelize.INTEGER,
+            id: { type: Sequelize.INTEGER, primaryKey: true, autoIncrement: true },
+            productItemId: { type: Sequelize.INTEGER, primaryKey: true },
             name: Sequelize.TEXT,
             productCategoryId: Sequelize.INTEGER
         });
       
         this._productCategory = this._sequelize.define('productCategory', {
+            id: { type: Sequelize.INTEGER, primaryKey: true, autoIncrement: true },
             productCategoryId: { type: Sequelize.INTEGER, primaryKey: true },
             name: Sequelize.TEXT,
             parentId: Sequelize.INTEGER,
@@ -47,27 +57,30 @@ class DbService {
             });
     }
 
-    insertProductItem(productItem) {
-        this._productItem.create({
-            productItemId: productItem.productItemId
+    insertProductItems(productItems, success, fail) {
+        this._productItem.bulkCreate(productItems)
+        .then(res => {
+            success(res);
+        }).catch(err => {
+            fail(error);
         })
     }
 
-    insertGenericItem(genericItem) {
-        this._genericItem.create({
-            productItemId: genericItem.productItemId,
-            name: genericItem.name,
-            productCategoryId: genericItem.productCategoryId
+    insertGenericItems(genericItems, success, fail) {
+        this._genericItem.bulkCreate(genericItems)
+        .then(res => {
+            success(res);
+        }).catch(err => {
+            fail(error);
         })
     }
 
-    insertProductCategory(productCategory) {
-        this._productCategory.create({
-            productCategoryId: productCategory.productCategoryId,
-            name: productCategory.name,
-            count: productCategory.count,
-            subcategoryId: productCategory.subcategoryId ? productCategory.subcategoryId : null,
-            parentId: productCategory.parentId
+    insertProductCategories(productCategories, success, fail) {
+        this._productCategory.bulkCreate(productCategories)
+        .then(res => {
+            success(res);
+        }).catch(err => {
+            fail(error);
         })
     }
 }
