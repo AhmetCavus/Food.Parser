@@ -10,8 +10,6 @@ module.exports = {
     saveAction: saveAction
 };
 
-dbService.init();
-
 // Initialize the address book with the data from the csv file.
 // Then build up the answers with the AddressBookModel.
 parser
