@@ -1,2 +1,6 @@
-storeId;name;street;housenumber;zip;city;geoposition;zonegraph;storeItems
-1001;Rewe Markt Essen;Stauderstra�e;57;45326;Essen;51.4550818,6.9756924;;101,102,103,104,105
+﻿storeId;name;street;housenumber;zip;city;geoposition;zonegraph;storeItems
+30001;Geck Testsupermarkt;Rahmedestraße;399;58762;Altena;51.2553220,7.6443610;40001;20001, 20002, 20003, 20004, 20005
+30002;Geck Testsupermarkt 2;Rahmedestraße;399;58762;Altena;51.2553220,7.6443610;40001;20001, 20002, 20003, 20004, 20005
+30003;Geck Testsupermarkt 3;Rahmedestraße;399;58762;Altena;51.2553220,7.6443610;40001;20001, 20002, 20003, 20004, 20005
+30004;Geck Testsupermarkt 4;Rahmedestraße;399;58762;Altena;51.2553220,7.6443610;40001;20001, 20002, 20003, 20004, 20005
+30005;Geck Testsupermarkt 5;Rahmedestraße;399;58762;Altena;51.2553220,7.6443610;40001;20001, 20002, 20003, 20004, 20005

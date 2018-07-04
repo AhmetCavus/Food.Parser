@@ -44,7 +44,21 @@ class DbService {
             name: Sequelize.TEXT,
             parentId: Sequelize.INTEGER,
             subcategoryId: Sequelize.INTEGER,
-            count: Sequelize.INTEGER
+            count: Sequelize.INTEGER,
+            categoryColor: Sequelize.TEXT
+        });
+
+        this._store = this._sequelize.define('store', {
+            id: { type: Sequelize.INTEGER, primaryKey: true, autoIncrement: true },
+            storeId: { type: Sequelize.INTEGER, primaryKey: true },
+            effectiveDateTime: Sequelize.DATE,
+            name: Sequelize.TEXT,
+            street: Sequelize.TEXT,
+            housenumber: Sequelize.TEXT,
+            zip: Sequelize.TEXT,
+            city: Sequelize.TEXT,
+            geoposition: Sequelize.TEXT,
+            zonegraph: Sequelize.TEXT
         });
 
         //  SYNC SCHEMA
@@ -77,6 +91,15 @@ class DbService {
 
     insertProductCategories(productCategories, success, fail) {
         this._productCategory.bulkCreate(productCategories)
+        .then(res => {
+            success(res);
+        }).catch(err => {
+            fail(error);
+        })
+    }
+
+    insertStores(stores, success, fail) {
+        this._store.bulkCreate(stores)
         .then(res => {
             success(res);
         }).catch(err => {

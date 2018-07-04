@@ -10,6 +10,7 @@ dbService.init();
 // The router is the point of contact for queries 
 // that are forwarded to the controller.
 require('./router/food.router')(app);
+require('./router/store.router')(app);
 
 app.listen(process.env.PORT, () => {
     console.log(process.env.STARTLOG + process.env.PORT);

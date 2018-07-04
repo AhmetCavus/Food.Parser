@@ -1,12 +1,10 @@
 var resource = require('../model/resource.model');
-var parser = require('../model/food.parser')(resource);
-var foodModel = require('../model/food.model')();
+var parser = require('../model/store.parser')(resource);
+var storeModel = require('../model/store.model')();
 var dbService = require('../service/db.service')();
 
 module.exports = {
-    getProductItemsAction: getProductItems,
-    getGenericItemsAction: getGenericItemsAction,
-    getProductCategoriesAction: getProductCategoriesAction,
+    getStoresAction: getStoresAction,
     saveAction: saveAction
 };
 
@@ -14,62 +12,26 @@ module.exports = {
 // Then build up the answers with the AddressBookModel.
 parser
 .init()
-.then(foods => {
-    foodModel.init(parser.parse());
+.then(stores => {
+    storeModel.init(parser.parse());
 })
 .catch(err => {
     console.log(err);
     throw err;
 });
 
-function getProductItems (req, res) {
+function getStoresAction (req, res) {
     res.type(process.env.RES_TYPE);
-    res.send(foodModel.getProductItems());
-}
-
-function getGenericItemsAction (req, res) {
-    res.type(process.env.RES_TYPE);
-    res.send(foodModel.getGenericItems());
-}
-
-function getProductCategoriesAction (req, res) {
-    res.type(process.env.RES_TYPE);
-    res.send(foodModel.getProductCategories());
+    res.send(storeModel.getStores());
 }
 
 function saveAction (req, res) {
     this._res = res;
     res.type(process.env.RES_TYPE);
-    dbService.insertProductItems(foodModel.getProductItems(), onInsertProductItemsSuccess, onIsertProductItemsFail);
+    dbService.insertStores(storeModel.getStores(), onInsertStoresSuccess, onIsertStoresFail);
 }
 
-function onInsertProductItemsSuccess(res) {
-    console.log("Product items created");
-    dbService.insertGenericItems(foodModel.getGenericItems(), onInsertGenericItemsSuccess, onInsertGenericItemsFail);
-}
-
-function onIsertProductItemsFail(res) {
-    console.log(res);
-    this._res.send({
-        success: false,
-        body: res
-    });
-}
-
-function onInsertGenericItemsSuccess(res) {
-    console.log("Generic items created");
-    dbService.insertProductCategories(foodModel.getProductCategories(), onInsertProductCategoriesSuccess, onInsertProductCategoriesFail);
-}
-
-function onInsertGenericItemsFail(res) {
-    console.log(res);
-    this._res.send({
-        success: false,
-        body: res
-    });
-}
-
-function onInsertProductCategoriesSuccess(res) {
+function onInsertStoresSuccess(res) {
     console.log("Product categories created");
     console.log("Migration completed successfull");
     this._res.send({
@@ -78,7 +40,7 @@ function onInsertProductCategoriesSuccess(res) {
     });
 }
 
-function onInsertProductCategoriesFail(res) {
+function onIsertStoresFail(res) {
     console.log(res);
     this._res.send({
         success: false,

@@ -18,7 +18,7 @@ class FoodParser {
         return new Promise(
             (resolve, reject) => {
                 this._resModel
-                .fetchCsv(process.env.CSVFILE)
+                .fetchCsv(process.env.CSV_FOOD_FILE)
                 .then(genericItems => {
                     this._genericItems = genericItems;
                     resolve(this._genericItems);
@@ -97,7 +97,9 @@ class FoodParser {
         if(found) {
             return this.createCategory(categories, index+1, found, catId + 10);
         } else {
-            var catObject = { productCategoryId: catId, name: categories[index], parentId: prevCat ? prevCat.productCategoryId : null, subcategoryId: categories.length <= index+1 ? null : catId +10 };
+            var catObject = 
+            { 
+                productCategoryId: catId, name: categories[index], parentId: prevCat ? prevCat.productCategoryId : null, subcategoryId: categories.length <= index+1 ? null : catId +10 };
             this._productCategories.push(catObject);
             return this.createCategory(categories, index+1, catObject, catId + 10);
         }
