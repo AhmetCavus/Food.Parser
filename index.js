@@ -11,6 +11,7 @@ dbService.init();
 // that are forwarded to the controller.
 require('./router/food.router')(app);
 require('./router/store.router')(app);
+require('./router/test.router')(app);
 
 app.listen(process.env.PORT, () => {
     console.log(process.env.STARTLOG + process.env.PORT);
