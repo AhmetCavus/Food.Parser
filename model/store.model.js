@@ -2,14 +2,32 @@ class StoreModel {
 
     constructor() {
         this._stores = [];
+        this._storeItems = [];
+        this._tradeItems = [];
     }
 
-    init(data) {
+    setStores(data) {
         this._stores = data.stores;
     }
 
     getStores() {
         return this._stores;
+    }
+
+    setStoreItems(data) {
+        this._storeItems = data.items;
+    }
+
+    getStoreItems() {
+        return this._storeItems;
+    }
+
+    setTradeItems(data) {
+        this._tradeItems = data.items;
+    }
+
+    getTradeItems() {
+        return this._tradeItems;
     }
 }
 

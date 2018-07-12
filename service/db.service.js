@@ -61,9 +61,35 @@ class DbService {
             zonegraph: Sequelize.TEXT
         });
 
+        this._storeItem = this._sequelize.define('storeItem', {
+            id: { type: Sequelize.INTEGER, primaryKey: true, autoIncrement: true },
+            storeItemId: Sequelize.TEXT,
+            storeId: Sequelize.TEXT,
+            tradeItemId: Sequelize.TEXT,
+            effectiveDateTime: Sequelize.DATE,
+            itemPrice: Sequelize.FLOAT,
+            itemPriceCurrency: Sequelize.TEXT,
+            itemPriceUOM: Sequelize.FLOAT,
+            coordinate: Sequelize.TEXT
+        });
+
+        this._tradeItem = this._sequelize.define('tradeItem', {
+            id: { type: Sequelize.INTEGER, primaryKey: true, autoIncrement: true },
+            globalTradeItemNumber: Sequelize.TEXT,
+            effectiveDateTime: Sequelize.DATE,
+            descriptionShort: Sequelize.TEXT,
+            descriptionOfTradeItem: Sequelize.TEXT,
+            netContent: Sequelize.TEXT,
+            netContentUOM: Sequelize.TEXT,
+            tradeItemPrice: Sequelize.FLOAT,
+            tradeItemPriceCurrency: Sequelize.TEXT,
+            tradeItemPriceUOM: Sequelize.FLOAT,
+            iconId: Sequelize.TEXT
+        });
+
         //  SYNC SCHEMA
         this._sequelize
-            .sync({ force: true })
+            .sync({ force: false })
             .then(function(err) {
                 console.log('It worked!');
             }, function (err) {
@@ -76,7 +102,7 @@ class DbService {
         .then(res => {
             success(res);
         }).catch(err => {
-            fail(error);
+            fail(err);
         })
     }
 
@@ -85,7 +111,7 @@ class DbService {
         .then(res => {
             success(res);
         }).catch(err => {
-            fail(error);
+            fail(err);
         })
     }
 
@@ -94,7 +120,7 @@ class DbService {
         .then(res => {
             success(res);
         }).catch(err => {
-            fail(error);
+            fail(err);
         })
     }
 
@@ -103,7 +129,25 @@ class DbService {
         .then(res => {
             success(res);
         }).catch(err => {
-            fail(error);
+            fail(err);
+        })
+    }
+
+    insertStoreItems(storeItems, success, fail) {
+        this._storeItem.bulkCreate(storeItems)
+        .then(res => {
+            success(res);
+        }).catch(err => {
+            fail(err);
+        })
+    }
+
+    insertTradeItems(tradeItems, success, fail) {
+        this._tradeItem.bulkCreate(tradeItems)
+        .then(res => {
+            success(res);
+        }).catch(err => {
+            fail(err);
         })
     }
 }

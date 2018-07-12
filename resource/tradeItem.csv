@@ -1,2 +1,25 @@
-tradeItemId;globalTradeNumber;descriptionShort;descriptionOfTradeItem;netContent;netContentUOM;tradeItemPrice;tradeItemPriceCurrency;tradeItemPriceUOM;iconId;productCategoryId
-1001;123345566;Lorem ipsum dolor sit amet;Lorem ipsum dolor sit amet;;;3,5;�;;;[ID Produktkategorie]
+﻿tradeItemID;globalTradeNumber;descriptionShort;descriptionOfTradeItem;netContent;netContentUOM;tradeItemPrice;tradeItemPriceCurrency;tradeItemPriceUOM;iconId;productCategoryID
+10001;0000000001;H-Milch 1,5% 1l;H-fettarme Milch, 1,5% Fett, ultrahocherhitzt, homogenisiert;1;l;0,61;€;0,61;;5270
+10002;0000000002;Bio H-Vollmilch 3,8% 1l;Bio H-Vollmilch, 3,8% Fett, ultrahocherhitzt, homogenisiert;1;l;1,09;€;1,09;;5270
+10003;4062800000990;MinusL haltbare Milch laktosefrei 1,5% 1l;fettarme H-Milch, 1,5 % Fett, ultrahocherhitzt, homogenisiert;1;l;0,99;€;0,99;;5270
+10004;4008452027589;Weihenstephan H-Milch 1,5% 1l;Erleben Sie unseren einzigartig-frischen Geschmack: Machen Sie keine Kompromisse! Denn bei Weihenstephan ist frischer Geschmack trotz langer Haltbarkeit kein Widerspruch mehr. Durch unsere besonders qualitätsschonende Erwärmung können wir die Hitzebelastung gegenüber herkömmlichen Verfahren um 80% reduzieren. ;1;l;1,29;€;1,29;;5270
+10005;4007929053861;Milram H-Milch 3,5% 500ml;H-Vollmilch , 3,5 % Fett;500;ml;0,59;€;1,18;;5270
+10006;4008400221823;Kinder Riegel 18 Riegel Big Pack;"Gefüllte Vollmilchschokolade mit Milchfüllung. Die Vollmilchschokolade der Marke Kinder ist in der handlichen 18er-Packung erhältlich. Mit diesem süßen Snack für zwischendurch tanken Sie ganz einfach auch unterwegs neue Energie und sind gewappnet für kommende Aufgaben. ";378;g;3,49;€;9,23;;105360
+10007;7614500010013;Toblerone Milchschokolade klein 100 g;Schweizer Milchschokolade mit Honig- und Mandel-Torrone (10%).;100;g;1,69;€;1,69;;105360
+10008;7622300476144;Mikado Keks-Sticks Zartherbe Schokolade 75g;Die langen, knusprigen Keks-Sticks mit feiner Milchschokolade von Mikado sind der ideale Snack für zwischendurch - ob zum Teilen mit Freunden oder zum allein Genießen.;75;g;1,39;€;1,85;;105360
+10009;7622210414120;Milka Tafel Alpenmilch 100g;Milkas Alpenmilch Schokoladentafel ist der Klassiker für alle Schokoladen-Fans. Der leckere, zartschmelzende Schokoladengenuss aus 100% Alpenmilch darf in keinem Haushalt fehlen.;100;g;0,79;€;0,79;;105360
+10010;7622200009084;Milka Großtafel Schoko & Keks 300g;Milka Schoko & Keks ist die gelungene Kombination aus zartschmelzender Alpenmilch Schokolade und knusprigem Keks - ein Genuss für die ganze Familie!;300;g;2,99;€;9,97;;105360
+10011;4071800031897;Harry Vital & Fit 250g;Bei diesen Produkten bieten wir Ihnen beste Frische und Qualität. Bitte beachten Sie daher, dass dieses Brot nur eine sehr kurze Restlaufzeit hat.;250;g;0,89;€;3,56;;12680
+10012;4071800004372;Harry Bäckerfrisch Krustenbrot 500g;Bei diesen Produkten bieten wir Ihnen beste Frische und Qualität. Bitte beachten Sie daher, dass dieses Brot nur eine sehr kurze Restlaufzeit hat.;500;g;0,99;€;1,98;;12680
+10013;4071800001166;Gab Paderborner Landbrot geschnitten 500g;Roggenmischbrot mit 33 % Roggenanteil;500;g;0,99;€;1,98;;12680
+10014;4071800004785;Harry GaB Sonnenblumenbrot Vollkorn - geschnitten;Weizenmischbrot mit 55 % Weizenmehl;500;g;1,29;€;1,29;;12680
+10015;8008698011065;Schär Meisterbäckers Vital 350g;Glutenfreies Körnerbrot;350;g;2,79;€;7,97;;12680
+10016;5410396152934;Kerrygold Original Irischer Cheddar herzhaft 150g;Der wohl bekannteste irische Käse in Deutschland ist der Cheddar. Der herzhafte Cheddar wird aus pasteurisierter, irischer Weidemilch und ohne künstliche Zusatzstoffe hergestellt. Er reift typischerweise 6 Monate, ist von Natur aus laktosefrei und auch für Vegetarier geeignet. Der herzhafte Scheibenkäse entfaltet seinen vollen Geschmack am besten pur bei einem Glas Rotwein oder als Krönung gratiniert auf einem Auflauf. ;150;g;1,99;€;1,33;;5540
+10017;3073781053678;Leerdammer Original Scheiben 140g;Der beliebte Klassiker überzeugt seit 1978 mit seinem mild-nussigen Geschmack. LEERDAMMER Original ist der unwiderstehliche Genuss für die ganze Familie und für jede Gelegenheit. ;140;g;1,69;€;1,21;;5540
+10018;3090291116044;Géramont Cremig-zarte Scheiben sahnig-mild 150g;Französischer Weichkäse aus pasteurisierter Kuhmilch;150;g;2,49;€;1,66;;5540
+10019;4006402069344;Bergader Almkäse Scheiben nussig 150g;Scheibe für Scheibe feinster bayerischer Käsegenuss:Schnell und unkompliziert lassen sich mit den Bergader Almkäse Scheiben köstliche Brötchen belegen und raffinierte Gerichte zubereiten.;150;g;1,79;€;1,19;;5540
+10020;1073584815079;Bonbel Scheiben Natur 100g;Butterkäse, 50% Fett. i. Tr.;100;g;1,79;€;1,79;;5540
+10021;2000423470884;Cherrystrauchtomaten;Tomaten zählen zur Kategorie der Fruchtgemüse und gehören eigentlich in die Obstschale.;500;g;0,99;€;1,98;;10030
+10022;20239787;Bio Speisekartoffeln;Bio-Speisekartoffeln;1;Netz;2,49;€;1,79;;10030
+10023;9006337501983;Speisezwiebeln;Speisezwiebeln, Größe 40-60 mm oder 50-70 mm;1,5;kg;2,99;€;1,99;;10030
+10024;20111090;Cherry Rispentomaten;Diese Cherryrispentomaten sind am Stiel weiter gereift. Das Ergebnis ist eine besonders vollmundige Tomate. Zusätzlich ist diese Cherryrispentomate süß und köstlich. Hervorragend als Snack oder in einen gesunden Salat.;250;g;1,39;€;0,57;;10030
