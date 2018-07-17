@@ -1,0 +1,1024 @@
+tradeItemID;globalTradeNumber;descriptionShort;descriptionOfTradeItem;netContent;netContentUOM;tradeItemPrice;tradeItemPriceCurrency;tradeItemPriceUOM;iconId;productCategoryID
+6159;;Agar Agar;Kurzbeschreibung;100;g ;1,49;€;2,98;;Verschiedenes/Gelier- und Bindemittel
+6158;;Agavensirup;Kurzbeschreibung;200;g ;0,69;€;0,69;;Süssigkeiten/Zucker und Süssstoffe
+6160;;Älplermagronen, zubereitet;Kurzbeschreibung;375;ml;0,69;€;0,46;;Gerichte/Sonstige salzige/rezente Gerichte
+12914;;Amaretti (Mandelgebäck);Kurzbeschreibung;120;g ;5,99;€;4,99;;Süssigkeiten/Guetzli
+6161;;Ananas, gezuckert (Konserve);Kurzbeschreibung;100;g ;0,99;€;0,99;;Früchte/Früchte gekocht (inkl. Konserven)
+10730;;Ananas, roh;Kurzbeschreibung;250;ml;0,69;€;0,99;;Früchte/Früchte frisch
+1397;;Ananas, ungezuckert (Konserve);Kurzbeschreibung;100;g ;1,49;€;0,75;;Früchte/Früchte gekocht (inkl. Konserven)
+5108;;Apfel, gedünstet, abgetropft (ohne Zugabe von Zucker);Kurzbeschreibung;200;g ;0,69;€;1,38;;Früchte/Früchte gekocht (inkl. Konserven)
+6162;;Apfel, geschält, getrocknet;Kurzbeschreibung;375;g ;0,79;€;0,79;;Früchte/Früchte getrocknet
+6163;;Apfel, roh;Kurzbeschreibung;120;g ;0,69;€;0,69;;Früchte/Früchte frisch
+6164;;Apfelkuchen, gebacken (mit Blätterteig);Kurzbeschreibung;100;g ;1,29;€;1,77;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+1251;;Apfelkuchen, gebacken (mit Kuchenteig);Kurzbeschreibung;250;ml;0,69;€;0,69;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+1252;;Apfelmus, gezuckert (Konserve);Kurzbeschreibung;100;ml;0,69;€;1,38;;Früchte/Früchte gekocht (inkl. Konserven)
+6165;;Apfelmus, ungezuckert (Konserve);Kurzbeschreibung;200;g ;0,79;€;0,27;;Früchte/Früchte gekocht (inkl. Konserven)
+1813;;Apfelsaft;Kurzbeschreibung;375;g ;0,89;€;0,89;;"Früchte/Fruchtsäfte;Alkoholfreie Getränke/Frucht- und Gemüsesäfte"
+6166;;Apfelwein, 4 vol%;Kurzbeschreibung;120;ml;0,69;€;0,69;;Alkoholhaltige Getränke/Wein
+75;;Apfelwein, 6.2 vol%;Kurzbeschreibung;100;g ;2,49;€;1,25;;Alkoholhaltige Getränke/Wein
+78;;Appenzeller, viertelfett;Kurzbeschreibung;250;ml;1,99;€;1,66;;Milch und Milchprodukte/Hartkäse
+6167;;Appenzeller, vollfett;Kurzbeschreibung;100;g ;1,98;€;3,96;;Milch und Milchprodukte/Hartkäse
+6168;;Aprikose, gedünstet, abgetropft (ohne Zugabe von Zucker);Kurzbeschreibung;200;ml;3,49;€;5,24;;Früchte/Früchte gekocht (inkl. Konserven)
+6169;;Aprikose, getrocknet;Kurzbeschreibung;375;ml;3,49;€;0,7;;Früchte/Früchte getrocknet
+6170;;Aprikose, gezuckert (Konserve);Kurzbeschreibung;120;ml;2,49;€;1,25;;Früchte/Früchte gekocht (inkl. Konserven)
+6171;;Aprikose, roh;Kurzbeschreibung;100;g ;0,98;€;0,98;;Früchte/Früchte frisch
+6172;;Aprikose, ungezuckert (Konserve);Kurzbeschreibung;250;g ;0,98;€;0,98;;Früchte/Früchte gekocht (inkl. Konserven)
+6173;;Aprikosenkuchen, gebacken (mit Blätterteig);Kurzbeschreibung;100;g ;0,98;€;0,49;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+6174;;Aprikosenkuchen, gebacken (mit Kuchenteig);Kurzbeschreibung;200;g ;7,99;€;6,66;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+6175;;Aubergine, gedünstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;375;g ;1,39;€;2,78;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6176;;Aubergine, roh;Kurzbeschreibung;120;ml;1,49;€;2,24;;Gemüse/Gemüse frisch
+6177;;Auberginen-Piccata, zubereitet;Kurzbeschreibung;100;g ;0,77;€;0,15;;Gerichte/Sonstige salzige/rezente Gerichte
+6178;;Auberginenscheiben, paniert, zubereitet;Kurzbeschreibung;250;g ;0,39;€;0,2;;Gerichte/Sonstige salzige/rezente Gerichte
+6056;;Aufschnitt (Durchschnitt);Kurzbeschreibung;100;g ;1,1;€;1,1;;Fleisch- und Wurstwaren/Brühwurstware
+6057;;Avocado, roh;Kurzbeschreibung;200;g ;1,49;€;1,49;;"Gemüse/Gemüse frisch;Nüsse, Samen und Ölfrüchte"
+5109;;Bäckerhefe, gepresst;Kurzbeschreibung;375;g ;0,69;€;0,35;;"Verschiedenes/Hefe;Verschiedenes/Backzutaten"
+5110;;Bami Goreng, zubereitet;Kurzbeschreibung;120;g ;0,69;€;0,58;;Gerichte/Asiatische Gerichte
+5111;;Banane, gedörrt;Kurzbeschreibung;100;g ;5,99;€;11,98;;Früchte/Früchte getrocknet
+6058;;Banane, getrocknet;Kurzbeschreibung;250;g ;0,99;€;1,49;;Früchte/Früchte getrocknet
+12505;;Banane, roh;Kurzbeschreibung;100;g ;0,69;€;0,14;;Früchte/Früchte frisch
+2115;;Basilikum, roh;Kurzbeschreibung;200;g ;1,49;€;0,75;;Gemüse/Kräuter
+1814;;Basler Leckerli;Kurzbeschreibung;375;g ;0,69;€;0,69;;Süssigkeiten/Guetzli
+6059;;Bauernbratwurst, gebraten (ohne Zusatz von Fett un Salz);Kurzbeschreibung;120;g ;0,79;€;0,79;;Fleisch- und Wurstwaren/Rohwurstware
+6060;;Bauernbratwurst, roh;Kurzbeschreibung;100;g ;0,69;€;0,35;;Fleisch- und Wurstwaren/Rohwurstware
+6179;;Bauernbrot;Kurzbeschreibung;250;g ;1,29;€;1,08;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+6181;;Bauernsalami;Kurzbeschreibung;100;ml;0,69;€;1,38;;Fleisch- und Wurstwaren/Rohwurstware
+6182;;Bauernschüblig;Kurzbeschreibung;200;g ;0,69;€;1,04;;Fleisch- und Wurstwaren/Rohwurstware
+6180;;Baumnuss;Kurzbeschreibung;375;g ;0,79;€;0,16;;Nüsse, Samen und Ölfrüchte
+6183;;Baumnussbrot;Kurzbeschreibung;120;ml;0,89;€;0,45;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+6184;;Béchamelsauce hausgemacht;Kurzbeschreibung;100;g ;0,69;€;0,69;;Verschiedenes/Saucen
+5112;;Beeren (Durchschnitt), gekocht (ohne Zugabe von Zucker);Kurzbeschreibung;250;g ;2,49;€;2,49;;Früchte/Früchte gekocht (inkl. Konserven)
+6185;;Beeren (Durchschnitt), roh;Kurzbeschreibung;100;ml;1,99;€;1;;Früchte/Früchte frisch
+6186;;Berliner;Kurzbeschreibung;200;g ;1,98;€;1,65;;Süssigkeiten/Sonstige süsse Backwaren
+6187;;Berner Alpkäse;Kurzbeschreibung;375;g ;3,49;€;6,98;;Milch und Milchprodukte/Hartkäse
+6188;;Berner Hobelkäse;Kurzbeschreibung;120;g ;3,49;€;5,24;;Milch und Milchprodukte/Hartkäse
+6189;;Berner Zungenwurst;Kurzbeschreibung;100;g ;2,49;€;0,5;;Fleisch- und Wurstwaren/Brühwurstware
+6190;;Biber;Kurzbeschreibung;250;g ;0,98;€;0,49;;Süssigkeiten/Sonstige süsse Backwaren
+6191;;Bier Panache (Durchschnitt);Kurzbeschreibung;100;ml;0,98;€;0,98;;Alkoholhaltige Getränke/Bier
+6192;;Bierhefe, getrocknet;Kurzbeschreibung;200;g ;0,98;€;0,98;;"Speziallebensmittel/Supplemente;Verschiedenes/Hefe"
+6193;;Bierwurst;Kurzbeschreibung;375;g ;7,99;€;4;;Fleisch- und Wurstwaren/Brühwurstware
+6194;;Birchermüesli, zubereitet (ungezuckert);Kurzbeschreibung;120;g ;1,39;€;1,16;;Gerichte/Müesli
+6195;;Birne, gedünstet, abgetropft (ohne Zugabe von Zucker);Kurzbeschreibung;100;g ;1,49;€;2,98;;Früchte/Früchte gekocht (inkl. Konserven)
+6196;;Birne, getrocknet;Kurzbeschreibung;250;g ;0,77;€;1,16;;Früchte/Früchte getrocknet
+6197;;Birne, gezuckert (Konserve);Kurzbeschreibung;100;g ;0,39;€;0,08;;Früchte/Früchte gekocht (inkl. Konserven)
+6198;;Birne, roh;Kurzbeschreibung;200;g ;1,1;€;0,55;;Früchte/Früchte frisch
+6199;;Birne, ungezuckert (Konserve);Kurzbeschreibung;375;g ;1,49;€;1,49;;Früchte/Früchte gekocht (inkl. Konserven)
+6201;;Birnenkuchen, gebacken (mit Blätterteig);Kurzbeschreibung;120;g ;0,69;€;0,69;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+6200;;Birnenkuchen, gebacken (mit Kuchenteig);Kurzbeschreibung;100;g ;0,69;€;0,35;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+6202;;Birnensaft;Kurzbeschreibung;250;g ;5,99;€;4,99;;"Früchte/Fruchtsäfte;Alkoholfreie Getränke/Frucht- und Gemüsesäfte"
+6203;;Birnenweggen;Kurzbeschreibung;100;ml;0,99;€;1,98;;Süssigkeiten/Sonstige süsse Backwaren
+6204;;Blanc battu;Kurzbeschreibung;200;g ;0,69;€;1,04;;Milch und Milchprodukte/Frischkäse und Quark
+6205;;Blanc battu mit Früchten light;Kurzbeschreibung;375;g ;1,49;€;0,3;;Milch und Milchprodukte/Frischkäse und Quark
+6206;;Blätterteig hausgemacht (Butter), ungebacken;Kurzbeschreibung;120;g ;0,69;€;0,35;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teige
+6207;;Blätterteig hausgemacht (mit pflanzlichem Fett), ungebacken;Kurzbeschreibung;100;g ;0,79;€;1,58;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teige
+6208;;Blätterteigpastetli, Butter;Kurzbeschreibung;250;g ;0,69;€;1,04;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Sonstige Getreideprodukte
+6209;;Blätterteigstängel;Kurzbeschreibung;100;g ;1,29;€;0,26;;Salzige Snacks/Blätterteiggebäcke
+5113;;Blattgemüse (Durchschnitt exkl. Salate), gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;200;g ;0,69;€;0,35;;Gemüse/Gemüse gekocht (inkl. Konserven)
+5114;;Blattgemüse (Durchschnitt exkl. Salate), gedünstet (ohne Zugabe von Salz und Fett);Kurzbeschreibung;375;g ;0,69;€;0,69;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6210;;Blattgemüse (Durchschnitt exkl. Salate), gekocht (ohne Zugabe von Salz und Fett);Kurzbeschreibung;120;ml;0,79;€;0,79;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6211;;Blattsalat (Durchschnitt), roh ;Kurzbeschreibung;100;g ;0,89;€;0,45;;Gemüse/Gemüse frisch
+6212;;Blauschimmelkäse (Durchschnitt);Kurzbeschreibung;250;g ;0,69;€;0,58;;Milch und Milchprodukte/Hartkäse
+81;;Blumenkohl, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;100;g ;2,49;€;4,98;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6213;;Blumenkohl, roh;Kurzbeschreibung;200;g ;1,99;€;2,99;;Gemüse/Gemüse frisch
+6214;;Blutwurst;Kurzbeschreibung;375;ml;1,98;€;0,4;;Fleisch- und Wurstwaren/Kochwurstware
+6215;;Bohne (alle Arten), gekocht (ohne Zugabe von Fett und Salz);Kurzbeschreibung;120;g ;3,49;€;1,75;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Hülsenfrüchte
+6216;;Bohne (alle Arten), getrocknet;Kurzbeschreibung;100;ml;3,49;€;3,49;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Hülsenfrüchte
+6217;;Bohne, grün, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;250;ml;2,49;€;2,49;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6218;;Bohne, grün, getrocknet;Kurzbeschreibung;100;g ;0,98;€;0,49;;Gemüse/Gemüse getrocknet
+6219;;Bohne, grün, roh;Kurzbeschreibung;200;ml;0,98;€;0,82;;Gemüse/Gemüse frisch
+6220;;Bolognaisesauce;Kurzbeschreibung;375;g ;0,98;€;1,96;;Verschiedenes/Saucen
+6221;;Bouillon, Fleisch, zubereitet;Kurzbeschreibung;120;ml;7,99;€;11,99;;Gerichte/Eintöpfe und Suppen
+6222;;Bouillon, Geflügel, zubereitet;Kurzbeschreibung;100;g ;1,39;€;0,28;;Gerichte/Eintöpfe und Suppen
+6223;;Bouillon, Gemüse, zubereitet;Kurzbeschreibung;250;g ;1,49;€;0,75;;Gerichte/Eintöpfe und Suppen
+6224;;Branchli (Milchschokolade mit Haselnusscrèmefüllung);Kurzbeschreibung;100;g ;0,77;€;0,77;;Süssigkeiten/Schokolade und Kakaoerzeugnisse
+6225;;Branntwein aus Getreide (z.B. Whisky);Kurzbeschreibung;200;g ;0,39;€;0,39;;Alkoholhaltige Getränke/Spirituosen
+6226;;Branntwein aus Wein (z.B.Cognac);Kurzbeschreibung;375;g ;1,1;€;0,55;;Alkoholhaltige Getränke/Spirituosen
+6227;;Branntwein aus Zuckerrohr (z.B. Rum);Kurzbeschreibung;120;g ;1,49;€;1,24;;Alkoholhaltige Getränke/Spirituosen
+6228;;Bratbutter;Kurzbeschreibung;100;g ;0,69;€;1,38;;"Fette und Öle/Fette;Milch und Milchprodukte/Rahm und Butter"
+6229;;Bratensauce, gebunden;Kurzbeschreibung;250;g ;0,69;€;1,04;;Verschiedenes/Saucen
+1210;;Bratensauce, klar;Kurzbeschreibung;100;g ;5,99;€;1,2;;Verschiedenes/Saucen
+1221;;Bresaola;Kurzbeschreibung;200;g ;0,99;€;0,5;;Fleisch- und Wurstwaren/Rohwurstware
+1222;;Brie, halbfett;Kurzbeschreibung;375;g ;0,69;€;0,69;;Milch und Milchprodukte/Weichkäse
+1225;;Brie, Rahm;Kurzbeschreibung;120;g ;1,49;€;1,49;;Milch und Milchprodukte/Weichkäse
+6230;;Brie, vollfett;Kurzbeschreibung;100;g ;0,69;€;0,35;;Milch und Milchprodukte/Weichkäse
+6231;;Broccoli, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;250;g ;0,79;€;0,66;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6232;;Broccoli, roh;Kurzbeschreibung;100;g ;0,69;€;1,38;;Gemüse/Gemüse frisch
+5115;;Brombeere, roh;Kurzbeschreibung;200;g ;1,29;€;1,94;;Früchte/Früchte frisch
+5116;;Brombeerkuchen, gebacken (mit Blätterteig);Kurzbeschreibung;375;g ;0,69;€;0,14;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+6233;;Brombeerkuchen, gebacken (mit Kuchenteig);Kurzbeschreibung;120;g ;0,69;€;0,35;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+6235;;Brombeerkuchen, gebacken (mit süssem Mürbeteig);Kurzbeschreibung;100;g ;0,79;€;1,58;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+6234;;Brot (Durchschnitt);Kurzbeschreibung;250;g ;0,89;€;1,34;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+6236;;Brühwürste geräuchert (Durchschnitt);Kurzbeschreibung;100;g ;0,69;€;0,14;;Fleisch- und Wurstwaren/Brühwurstware
+6237;;Brühwürste ungeräuchert (Durchschnitt);Kurzbeschreibung;200;g ;2,49;€;1,25;;Fleisch- und Wurstwaren/Brühwurstware
+1253;;Brunnenkresse, roh;Kurzbeschreibung;375;ml;1,99;€;1,99;;Gemüse/Gemüse frisch
+6238;;Brunsli;Kurzbeschreibung;120;g ;1,98;€;1,98;;Süssigkeiten/Guetzli
+6239;;Buchweizen, Korn geschält;Kurzbeschreibung;100;g ;3,49;€;1,75;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Sonstige Getreideprodukte
+13130;;Buchweizenmehl;Kurzbeschreibung;250;g ;3,49;€;2,91;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+6241;;Bündner Gerstensuppe;Kurzbeschreibung;100;g ;2,49;€;4,98;;Gerichte/Eintöpfe und Suppen
+6240;;Bürli (halbweiss);Kurzbeschreibung;200;ml;0,98;€;1,47;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+10731;;Buttergipfeli, hell;Kurzbeschreibung;375;ml;0,98;€;0,2;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+6242;;Buttergipfeli, Vollkorn;Kurzbeschreibung;120;g ;0,98;€;0,49;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+1742;;Buttermilch;Kurzbeschreibung;100;g ;7,99;€;7,99;;Milch und Milchprodukte/Milch- und Joghurtgetränke
+5117;;Butterweggli;Kurzbeschreibung;250;g ;1,39;€;1,39;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+6243;;Butterzopf;Kurzbeschreibung;100;g ;1,49;€;0,75;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+6244;;Butterzopf, Vollkorn;Kurzbeschreibung;200;g ;0,77;€;0,64;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+6245;;Café crème, ungezuckert;Kurzbeschreibung;375;g ;0,39;€;0,78;;Alkoholfreie Getränke/Kaffee
+6246;;Cake Financier;Kurzbeschreibung;120;g ;1,1;€;1,65;;Süssigkeiten/Kuchen, Torten und Cake
+6247;;Calimocho (Rotwein mit Cola);Kurzbeschreibung;100;g ;1,49;€;0,3;;"Alkoholfreie Getränke/Süssgetränke;Alkoholhaltige Getränke/Sonstige alkoholische Getränke"
+6248;;Camembert, halbfett;Kurzbeschreibung;250;g ;0,69;€;0,35;;Milch und Milchprodukte/Weichkäse
+6249;;Camembert, Rahm;Kurzbeschreibung;100;g ;0,69;€;0,69;;Milch und Milchprodukte/Weichkäse
+6250;;Camembert, vollfett;Kurzbeschreibung;200;ml;5,99;€;5,99;;Milch und Milchprodukte/Weichkäse
+6251;;Cannelloni mit Fleischfüllung, zubereitet;Kurzbeschreibung;375;g ;0,99;€;0,5;;Gerichte/Italienische Gerichte
+6252;;Cannelloni mit Spinat-Ricotta-Füllung, zubereitet;Kurzbeschreibung;120;g ;0,69;€;0,58;;Gerichte/Italienische Gerichte
+6253;;Cappuccino (ohne Schokoladenpulver), ungezuckert;Kurzbeschreibung;100;g ;1,49;€;2,98;;"Milch und Milchprodukte/Milch- und Joghurtgetränke;Alkoholfreie Getränke/Kaffee"
+6254;;Capuns, zubereitet;Kurzbeschreibung;250;g ;0,69;€;1,04;;Gerichte/Sonstige salzige/rezente Gerichte
+6255;;Cashewnuss;Kurzbeschreibung;100;ml;0,79;€;0,16;;Nüsse, Samen und Ölfrüchte
+6256;;Cervelat;Kurzbeschreibung;200;ml;0,69;€;0,35;;Fleisch- und Wurstwaren/Brühwurstware
+6257;;Champignon (Konserve);Kurzbeschreibung;375;g ;1,29;€;1,29;;Gemüse/Pilze
+139;;Champignon, gedünstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;120;g ;0,69;€;0,69;;Gemüse/Pilze
+6258;;Champignon, roh;Kurzbeschreibung;100;ml;0,69;€;0,35;;Gemüse/Pilze
+6259;;Chicorée, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;250;ml;0,79;€;0,66;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6260;;Chicorée, roh;Kurzbeschreibung;100;g ;0,89;€;1,78;;Gemüse/Gemüse frisch
+6261;;Chili con carne, zubereitet;Kurzbeschreibung;200;g ;0,69;€;1,04;;Gerichte/Eintöpfe und Suppen
+6262;;Chinakohl, gedünstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;375;g ;2,49;€;0,5;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6263;;Chinakohl, roh;Kurzbeschreibung;120;g ;1,99;€;1;;Gemüse/Gemüse frisch
+6264;;Chräbeli (Anisgebäck);Kurzbeschreibung;100;g ;1,98;€;3,96;;Süssigkeiten/Guetzli
+6265;;Cicorino rot, roh;Kurzbeschreibung;250;g ;3,49;€;5,24;;Gemüse/Gemüse frisch
+6266;;Cocktailsauce, selbst zubereitet mit Rapsöl-Mayonnaise;Kurzbeschreibung;100;g ;3,49;€;0,7;;Verschiedenes/Saucen
+6267;;Colagetränk, gezuckert;Kurzbeschreibung;200;g ;2,49;€;1,25;;Alkoholfreie Getränke/Süssgetränke
+6268;;Colagetränk, mit Süssstoffen;Kurzbeschreibung;375;g ;0,98;€;0,98;;Alkoholfreie Getränke/Süssgetränke energievermindert
+6269;;Coleslaw Salat, zubereitet;Kurzbeschreibung;120;g ;0,98;€;0,98;;Gerichte/Salate
+6270;;Coppa;Kurzbeschreibung;100;g ;0,98;€;0,49;;Fleisch- und Wurstwaren/Rohwurstware
+6271;;Cordon Bleu aus Kalbsplätzli, gebraten;Kurzbeschreibung;250;g ;7,99;€;6,66;;Fleisch und Innereien/Kalb
+6272;;Cordon Bleu aus Schweinsplätzli, gebraten;Kurzbeschreibung;100;g ;1,39;€;2,78;;Fleisch und Innereien/Schwein
+6273;;Cornflakes;Kurzbeschreibung;200;g ;1,49;€;2,24;;Brote, Flocken und Frühstückscerealien/Müeslimischungen und Frühstückscerealien
+6274;;Cotechino;Kurzbeschreibung;375;g ;0,77;€;0,15;;Fleisch- und Wurstwaren/Kochwurstware
+6275;;Cotto (Fleischerzeugnis);Kurzbeschreibung;120;g ;0,39;€;0,2;;Fleisch- und Wurstwaren/Kochwurstware
+6276;;Cracker, Salzgebäck, Apérogebäck;Kurzbeschreibung;100;g ;1,1;€;1,1;;Salzige Snacks/Salzsticks und Bretzel
+6277;;Crèmeschnitte;Kurzbeschreibung;250;g ;1,1;€;1,1;;Süssigkeiten/Sonstige süsse Backwaren
+6278;;Crêpes mit Camembert, zubereitet;Kurzbeschreibung;100;g ;1,49;€;0,75;;Gerichte/Sonstige salzige/rezente Gerichte
+6279;;Crêpes mit Champignonfüllung, zubereitet;Kurzbeschreibung;200;g ;0,69;€;0,58;;Gerichte/Sonstige salzige/rezente Gerichte
+6280;;Crêpes mit Gemüsefüllung, zubereitet;Kurzbeschreibung;375;g ;0,69;€;1,38;;Gerichte/Sonstige salzige/rezente Gerichte
+6281;;Crêpes mit Nutella, zubereitet;Kurzbeschreibung;120;g ;5,99;€;8,99;;Gerichte/Sonstige süsse Gerichte
+6282;;Crêpes mit Schinken, zubereitet;Kurzbeschreibung;100;g ;0,99;€;0,2;;Gerichte/Sonstige salzige/rezente Gerichte
+6283;;Crêpes mit Speck, zubereitet;Kurzbeschreibung;250;g ;0,69;€;0,35;;Gerichte/Sonstige salzige/rezente Gerichte
+6284;;Crêpes mit Zimt und Zucker, zubereitet;Kurzbeschreibung;100;g ;1,49;€;1,49;;Gerichte/Sonstige süsse Gerichte
+6285;;Crêpes nature, zubereitet;Kurzbeschreibung;200;g ;0,69;€;0,69;;Gerichte/Sonstige salzige/rezente Gerichte
+6286;;Crevettencocktail, zubereitet;Kurzbeschreibung;375;ml;0,79;€;0,4;;Gerichte/Salate
+6287;;Dattel, getrocknet;Kurzbeschreibung;120;ml;0,69;€;0,58;;Früchte/Früchte getrocknet
+128;;Dinkelmehl, Ruch, Typ 1100;Kurzbeschreibung;100;g ;1,29;€;2,58;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+6288;;Dinkelmehl, Vollkorn, Typ 1900;Kurzbeschreibung;250;g ;0,69;€;1,04;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+6289;;Dinkelmehl, weiss, Typ 550;Kurzbeschreibung;100;g ;0,69;€;0,14;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+6290;;Distelöl;Kurzbeschreibung;200;g ;0,79;€;0,4;;Fette und Öle/Öle
+6291;;Doppelrahm, pasteurisiert;Kurzbeschreibung;375;g ;0,89;€;0,89;;"Fette und Öle/Rahm;Milch und Milchprodukte/Rahm und Butter"
+6292;;Dorsch, Filet, gedämpft (ohne Zusatz von Fett und Salz);Kurzbeschreibung;120;g ;0,69;€;0,69;;Fisch/Meeresfische
+6293;;Dorsch, roh;Kurzbeschreibung;100;ml;2,49;€;1,25;;Fisch/Meeresfische
+6294;;Dulce de Leche;Kurzbeschreibung;250;g ;1,99;€;1,66;;Süssigkeiten/Konfitüren und süsse Brotaufstriche
+6295;;Edelkastanie, roh;Kurzbeschreibung;100;g ;1,98;€;3,96;;Nüsse, Samen und Ölfrüchte
+6296;;Egli, roh;Kurzbeschreibung;200;g ;3,49;€;5,24;;Fisch/Süsswasserfische
+6297;;Eieromeletten mit Käse, zubereitet;Kurzbeschreibung;375;g ;3,49;€;0,7;;Gerichte/Sonstige salzige/rezente Gerichte
+6298;;Eieromeletten mit Schinken, zubereitet;Kurzbeschreibung;120;g ;2,49;€;1,25;;Gerichte/Sonstige salzige/rezente Gerichte
+6299;;Eieromeletten mit Speck, zubereitet;Kurzbeschreibung;100;g ;0,98;€;1,96;;Gerichte/Sonstige salzige/rezente Gerichte
+6300;;Eieromeletten, zubereitet;Kurzbeschreibung;250;g ;0,98;€;1,47;;Gerichte/Sonstige salzige/rezente Gerichte
+6301;;Eierschwamm, gedünstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;100;g ;0,98;€;0,2;;Gemüse/Pilze
+6302;;Eierschwamm, roh;Kurzbeschreibung;200;g ;7,99;€;4;;Gemüse/Pilze
+6303;;Eisbergsalat, roh;Kurzbeschreibung;375;g ;1,39;€;1,39;;Gemüse/Gemüse frisch
+6304;;Eistee, gezuckert;Kurzbeschreibung;120;g ;1,49;€;1,49;;"Alkoholfreie Getränke/Süssgetränke;Alkoholfreie Getränke/Tee"
+6305;;Emmentaler, vollfett;Kurzbeschreibung;100;g ;0,77;€;0,39;;Milch und Milchprodukte/Hartkäse
+6306;;Endivie, roh;Kurzbeschreibung;250;g ;0,39;€;0,33;;Gemüse/Gemüse frisch
+6307;;Engadiner Nusstorte;Kurzbeschreibung;100;g ;1,1;€;2,2;;Süssigkeiten/Kuchen, Torten und Cake
+6308;;Erbse (Konserve) ;Kurzbeschreibung;200;g ;1,49;€;2,24;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6309;;Erbse (Konserve), aufgewärmt (ohne Zugabe von Salz);Kurzbeschreibung;375;g ;0,69;€;0,14;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6310;;Erbse, grün, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;120;g ;0,69;€;0,35;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6311;;Erbse, grün, roh;Kurzbeschreibung;100;g ;5,99;€;5,99;;Gemüse/Gemüse frisch
+6312;;Erbse, reif, getrocknet;Kurzbeschreibung;250;g ;0,99;€;0,99;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Hülsenfrüchte
+6313;;Erbse, reif, getrocknet, gekocht (ohne Zusatz von Fett und Salz);Kurzbeschreibung;100;g ;0,69;€;0,35;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Hülsenfrüchte
+6314;;Erbsen und Karotten (Konserve);Kurzbeschreibung;200;g ;1,49;€;1,24;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6315;;Erbsen und Karotten (Konserve), aufgewärmt (ohne Zugabe von Salz);Kurzbeschreibung;375;g ;0,69;€;1,38;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6316;;Erdbeere, roh;Kurzbeschreibung;120;g ;0,79;€;1,19;;Früchte/Früchte frisch
+6317;;Erdnuss;Kurzbeschreibung;100;g ;0,69;€;0,14;;Nüsse, Samen und Ölfrüchte
+6318;;Erdnuss-Flips;Kurzbeschreibung;250;g ;1,29;€;0,65;;Salzige Snacks/Chips
+6319;;Erdnuss, geröstet;Kurzbeschreibung;100;g ;0,69;€;0,69;;Nüsse, Samen und Ölfrüchte
+6320;;Erdnussbutter;Kurzbeschreibung;200;g ;0,69;€;0,69;;Süssigkeiten/Konfitüren und süsse Brotaufstriche
+6321;;Erdnussöl;Kurzbeschreibung;375;g ;0,79;€;0,4;;Fette und Öle/Öle
+6322;;Espresso crème, ungezuckert;Kurzbeschreibung;120;g ;0,89;€;0,74;;Alkoholfreie Getränke/Kaffee
+6323;;Essig;Kurzbeschreibung;100;ml;0,69;€;1,38;;Verschiedenes/Salz, Gewürze und Aromen
+6324;;Essig-Öl-Salatsauce (mit Rapsöl);Kurzbeschreibung;250;ml;2,49;€;3,74;;Fette und Öle/Salatsaucen
+6325;;Feige, getrocknet;Kurzbeschreibung;100;ml;1,99;€;0,4;;Früchte/Früchte getrocknet
+6326;;Feige, roh;Kurzbeschreibung;200;g ;1,98;€;0,99;;Früchte/Früchte frisch
+6327;;Felche, roh;Kurzbeschreibung;375;g ;3,49;€;3,49;;Fisch/Süsswasserfische
+6328;;Fenchel, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;120;g ;3,49;€;3,49;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6329;;Fenchel, roh;Kurzbeschreibung;100;g ;2,49;€;1,25;;Gemüse/Gemüse frisch
+6330;;Fisch (Durchschnitt), Filet, gedämpft (ohne Zusatz von Fett und Salz);Kurzbeschreibung;250;g ;0,98;€;0,82;;Fisch
+6331;;Fisch (Durchschnitt), roh ;Kurzbeschreibung;100;g ;0,98;€;1,96;;"Fisch/Süsswasserfische;Fisch/Meeresfische"
+6332;;Fischstäbchen (paniert und vorfritiert), gebraten in HOLL-Rapsöl;Kurzbeschreibung;200;g ;0,98;€;1,47;;Fisch/Meeresfische
+6333;;Fischstäbchen (paniert und vorfritiert), im Ofen gebacken (ohne Zugabe von Fett);Kurzbeschreibung;375;g ;7,99;€;1,6;;Fisch/Meeresfische
+6334;;Fischstäbchen, paniert und vorfritiert;Kurzbeschreibung;120;g ;1,39;€;0,7;;Fisch/Meeresfische
+6335;;Flammenkuchen, gebacken;Kurzbeschreibung;100;g ;1,49;€;1,49;;Gerichte/Kuchen und Gratins
+6336;;Fleisch (Durchschnitt exkl. Innereien), roh ;Kurzbeschreibung;250;g ;0,77;€;0,39;;"Fleisch und Innereien/Kalb;Fleisch und Innereien/Geflügel;Fleisch und Innereien/Lamm, Schaf;Fleisch und Innereien/Rind;Fleisch und Innereien/Schwein;Fleisch und Innereien/Wild"
+6337;;Fleischkäse;Kurzbeschreibung;100;g ;0,39;€;0,33;;Fleisch- und Wurstwaren/Brühwurstware
+6338;;Fleischlasagne, zubereitet;Kurzbeschreibung;200;g ;1,1;€;2,2;;Gerichte/Italienische Gerichte
+6339;;Flunder, Filet, gedämpft (ohne Zusatz von Fett und Salz);Kurzbeschreibung;375;g ;1,49;€;2,24;;Fisch/Meeresfische
+6340;;Flunder, roh;Kurzbeschreibung;120;g ;0,69;€;0,14;;Fisch/Meeresfische
+6341;;Fondue alkoholfrei, zubereitet;Kurzbeschreibung;100;g ;0,69;€;0,35;;Gerichte/Sonstige salzige/rezente Gerichte
+6342;;Fondue klassisch, zubereitet;Kurzbeschreibung;250;g ;5,99;€;5,99;;Gerichte/Sonstige salzige/rezente Gerichte
+6343;;Fondue moitié-moitié, zubereitet;Kurzbeschreibung;100;g ;0,99;€;0,99;;Gerichte/Sonstige salzige/rezente Gerichte
+6344;;Forelle, ganz, gekocht (ohne Zusatz von Fett und Salz);Kurzbeschreibung;200;g ;0,69;€;0,35;;Fisch/Süsswasserfische
+6345;;Forelle, roh;Kurzbeschreibung;375;g ;1,49;€;1,24;;Fisch/Süsswasserfische
+6346;;Fotzelschnitte ungezuckert;Kurzbeschreibung;120;g ;0,69;€;1,38;;Gerichte/Sonstige süsse Gerichte
+6347;;Freiburger Vacherin;Kurzbeschreibung;100;g ;0,79;€;1,19;;Milch und Milchprodukte/Hartkäse
+6348;;Frischkäse, Doppelrahm;Kurzbeschreibung;250;g ;0,69;€;0,14;;Milch und Milchprodukte/Frischkäse und Quark
+6349;;Früchte (Durchschnitt), gekocht (ohne Zugabe von Zucker);Kurzbeschreibung;100;g ;1,29;€;0,65;;Früchte/Früchte gekocht (inkl. Konserven)
+6350;;Früchte (Durchschnitt), getrocknet;Kurzbeschreibung;200;g ;0,69;€;1,38;;Früchte/Früchte getrocknet
+6351;;Früchte (Durchschnitt), roh;Kurzbeschreibung;375;g ;0,69;€;1,04;;Früchte/Früchte frisch
+6352;;Fruchtsaft-Schorle (Durchschnitt, 60% Saft - 40% Wasser), ungezuckert;Kurzbeschreibung;120;g ;0,79;€;0,16;;Alkoholfreie Getränke/Frucht- und Gemüsesäfte
+6353;;Fruchtsaft (Durchschnitt), ungezuckert;Kurzbeschreibung;100;g ;0,89;€;0,45;;"Früchte/Fruchtsäfte;Alkoholfreie Getränke/Frucht- und Gemüsesäfte"
+6354;;Fruchtsalat, gezuckert (Konserve);Kurzbeschreibung;250;ml;0,69;€;0,69;;Früchte/Früchte gekocht (inkl. Konserven)
+6355;;Fruchtsalat, ungezuckert (Konserve);Kurzbeschreibung;100;g ;2,49;€;2,49;;Früchte/Früchte gekocht (inkl. Konserven)
+6356;;Fruchtwähe/-kuchen (Durchschnitt);Kurzbeschreibung;200;g ;1,99;€;1;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+6357;;Fruchtwähe/-kuchen mit Blätterteig (Durchschnitt);Kurzbeschreibung;375;g ;1,98;€;1,65;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+6358;;Fruchtwähe/-kuchen mit Kuchenteig (Durchschnitt);Kurzbeschreibung;120;ml;3,49;€;6,98;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+136;;Fruchtwähe/-kuchen mit süssem Mürbeteig (Durchschnitt);Kurzbeschreibung;100;g ;3,49;€;5,24;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+6359;;Fünfkornbier;Kurzbeschreibung;250;ml;2,49;€;0,5;;Alkoholhaltige Getränke/Bier
+6360;;Garnele, gekocht;Kurzbeschreibung;100;g ;0,98;€;0,49;;Fisch/Meeresfrüchte, Krusten- und Schalentiere
+6361;;Garnele, roh;Kurzbeschreibung;200;g ;0,98;€;0,98;;Fisch/Meeresfrüchte, Krusten- und Schalentiere
+6362;;Geflügelfleisch (Durchschnitt exkl. Innereien), roh;Kurzbeschreibung;375;ml;0,98;€;0,98;;Fleisch und Innereien/Geflügel
+6363;;Geflügelfleisch mit Haut (Durchschnitt), roh;Kurzbeschreibung;120;ml;7,99;€;4;;Fleisch und Innereien/Geflügel
+111;;Geflügelfleisch ohne Haut (Durchschnitt exkl. Innereien), roh;Kurzbeschreibung;100;ml;1,39;€;1,16;;Fleisch und Innereien/Geflügel
+6364;;Geflügellyoner;Kurzbeschreibung;250;ml;1,49;€;2,98;;Fleisch- und Wurstwaren/Brühwurstware
+112;;Gehacktes (Durchschnitt aus Rind, Kalb, Schwein, Poulet), gebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;100;ml;0,77;€;1,16;;Fleisch und Innereien
+6365;;Gehacktes (Durchschnitt aus Rind, Kalb, Schwein, Poulet), roh;Kurzbeschreibung;200;ml;0,39;€;0,08;;"Fleisch und Innereien/Kalb;Fleisch und Innereien/Rind;Fleisch und Innereien/Schwein;Fleisch und Innereien/Geflügel"
+6366;;Gemüse (Durchschnitt), roh;Kurzbeschreibung;375;ml;1,1;€;0,55;;Gemüse/Gemüse frisch
+110;;Gemüsegratin, gebacken;Kurzbeschreibung;120;ml;1,49;€;1,49;;Gerichte/Kuchen und Gratins
+6367;;Gemüselasagne, zubereitet;Kurzbeschreibung;100;ml;0,69;€;0,69;;Gerichte/Italienische Gerichte
+6368;;Gerstenflocken;Kurzbeschreibung;250;ml;0,69;€;0,35;;Brote, Flocken und Frühstückscerealien/Flocken, Kleie und Keime
+6369;;Gerstenflocken, Vollkorn;Kurzbeschreibung;100;ml;5,99;€;4,99;;Brote, Flocken und Frühstückscerealien/Flocken, Kleie und Keime
+6371;;Gerstotto, gekocht;Kurzbeschreibung;200;g ;0,99;€;1,98;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Sonstige Getreideprodukte
+6370;;Geschnetzeltes (Durchschnitt aus Rind, Kalb, Schwein, Geflügel), gebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;375;g ;0,69;€;1,04;;Fleisch und Innereien
+6372;;Geschnetzeltes (Durchschnitt aus Rind, Kalb, Schwein, Geflügel), roh;Kurzbeschreibung;120;ml;1,49;€;0,3;;"Fleisch und Innereien/Kalb;Fleisch und Innereien/Schwein;Fleisch und Innereien/Rind;Fleisch und Innereien/Geflügel"
+138;;Getreideflocken (Durchschnitt);Kurzbeschreibung;100;g ;0,69;€;0,35;;Brote, Flocken und Frühstückscerealien/Flocken, Kleie und Keime
+6373;;Gipfeli (Durchschnitt);Kurzbeschreibung;250;g ;0,79;€;0,79;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+6374;;Glarner Schabziger;Kurzbeschreibung;100;g ;0,69;€;0,69;;Milch und Milchprodukte/Frischkäse und Quark
+6375;;Gorgonzola;Kurzbeschreibung;200;g ;1,29;€;0,65;;Milch und Milchprodukte/Hartkäse
+6376;;Grapefruit, roh;Kurzbeschreibung;375;g ;0,69;€;0,58;;Früchte/Früchte frisch
+6377;;Greyerzer, vollfett;Kurzbeschreibung;120;g ;0,69;€;1,38;;Milch und Milchprodukte/Hartkäse
+6378;;Griessbrei, zubereitet (mit teilentrahmter Milch);Kurzbeschreibung;100;g ;0,79;€;1,19;;Süssigkeiten/Cremen und Pudding
+6379;;Griessbrei, zubereitet (mit Vollmilch);Kurzbeschreibung;250;g ;0,89;€;0,18;;Süssigkeiten/Cremen und Pudding
+6380;;Griessschnitte, zubereitet (mit teilentrahmter Milch);Kurzbeschreibung;100;g ;0,69;€;0,35;;Gerichte/Sonstige salzige/rezente Gerichte
+6381;;Griessschnitte, zubereitet (mit Vollmilch);Kurzbeschreibung;200;ml;2,49;€;4,98;;Gerichte/Sonstige salzige/rezente Gerichte
+6382;;Grittibänz;Kurzbeschreibung;375;ml;1,99;€;2,99;;Süssigkeiten/Sonstige süsse Backwaren
+131;;Gugelhopf Grossmutter Art;Kurzbeschreibung;120;g ;1,98;€;0,4;;Süssigkeiten/Kuchen, Torten und Cake
+6383;;Gulaschsuppe;Kurzbeschreibung;100;ml;3,49;€;1,75;;Gerichte/Eintöpfe und Suppen
+6384;;Gummibonbon mit Fruchtessenz;Kurzbeschreibung;250;g ;3,49;€;3,49;;Süssigkeiten/Bonbons, Frucht- und Kaugummi
+6390;;Gurke, in Essig eingelegt;Kurzbeschreibung;100;g ;2,49;€;2,49;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6385;;Gurke, roh;Kurzbeschreibung;200;g ;0,98;€;0,49;;Gemüse/Gemüse frisch
+6386;;Hackbraten, im Ofen gebacken;Kurzbeschreibung;375;g ;0,98;€;0,82;;Gerichte/Sonstige salzige/rezente Gerichte
+6387;;Hackplätzli (Rind), gebraten in Rapsöl HOLL;Kurzbeschreibung;120;g ;0,98;€;1,96;;Fleisch und Innereien/Rind
+6388;;Haferbrei, zubereitet (mit teilentrahmter Milch);Kurzbeschreibung;100;g ;7,99;€;11,99;;Süssigkeiten/Cremen und Pudding
+6389;;Haferbrei, zubereitet (mit Vollmilch);Kurzbeschreibung;250;g ;1,39;€;0,28;;Süssigkeiten/Cremen und Pudding
+6391;;Haferflocken;Kurzbeschreibung;100;g ;1,49;€;0,75;;Brote, Flocken und Frühstückscerealien/Flocken, Kleie und Keime
+6392;;Haferkleie;Kurzbeschreibung;200;g ;0,77;€;0,77;;Brote, Flocken und Frühstückscerealien/Flocken, Kleie und Keime
+6393;;Halbfettbutter;Kurzbeschreibung;375;g ;0,39;€;0,39;;"Fette und Öle/Fette;Milch und Milchprodukte/Rahm und Butter"
+6394;;Halbrahm, pasteurisiert;Kurzbeschreibung;120;g ;1,49;€;0,75;;"Fette und Öle/Rahm;Milch und Milchprodukte/Rahm und Butter"
+6395;;Halbrahm, UHT;Kurzbeschreibung;100;ml;0,69;€;0,58;;"Fette und Öle/Rahm;Milch und Milchprodukte/Rahm und Butter"
+6397;;Halbweissbrot;Kurzbeschreibung;250;ml;0,69;€;1,38;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+6396;;Hart- und Halbhartkäse, vollfett (Durchschnitt);Kurzbeschreibung;100;g ;5,99;€;8,99;;Milch und Milchprodukte/Hartkäse
+6398;;Hartkaramellen, Hartbonbons;Kurzbeschreibung;200;g ;0,99;€;0,2;;Süssigkeiten/Bonbons, Frucht- und Kaugummi
+6399;;Hartweizengriess, trocken;Kurzbeschreibung;375;g ;0,69;€;0,35;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Sonstige Getreideprodukte
+6400;;Hase (Durchschnitt), roh;Kurzbeschreibung;120;g ;1,49;€;1,49;;Fleisch und Innereien/Sonstige Tierarten
+6401;;Haselnuss;Kurzbeschreibung;100;g ;0,69;€;0,69;;Nüsse, Samen und Ölfrüchte
+6402;;Haselnuss-Schokolade-Brotaufstrich;Kurzbeschreibung;250;g ;0,79;€;0,4;;Süssigkeiten/Konfitüren und süsse Brotaufstriche
+5118;;Haselnusskekse;Kurzbeschreibung;100;g ;0,69;€;0,58;;Süssigkeiten/Guetzli
+6403;;Haselnussmakrone;Kurzbeschreibung;200;g ;1,29;€;2,58;;Süssigkeiten/Guetzli
+6404;;Haselnussstängeli;Kurzbeschreibung;375;g ;0,69;€;1,04;;Süssigkeiten/Guetzli
+6405;;Hecht, roh;Kurzbeschreibung;120;g ;0,69;€;0,14;;Fisch/Süsswasserfische
+6406;;Hefeteig (mit Butter), süss, ungebacken;Kurzbeschreibung;100;g ;0,79;€;0,4;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teige
+6407;;Hefeteig (mit pflanzlichem Fett), süss, ungebacken;Kurzbeschreibung;250;g ;0,89;€;0,89;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teige
+6408;;Heidelbeere, roh;Kurzbeschreibung;100;g ;0,69;€;0,69;;Früchte/Früchte frisch
+6409;;Heilbutt, roh;Kurzbeschreibung;200;g ;2,49;€;1,25;;Fisch/Meeresfische
+5119;;Himbeere, roh;Kurzbeschreibung;375;g ;1,99;€;1,66;;Früchte/Früchte frisch
+6410;;Hinterschinken;Kurzbeschreibung;120;g ;1,98;€;3,96;;Fleisch- und Wurstwaren/Kochwurstware
+6411;;Hirsch (Durchschnitt), roh;Kurzbeschreibung;100;g ;3,49;€;5,24;;Fleisch und Innereien/Wild
+6412;;Hirsch, Entrecôte, roh;Kurzbeschreibung;250;g ;3,49;€;0,7;;Fleisch und Innereien/Wild
+6413;;Hirse, Korn geschält;Kurzbeschreibung;100;g ;2,49;€;1,25;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Sonstige Getreideprodukte
+6414;;Hirseflocken, Vollkorn;Kurzbeschreibung;200;g ;0,98;€;1,96;;Brote, Flocken und Frühstückscerealien/Flocken, Kleie und Keime
+6415;;Hirsotto, gekocht;Kurzbeschreibung;375;g ;0,98;€;1,47;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Sonstige Getreideprodukte
+6416;;Hollandaisesauce;Kurzbeschreibung;120;g ;0,98;€;0,2;;Verschiedenes/Saucen
+120;;Holunderbeere, schwarz, roh;Kurzbeschreibung;100;ml;7,99;€;4;;Früchte/Früchte frisch
+6417;;Honig (Blütenhonig);Kurzbeschreibung;250;g ;1,39;€;1,39;;Süssigkeiten/Konfitüren und süsse Brotaufstriche
+6418;;Honigmelone, roh;Kurzbeschreibung;100;g ;1,49;€;1,49;;Früchte/Früchte frisch
+6419;;Hot Dog in Weissbrot mit Ketchup und Senf;Kurzbeschreibung;200;g ;0,77;€;0,39;;Gerichte/Sonstige salzige/rezente Gerichte
+6420;;Hühnerei, ganz, festgekocht;Kurzbeschreibung;375;g ;0,39;€;0,33;;Eier
+6421;;Hühnerei, ganz, roh;Kurzbeschreibung;120;g ;1,1;€;2,2;;Eier
+6422;;Hühnereigelb, roh (Eidotter);Kurzbeschreibung;100;g ;1,49;€;2,24;;Eier
+6423;;Hühnereiweiss, roh (Eiklar);Kurzbeschreibung;250;g ;0,69;€;0,14;;Eier
+6424;;Hülsenfrüchte (Durchschnitt), gekocht (ohne Zugabe von Fett und Salz);Kurzbeschreibung;100;g ;0,69;€;0,35;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Hülsenfrüchte
+6425;;Hülsenfrüchte (Durchschnitt), getrocknet;Kurzbeschreibung;200;g ;5,99;€;5,99;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Hülsenfrüchte
+6426;;Hüttenkäse, nature;Kurzbeschreibung;375;g ;0,99;€;0,99;;Milch und Milchprodukte/Frischkäse und Quark
+6427;;Instant-Kartoffelstock, zubereitet (mit Wasser und Butter);Kurzbeschreibung;120;g ;0,69;€;0,35;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Kartoffeln
+6428;;Jägersauce;Kurzbeschreibung;100;g ;1,49;€;1,24;;Verschiedenes/Saucen
+6429;;Joghurt-Salatsauce (ohne Öl);Kurzbeschreibung;250;g ;0,69;€;1,38;;Fette und Öle/Salatsaucen
+6430;;Joghurt Bifidus, nature;Kurzbeschreibung;100;g ;0,79;€;1,19;;Milch und Milchprodukte/Joghurt und Sauermilch
+6431;;Joghurt gezuckert (Durchschnitt);Kurzbeschreibung;200;g ;0,69;€;0,14;;Milch und Milchprodukte/Joghurt und Sauermilch
+6432;;Joghurt mit Aroma, mager, mit Süssstoffen;Kurzbeschreibung;375;g ;1,29;€;0,65;;Milch und Milchprodukte/Joghurt und Sauermilch
+6433;;Joghurt mit Früchten, mager, mit Süssstoffen;Kurzbeschreibung;120;g ;0,69;€;0,69;;Milch und Milchprodukte/Joghurt und Sauermilch
+6434;;Joghurt, Erdbeer;Kurzbeschreibung;100;g ;0,69;€;0,69;;Milch und Milchprodukte/Joghurt und Sauermilch
+6435;;Joghurt, Haselnuss;Kurzbeschreibung;250;g ;0,79;€;0,4;;Milch und Milchprodukte/Joghurt und Sauermilch
+6436;;Joghurt, Mokka;Kurzbeschreibung;100;g ;0,89;€;0,74;;Milch und Milchprodukte/Joghurt und Sauermilch
+6437;;Joghurt, Mokka, Bio;Kurzbeschreibung;200;g ;0,69;€;1,38;;Milch und Milchprodukte/Joghurt und Sauermilch
+6438;;Joghurt, nature;Kurzbeschreibung;375;g ;2,49;€;3,74;;Milch und Milchprodukte/Joghurt und Sauermilch
+6439;;Joghurt, nature, mager;Kurzbeschreibung;120;g ;1,99;€;0,4;;Milch und Milchprodukte/Joghurt und Sauermilch
+6440;;Joghurt, Schokolade;Kurzbeschreibung;100;g ;1,98;€;0,99;;Milch und Milchprodukte/Joghurt und Sauermilch
+6441;;Joghurt, Vanille;Kurzbeschreibung;250;g ;3,49;€;3,49;;Milch und Milchprodukte/Joghurt und Sauermilch
+6442;;Johannisbeere, rot, roh;Kurzbeschreibung;100;g ;3,49;€;3,49;;Früchte/Früchte frisch
+6443;;Johannisbeere, schwarz, roh;Kurzbeschreibung;200;g ;2,49;€;1,25;;Früchte/Früchte frisch
+6444;;Johannisbeerkuchen, gebacken (mit Blätterteig);Kurzbeschreibung;375;g ;0,98;€;0,82;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+6445;;Johannisbeerkuchen, gebacken (mit Kuchenteig);Kurzbeschreibung;120;g ;0,98;€;1,96;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+6446;;Johannisbeerkuchen, gebacken (mit süssem Mürbeteig);Kurzbeschreibung;100;g ;0,98;€;1,47;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+6447;;Kaffee löslich, Pulver;Kurzbeschreibung;250;ml;7,99;€;1,6;;Alkoholfreie Getränke/Kaffee
+6448;;Kaffee, schwarz, ungezuckert;Kurzbeschreibung;100;g ;1,39;€;0,7;;Alkoholfreie Getränke/Kaffee
+6449;;Kaffeerahm;Kurzbeschreibung;200;g ;1,49;€;1,49;;"Fette und Öle/Rahm;Milch und Milchprodukte/Rahm und Butter"
+6450;;Kakaopulver;Kurzbeschreibung;375;g ;0,77;€;0,39;;"Süssigkeiten/Schokolade und Kakaoerzeugnisse;Alkoholfreie Getränke/Kakaogetränke"
+6451;;Kaki, roh;Kurzbeschreibung;120;g ;0,39;€;0,33;;Früchte/Früchte frisch
+6452;;Kalb, Brust, gekocht (ohne Zugabe von Fett und Salz);Kurzbeschreibung;100;g ;1,1;€;2,2;;Fleisch und Innereien/Kalb
+6453;;Kalb, Brust, roh;Kurzbeschreibung;250;g ;1,49;€;2,24;;Fleisch und Innereien/Kalb
+6454;;Kalb, Eckstück, roh;Kurzbeschreibung;100;g ;0,69;€;0,14;;Fleisch und Innereien/Kalb
+6455;;Kalb, Filet, roh;Kurzbeschreibung;200;g ;0,69;€;0,35;;Fleisch und Innereien/Kalb
+6456;;Kalb, Gehacktes, roh;Kurzbeschreibung;375;g ;5,99;€;5,99;;Fleisch und Innereien/Kalb
+6457;;Kalb, Geschnetzeltes, gebraten (ohne Zugabe von Fett und Salz);Kurzbeschreibung;120;g ;0,99;€;0,99;;Fleisch und Innereien/Kalb
+6458;;Kalb, Geschnetzeltes, roh;Kurzbeschreibung;100;g ;0,69;€;0,35;;Fleisch und Innereien/Kalb
+6459;;Kalb, Haxe, geschmort (ohne Zugabe von Fett und Salz);Kurzbeschreibung;250;g ;1,49;€;1,24;;Fleisch und Innereien/Kalb
+6460;;Kalb, Haxe, roh;Kurzbeschreibung;100;g ;0,69;€;1,38;;Fleisch und Innereien/Kalb
+6461;;Kalb, Kotelett, roh;Kurzbeschreibung;200;g ;0,79;€;1,19;;Fleisch und Innereien/Kalb
+6462;;Kalb, Leber, roh;Kurzbeschreibung;375;g ;0,69;€;0,14;;Fleisch und Innereien/Kalb
+6463;;Kalb, Milken, roh;Kurzbeschreibung;120;g ;1,29;€;0,65;;Fleisch und Innereien/Kalb
+6464;;Kalb, Niere, roh;Kurzbeschreibung;100;ml;0,69;€;1,38;;Fleisch und Innereien/Kalb
+6465;;Kalb, Nierstück, Steak, gebraten (ohne Zugabe von Fett und Salz);Kurzbeschreibung;250;ml;0,69;€;1,04;;Fleisch und Innereien/Kalb
+6466;;Kalb, Nierstück, Steak, roh;Kurzbeschreibung;100;ml;0,79;€;0,16;;Fleisch und Innereien/Kalb
+119;;Kalb, Runder Mocken, roh;Kurzbeschreibung;200;ml;0,89;€;0,45;;Fleisch und Innereien/Kalb
+6467;;Kalb, Schulter, Braten, im Ofen gebraten (ohne Zugabe von Fett und Salz);Kurzbeschreibung;375;ml;0,69;€;0,69;;Fleisch und Innereien/Kalb
+6468;;Kalb, Schulter, Braten, roh;Kurzbeschreibung;120;g ;2,49;€;2,49;;Fleisch und Innereien/Kalb
+6469;;Kalb, Voressen, roh;Kurzbeschreibung;100;g ;1,99;€;1;;Fleisch und Innereien/Kalb
+6470;;Kalb, Zunge, roh;Kurzbeschreibung;250;g ;1,98;€;1,65;;Fleisch und Innereien/Kalb
+6471;;Kalbfleisch (Durchschnitt exkl. Innereien, Kotelett), roh;Kurzbeschreibung;100;g ;3,49;€;6,98;;Fleisch und Innereien/Kalb
+6472;;Kalbsbratwurst;Kurzbeschreibung;200;g ;3,49;€;5,24;;Fleisch- und Wurstwaren/Brühwurstware
+6473;;Kalbspiccata, zubereitet;Kurzbeschreibung;375;g ;2,49;€;0,5;;Gerichte/Sonstige salzige/rezente Gerichte
+6474;;Kalbsplätzli, gebraten (ohne Zugabe von Fett und Salz);Kurzbeschreibung;120;g ;0,98;€;0,49;;Fleisch und Innereien/Kalb
+6475;;Kalbsplätzli, gebraten in HOLL-Rapsöl;Kurzbeschreibung;100;g ;0,98;€;0,98;;Fleisch und Innereien/Kalb
+6476;;Kalbsragout mit Sauce, zubereitet;Kurzbeschreibung;250;g ;0,98;€;0,98;;Gerichte/Sonstige salzige/rezente Gerichte
+6477;;Kalmar, roh;Kurzbeschreibung;100;g ;7,99;€;4;;Fisch/Meeresfrüchte, Krusten- und Schalentiere
+6478;;Kaninchen (Durchschnitt), gekocht (ohne Zusatz von Fett und Salz);Kurzbeschreibung;200;g ;1,39;€;1,16;;Fleisch und Innereien/Sonstige Tierarten
+6479;;Kaninchen (Durchschnitt), roh;Kurzbeschreibung;375;g ;1,49;€;2,98;;Fleisch und Innereien/Sonstige Tierarten
+6480;;Kaninchen, Filet, roh;Kurzbeschreibung;120;g ;0,77;€;1,16;;Fleisch und Innereien/Sonstige Tierarten
+6481;;Karotte, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;100;g ;0,39;€;0,08;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6482;;Karotte, roh;Kurzbeschreibung;250;g ;1,1;€;0,55;;Gemüse/Gemüse frisch
+6483;;Karottensaft;Kurzbeschreibung;100;g ;1,49;€;1,49;;"Alkoholfreie Getränke/Frucht- und Gemüsesäfte;Gemüse/Gemüsesäfte"
+6484;;Kartoffel, geschält, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;200;g ;0,69;€;0,69;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Kartoffeln
+6486;;Kartoffel, geschält, roh;Kurzbeschreibung;375;ml;0,69;€;0,35;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Kartoffeln
+6487;;Kartoffelflocken, mit Milchpulver und Salz (Instant-Kartoffelstock);Kurzbeschreibung;120;ml;5,99;€;4,99;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Kartoffeln
+6485;;Kartoffelgratin dauphinois, zubereitet;Kurzbeschreibung;100;ml;0,99;€;1,98;;Gerichte/Kuchen und Gratins
+6488;;Kartoffelgratin Savoyer Art, zubereitet;Kurzbeschreibung;250;ml;0,69;€;1,04;;Gerichte/Kuchen und Gratins
+6489;;Kartoffelsalat mit Essig-Öl-Sauce;Kurzbeschreibung;100;ml;1,49;€;0,3;;Gerichte/Salate
+6490;;Kartoffelsalat mit Mayonnaise-Joghurt-Sauce;Kurzbeschreibung;200;ml;0,69;€;0,35;;Gerichte/Salate
+6491;;Kartoffelstärke;Kurzbeschreibung;375;ml;0,79;€;0,79;;"Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke;Verschiedenes/Gelier- und Bindemittel"
+6492;;Kartoffelstock, zubereitet (mit Rahm und Butter);Kurzbeschreibung;120;ml;0,69;€;0,69;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Kartoffeln
+6493;;Kartoffelstock, zubereitet (mit teilentrahmter Milch und Butter);Kurzbeschreibung;100;g ;1,29;€;0,65;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Kartoffeln
+6494;;Kartoffelstock, zubereitet (mit Vollmilch und Butter);Kurzbeschreibung;250;ml;0,69;€;0,58;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Kartoffeln
+6495;;Käse in Salzlake (Kuhmilch);Kurzbeschreibung;100;g ;0,69;€;1,38;;"Milch und Milchprodukte/Frischkäse und Quark;Milch und Milchprodukte/Weichkäse"
+6496;;Käse in Salzlake (Schaf- und Ziegenmilch);Kurzbeschreibung;200;g ;0,79;€;1,19;;"Milch und Milchprodukte/Frischkäse und Quark;Milch und Milchprodukte/Weichkäse"
+6497;;Käsekuchen, gebacken (mit Blätterteig);Kurzbeschreibung;375;g ;0,89;€;0,18;;Gerichte/Kuchen und Gratins
+6498;;Käsekuchen, gebacken (mit Kuchenteig);Kurzbeschreibung;120;ml;0,69;€;0,35;;Gerichte/Kuchen und Gratins
+6499;;Käsereibutter;Kurzbeschreibung;100;g ;2,49;€;4,98;;"Fette und Öle/Fette;Milch und Milchprodukte/Rahm und Butter"
+6500;;Käseschnitte, zubereitet;Kurzbeschreibung;250;g ;1,99;€;2,99;;Gerichte/Sonstige salzige/rezente Gerichte
+6501;;Kebab im Fladenbrot;Kurzbeschreibung;100;g ;1,98;€;0,4;;Gerichte/Sandwiches
+6502;;Kefe, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;200;g ;3,49;€;1,75;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6503;;Kefe, roh;Kurzbeschreibung;375;g ;3,49;€;3,49;;Gemüse/Gemüse frisch
+6504;;Ketchup;Kurzbeschreibung;120;g ;2,49;€;2,49;;Verschiedenes/Saucen
+6505;;Kichererbse, gekocht (ohne Zugabe von Fett und Salz);Kurzbeschreibung;100;g ;0,98;€;0,49;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Hülsenfrüchte
+6506;;Kichererbse, getrocknet;Kurzbeschreibung;250;g ;0,98;€;0,82;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Hülsenfrüchte
+6507;;Kirsch;Kurzbeschreibung;100;g ;0,98;€;1,96;;Alkoholhaltige Getränke/Spirituosen
+6508;;Kirsche, gedünstet, abgetropft (ohne Zugabe von Zucker);Kurzbeschreibung;200;ml;7,99;€;11,99;;Früchte/Früchte gekocht (inkl. Konserven)
+6509;;Kirsche, roh;Kurzbeschreibung;375;g ;1,39;€;0,28;;Früchte/Früchte frisch
+6510;;Kirschenkuchen, gebacken (mit Blätterteig);Kurzbeschreibung;120;g ;1,49;€;0,75;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+6511;;Kirschenkuchen, gebacken (mit Kuchenteig);Kurzbeschreibung;100;g ;0,77;€;0,77;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+6512;;Kiwi, roh;Kurzbeschreibung;250;g ;0,39;€;0,39;;Früchte/Früchte frisch
+6513;;Knäckebrot, Vollkorn;Kurzbeschreibung;100;g ;1,49;€;0,75;;Brote, Flocken und Frühstückscerealien/Knäckebrote, Zwieback, Crackers und Waffeln
+6514;;Knäckebrot, Vollkorn mit Leinsamen;Kurzbeschreibung;200;g ;0,69;€;0,58;;Brote, Flocken und Frühstückscerealien/Knäckebrote, Zwieback, Crackers und Waffeln
+6515;;Knäckebrot, Vollkorn mit Sesam;Kurzbeschreibung;375;g ;0,69;€;1,38;;Brote, Flocken und Frühstückscerealien/Knäckebrote, Zwieback, Crackers und Waffeln
+6516;;Knoblauch, roh;Kurzbeschreibung;120;g ;5,99;€;8,99;;Gemüse/Gemüse frisch
+6517;;Knollensellerie, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;100;g ;0,99;€;0,2;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6518;;Knollensellerie, roh;Kurzbeschreibung;250;g ;0,69;€;0,35;;Gemüse/Gemüse frisch
+6519;;Knöpflimehl;Kurzbeschreibung;100;g ;1,49;€;1,49;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+6520;;Kochbutter;Kurzbeschreibung;200;g ;0,69;€;0,69;;"Fette und Öle/Fette;Milch und Milchprodukte/Rahm und Butter"
+6521;;Kochpökelware (Durchschnitt);Kurzbeschreibung;375;g ;0,79;€;0,4;;Fleisch- und Wurstwaren/Kochwurstware
+6522;;Kochsalz mit Jod;Kurzbeschreibung;120;g ;0,69;€;0,58;;Verschiedenes/Salz, Gewürze und Aromen
+6523;;Kochsalz mit Jod und Fluor;Kurzbeschreibung;100;g ;1,29;€;2,58;;Verschiedenes/Salz, Gewürze und Aromen
+6524;;Kochsalz ohne Jod und Fluor;Kurzbeschreibung;250;g ;0,69;€;1,04;;Verschiedenes/Salz, Gewürze und Aromen
+6525;;Kochspeck;Kurzbeschreibung;100;g ;0,69;€;0,14;;Fleisch- und Wurstwaren/Rohwurstware
+6526;;Kochwürste (Durchschnitt);Kurzbeschreibung;200;g ;0,79;€;0,4;;Fleisch- und Wurstwaren/Kochwurstware
+6527;;Kohlgemüse (Durchschnitt), gekocht (ohne Zugabe von Salz und Fett);Kurzbeschreibung;375;g ;0,89;€;0,89;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6528;;Kohlgemüse (Durchschnitt), roh;Kurzbeschreibung;120;g ;0,69;€;0,69;;Gemüse/Gemüse frisch
+6529;;Kohlrabi, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;100;g ;2,49;€;1,25;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6530;;Kohlrabi, roh;Kurzbeschreibung;250;g ;1,99;€;1,66;;Gemüse/Gemüse frisch
+6531;;Kokosfett;Kurzbeschreibung;100;g ;1,98;€;3,96;;Fette und Öle/Fette
+6532;;Kokosmakronen;Kurzbeschreibung;200;g ;3,49;€;5,24;;Süssigkeiten/Guetzli
+6533;;Kokosnuss;Kurzbeschreibung;375;g ;3,49;€;0,7;;Nüsse, Samen und Ölfrüchte
+6534;;Kokosnuss, getrocknet (Kokosrapseln, Kokosflocken);Kurzbeschreibung;120;g ;2,49;€;1,25;;Nüsse, Samen und Ölfrüchte
+6535;;Kondensmilch, gezuckert;Kurzbeschreibung;100;g ;0,98;€;1,96;;Milch und Milchprodukte/Milch
+6536;;Kondensmilch, ungezuckert;Kurzbeschreibung;250;g ;0,98;€;1,47;;Milch und Milchprodukte/Milch
+6537;;Konfitüre;Kurzbeschreibung;100;g ;0,98;€;0,2;;Süssigkeiten/Konfitüren und süsse Brotaufstriche
+6538;;Konfitüre, energievermindert, mit Süssstoffen;Kurzbeschreibung;200;g ;7,99;€;4;;Süssigkeiten/Konfitüren und süsse Brotaufstriche
+137;;Kopfsalat, roh;Kurzbeschreibung;375;g ;1,39;€;1,39;;Gemüse/Gemüse frisch
+6539;;Kotelett (Durchschnitt aus Kalb, Schwein, Lamm), gebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;120;g ;1,49;€;1,49;;Fleisch und Innereien
+6540;;Kotelett (Durchschnitt aus Kalb, Schwein, Lamm), roh;Kurzbeschreibung;100;g ;0,77;€;0,39;;"Fleisch und Innereien/Schwein;Fleisch und Innereien/Kalb;Fleisch und Innereien/Lamm, Schaf"
+5120;;Krustentiere (Durchschnitt), roh;Kurzbeschreibung;250;g ;0,39;€;0,33;;Fisch/Meeresfrüchte, Krusten- und Schalentiere
+6541;;Kuchenteig (mit Butter), ungebacken;Kurzbeschreibung;100;g ;1,1;€;2,2;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teige
+6542;;Kuchenteig (mit pflanzlichem Fett), ungebacken;Kurzbeschreibung;200;g ;1,49;€;2,24;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teige
+6543;;Kürbis-Piccata, zubereitet;Kurzbeschreibung;375;ml;0,69;€;0,14;;Gerichte/Sonstige salzige/rezente Gerichte
+6544;;Kürbiskerne;Kurzbeschreibung;120;ml;0,69;€;0,35;;Nüsse, Samen und Ölfrüchte
+5121;;Kürbisscheiben, paniert, zubereitet;Kurzbeschreibung;100;g ;5,99;€;5,99;;Gerichte/Sonstige salzige/rezente Gerichte
+5122;;Lachs, geräuchert;Kurzbeschreibung;250;g ;0,99;€;0,99;;Fisch/Meeresfische
+5123;;Lachs, wild, roh;Kurzbeschreibung;100;g ;0,69;€;0,35;;Fisch/Meeresfische
+5124;;Lachs, Zucht, Filet, gedämpft (ohne Zusatz von Fett und Salz);Kurzbeschreibung;200;g ;1,49;€;1,24;;Fisch/Meeresfische
+6545;;Lachs, Zucht, roh;Kurzbeschreibung;375;g ;0,69;€;1,38;;Fisch/Meeresfische
+6551;;"Lamm, Filet, medium"" gebraten (ohne Zusatz von Fett und Salz)""";Kurzbeschreibung;120;g ;0,79;€;1,19;;Fleisch und Innereien/Lamm, Schaf
+12395;;Lamm, Filet, roh;Kurzbeschreibung;100;g ;0,69;€;0,14;;Fleisch und Innereien/Lamm, Schaf
+6546;;Lamm, Gigot, gebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;250;g ;1,29;€;0,65;;Fleisch und Innereien/Lamm, Schaf
+12843;;Lamm, Gigot, roh (Schweiz, Neuseeland);Kurzbeschreibung;100;g ;0,69;€;0,69;;Fleisch und Innereien/Lamm, Schaf
+6547;;Lamm, Kotelett, roh (Schweiz);Kurzbeschreibung;200;g ;0,69;€;0,69;;Fleisch und Innereien/Lamm, Schaf
+10732;;Lamm, Nierstück, roh (Australien, Neuseeland);Kurzbeschreibung;375;ml;0,79;€;0,4;;Fleisch und Innereien/Lamm, Schaf
+6548;;Lamm, Racks, roh (Australien, Neuseeland);Kurzbeschreibung;120;ml;0,89;€;0,74;;Fleisch und Innereien/Lamm, Schaf
+10659;;Lamm, Voressen, roh (Schweiz);Kurzbeschreibung;100;g ;0,69;€;1,38;;Fleisch und Innereien/Lamm, Schaf
+6549;;Lamm/Schaf (Durchschnitt exkl. Innereien, Kotelett), roh;Kurzbeschreibung;250;g ;2,49;€;3,74;;Fleisch und Innereien/Lamm, Schaf
+10713;;Lammragout mit Sauce, zubereitet;Kurzbeschreibung;100;g ;1,99;€;0,4;;Gerichte/Sonstige salzige/rezente Gerichte
+6550;;Landjäger;Kurzbeschreibung;200;g ;1,98;€;0,99;;Fleisch- und Wurstwaren/Rohwurstware
+5125;;Latte macchiato, ungezuckert;Kurzbeschreibung;375;g ;3,49;€;3,49;;"Milch und Milchprodukte/Milch- und Joghurtgetränke;Alkoholfreie Getränke/Kaffee"
+12872;;Lattich, roh;Kurzbeschreibung;120;g ;3,49;€;3,49;;Gemüse/Gemüse frisch
+12873;;Lauch, gedünstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;100;g ;2,49;€;1,25;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6552;;Lauch, roh;Kurzbeschreibung;250;g ;0,98;€;0,82;;Gemüse/Gemüse frisch
+6553;;Laugenbrötli;Kurzbeschreibung;100;g ;0,98;€;1,96;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+12874;;Laugengebäck trocken (Bretzel, Sticks);Kurzbeschreibung;200;g ;0,98;€;1,47;;Salzige Snacks/Salzsticks und Bretzel
+6554;;Laugengipfeli;Kurzbeschreibung;375;g ;7,99;€;1,6;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+6555;;Leber (Durchschnitt aus Rind, Kalb, Schwein, Geflügel), roh;Kurzbeschreibung;120;g ;1,39;€;0,7;;"Fleisch und Innereien/Geflügel;Fleisch und Innereien/Kalb;Fleisch und Innereien/Rind;Fleisch und Innereien/Schwein"
+5126;;Leber (Durchschnitt aus Rind, Kalb, Schwein, Geglügel), gebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;100;g ;1,49;€;1,49;;Fleisch und Innereien
+5127;;Leberwurst;Kurzbeschreibung;250;g ;0,77;€;0,39;;Fleisch- und Wurstwaren/Kochwurstware
+6556;;Lebkuchen;Kurzbeschreibung;100;g ;0,39;€;0,33;;Süssigkeiten/Sonstige süsse Backwaren
+6557;;Lebkuchen mit Schokoladeüberzug;Kurzbeschreibung;200;g ;1,1;€;2,2;;Süssigkeiten/Sonstige süsse Backwaren
+5128;;Leinsamen;Kurzbeschreibung;375;g ;1,49;€;2,24;;Nüsse, Samen und Ölfrüchte
+12875;;Lemon Curd;Kurzbeschreibung;120;g ;0,69;€;0,14;;Süssigkeiten/Cremen und Pudding
+12876;;Limburger (Münster);Kurzbeschreibung;100;g ;0,69;€;0,35;;Milch und Milchprodukte/Hartkäse
+5129;;Limonade, mit Aroma, gezuckert;Kurzbeschreibung;250;g ;5,99;€;5,99;;Alkoholfreie Getränke/Süssgetränke
+5130;;Linse, ganz, gekocht (ohne Zugabe von Fett und Salz);Kurzbeschreibung;100;g ;0,99;€;0,99;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Hülsenfrüchte
+5131;;Linse, ganz, getrocknet;Kurzbeschreibung;200;g ;0,69;€;0,35;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Hülsenfrüchte
+5132;;Linse, geschält, gekocht (ohne Zugabe von Fett und Salz);Kurzbeschreibung;375;g ;1,49;€;1,24;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Hülsenfrüchte
+12877;;Linse, geschält, getrocknet;Kurzbeschreibung;120;g ;0,69;€;1,38;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Hülsenfrüchte
+12878;;Linzertorte;Kurzbeschreibung;100;g ;0,79;€;1,19;;Süssigkeiten/Kuchen, Torten und Cake
+10496;;Löffelbiscuit;Kurzbeschreibung;250;g ;0,69;€;0,14;;Süssigkeiten/Guetzli
+10740;;Luganighe;Kurzbeschreibung;100;ml;1,29;€;0,65;;Fleisch- und Wurstwaren/Rohwurstware
+6560;;Lyoner;Kurzbeschreibung;200;g ;0,69;€;1,38;;Fleisch- und Wurstwaren/Brühwurstware
+6558;;Madeleine;Kurzbeschreibung;375;g ;0,69;€;1,04;;Süssigkeiten/Sonstige süsse Backwaren
+6559;;Magermilch, UHT;Kurzbeschreibung;120;g ;0,79;€;0,16;;Milch und Milchprodukte/Milch
+12857;;Magermilchpulver;Kurzbeschreibung;100;g ;0,89;€;0,45;;Milch und Milchprodukte/Milch
+6561;;Mailänderli;Kurzbeschreibung;250;g ;0,69;€;0,69;;Süssigkeiten/Guetzli
+6562;;Mais-Chips (Apérogebäck);Kurzbeschreibung;100;ml;2,49;€;2,49;;Salzige Snacks/Chips
+6563;;Mais, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;200;ml;1,99;€;1;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6564;;Mais, roh;Kurzbeschreibung;375;ml;1,98;€;1,65;;Gemüse/Gemüse frisch
+6565;;Maisgriess, gekocht;Kurzbeschreibung;120;ml;3,49;€;6,98;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mais
+6566;;Maisgriess, trocken;Kurzbeschreibung;100;ml;3,49;€;5,24;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mais
+6567;;Maiskeimöl;Kurzbeschreibung;250;ml;2,49;€;0,5;;Fette und Öle/Öle
+6568;;Maiskölbchen, in Essig eingelegt;Kurzbeschreibung;100;ml;0,98;€;0,49;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6569;;Maisstärke;Kurzbeschreibung;200;ml;0,98;€;0,98;;"Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke;Verschiedenes/Gelier- und Bindemittel"
+6570;;Mandarine, roh;Kurzbeschreibung;375;ml;0,98;€;0,98;;Früchte/Früchte frisch
+6571;;Mandel;Kurzbeschreibung;120;ml;7,99;€;4;;Nüsse, Samen und Ölfrüchte
+6572;;Mandel, geröstet, gesalzen;Kurzbeschreibung;100;g ;1,39;€;1,16;;Salzige Snacks/Gesalzene Nüsse, Samen, Kerne
+6061;;Mandel, ohne Fett geröstet, gesalzen;Kurzbeschreibung;250;g ;1,49;€;2,98;;Salzige Snacks/Gesalzene Nüsse, Samen, Kerne
+6062;;Mango, roh;Kurzbeschreibung;100;g ;0,77;€;1,16;;Früchte/Früchte frisch
+6063;;Mangold, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;200;g ;0,39;€;0,08;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6064;;Mangold, roh;Kurzbeschreibung;375;g ;1,1;€;0,55;;Gemüse/Gemüse frisch
+6573;;Margarine;Kurzbeschreibung;120;g ;1,49;€;1,49;;Fette und Öle/Fette
+6574;;Marmorkuchen;Kurzbeschreibung;100;g ;0,69;€;0,69;;Süssigkeiten/Kuchen, Torten und Cake
+6575;;Marzipan;Kurzbeschreibung;250;g ;0,69;€;0,35;;Süssigkeiten/Sonstige Süssigkeiten
+6576;;Mascarpone;Kurzbeschreibung;100;g ;5,99;€;4,99;;Milch und Milchprodukte/Frischkäse und Quark
+6608;;Mayonnaise;Kurzbeschreibung;200;g ;0,99;€;1,98;;Fette und Öle/Mayonnaisen
+6609;;Mayonnaise, kalorienvermindert;Kurzbeschreibung;375;g ;0,69;€;1,04;;Fette und Öle/Mayonnaisen
+6610;;Mayonnaise, selbst zubereitet mit Rapsöl;Kurzbeschreibung;120;g ;1,49;€;0,3;;Fette und Öle/Mayonnaisen
+6611;;Mehl (Durchschnitt);Kurzbeschreibung;100;g ;0,69;€;0,35;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+6612;;Mehl, hell (Durchschnitt);Kurzbeschreibung;250;g ;0,79;€;0,79;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+6613;;Mehlomeletten mit Champignonfüllung, zubereitet;Kurzbeschreibung;100;g ;0,69;€;0,69;;Gerichte/Sonstige salzige/rezente Gerichte
+6614;;Mehlomeletten mit Gemüsefüllung, zubereitet;Kurzbeschreibung;200;g ;1,29;€;0,65;;Gerichte/Sonstige salzige/rezente Gerichte
+6615;;Mehlomeletten mit Käse, zubereitet;Kurzbeschreibung;375;g ;0,69;€;0,58;;Gerichte/Sonstige salzige/rezente Gerichte
+6616;;Mehlomeletten mit Nutella, zubereitet;Kurzbeschreibung;120;g ;0,69;€;1,38;;Gerichte/Sonstige süsse Gerichte
+6617;;Mehlomeletten mit Schinken, zubereitet;Kurzbeschreibung;100;g ;0,79;€;1,19;;Gerichte/Sonstige salzige/rezente Gerichte
+6618;;Mehlomeletten mit Speck, zubereitet;Kurzbeschreibung;250;g ;0,89;€;0,18;;Gerichte/Sonstige salzige/rezente Gerichte
+6619;;Mehlomeletten mit Zimt und Zucker, zubereitet;Kurzbeschreibung;100;g ;0,69;€;0,35;;Gerichte/Sonstige süsse Gerichte
+6620;;Mehlomeletten, zubereitet;Kurzbeschreibung;200;g ;2,49;€;4,98;;Gerichte/Sonstige salzige/rezente Gerichte
+6621;;Melasse, Melassesirup;Kurzbeschreibung;375;g ;1,99;€;2,99;;Süssigkeiten/Konfitüren und süsse Brotaufstriche
+6622;;Meringue;Kurzbeschreibung;120;g ;1,98;€;0,4;;Süssigkeiten/Sonstige Süssigkeiten
+6623;;Miesmuschel, roh;Kurzbeschreibung;100;g ;3,49;€;1,75;;Fisch/Meeresfrüchte, Krusten- und Schalentiere
+1274;;Milch (Durchschnitt);Kurzbeschreibung;250;g ;3,49;€;3,49;;Milch und Milchprodukte/Milch
+1284;;Milchkaffee dunkel, ungezuckert;Kurzbeschreibung;100;g ;2,49;€;2,49;;"Milch und Milchprodukte/Milch- und Joghurtgetränke;Alkoholfreie Getränke/Kaffee"
+1286;;Milchkaffee hell, ungezuckert;Kurzbeschreibung;200;g ;0,98;€;0,49;;"Milch und Milchprodukte/Milch- und Joghurtgetränke;Alkoholfreie Getränke/Kaffee"
+1285;;Milchkaffee, ungezuckert;Kurzbeschreibung;375;g ;0,98;€;0,82;;"Milch und Milchprodukte/Milch- und Joghurtgetränke;Alkoholfreie Getränke/Kaffee"
+1815;;Milchreis, zubereitet (mit teilentrahmter Milch);Kurzbeschreibung;120;g ;0,98;€;1,96;;Süssigkeiten/Cremen und Pudding
+5133;;Milchreis, zubereitet (mit Vollmilch);Kurzbeschreibung;100;g ;7,99;€;11,99;;Süssigkeiten/Cremen und Pudding
+6624;;Milchschokolade;Kurzbeschreibung;250;g ;1,39;€;0,28;;Süssigkeiten/Schokolade und Kakaoerzeugnisse
+1816;;Milchschokolade mit Alkoholfüllung;Kurzbeschreibung;100;g ;1,49;€;0,75;;Süssigkeiten/Schokolade und Kakaoerzeugnisse
+5134;;Milchschokolade mit Crèmefüllung (Gianduja, Nougat);Kurzbeschreibung;200;g ;0,77;€;0,77;;Süssigkeiten/Schokolade und Kakaoerzeugnisse
+13154;;Milchschokolade mit Mandel-Honig-Nougat;Kurzbeschreibung;375;g ;0,39;€;0,39;;Süssigkeiten/Schokolade und Kakaoerzeugnisse
+13155;;Milchschokolade mit Nüssen;Kurzbeschreibung;120;ml;1,49;€;0,75;;Süssigkeiten/Schokolade und Kakaoerzeugnisse
+13156;;Milchschokolade mit Weinbeeren, Nüssen und Mandeln;Kurzbeschreibung;100;g ;0,69;€;0,58;;Süssigkeiten/Schokolade und Kakaoerzeugnisse
+13158;;Minestrone;Kurzbeschreibung;250;g ;0,69;€;1,38;;Gerichte/Eintöpfe und Suppen
+13159;;Minipic Würstchen;Kurzbeschreibung;100;g ;5,99;€;8,99;;Fleisch- und Wurstwaren/Rohwurstware
+13160;;Mirabelle, gedünstet, abgetropft (ohne Zugabe von Zucker);Kurzbeschreibung;200;g ;0,99;€;0,2;;Früchte/Früchte gekocht (inkl. Konserven)
+13157;;Mirabelle, roh;Kurzbeschreibung;375;g ;0,69;€;0,35;;Früchte/Früchte frisch
+5135;;Mit Hackfleisch gefüllte Oliven, frittiert;Kurzbeschreibung;120;g ;1,49;€;1,49;;Salzige Snacks/Sonstige salzige Snacks
+5136;;Molke, süss;Kurzbeschreibung;100;g ;0,69;€;0,69;;Milch und Milchprodukte/Milch- und Joghurtgetränke
+5137;;Morchel, gedünstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;250;g ;0,79;€;0,4;;Gemüse/Pilze
+6625;;Morchel, roh;Kurzbeschreibung;100;ml;0,69;€;0,58;;Gemüse/Pilze
+6626;;Mortadella;Kurzbeschreibung;200;g ;1,29;€;2,58;;Fleisch- und Wurstwaren/Brühwurstware
+6627;;Mostbröckli;Kurzbeschreibung;375;g ;0,69;€;1,04;;Fleisch- und Wurstwaren/Rohwurstware
+6628;;Mozzarella;Kurzbeschreibung;120;g ;0,69;€;0,14;;"Milch und Milchprodukte/Weichkäse;Milch und Milchprodukte/Frischkäse und Quark"
+6629;;Mürbeteig (mit Butter), süss, ungebacken;Kurzbeschreibung;100;g ;0,79;€;0,4;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teige
+5138;;Mürbeteig (mit pflanzlichem Fett), süss, ungebacken;Kurzbeschreibung;250;g ;0,89;€;0,89;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teige
+5139;;Mütschli;Kurzbeschreibung;100;g ;0,69;€;0,69;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+6630;;Nasi Goreng, zubereitet;Kurzbeschreibung;200;g ;2,49;€;1,25;;Gerichte/Asiatische Gerichte
+5140;;Nektarine, roh;Kurzbeschreibung;375;g ;1,99;€;1,66;;Früchte/Früchte frisch
+5141;;Nussgipfel aus Blätterteig;Kurzbeschreibung;120;g ;1,98;€;3,96;;Süssigkeiten/Sonstige süsse Backwaren
+5142;;Nussgipfel aus Hefeteig;Kurzbeschreibung;100;g ;3,49;€;5,24;;Süssigkeiten/Sonstige süsse Backwaren
+5143;;Nüsslisalat, roh;Kurzbeschreibung;250;g ;3,49;€;0,7;;Gemüse/Gemüse frisch
+5144;;Nussschnecke aus Hefeteig;Kurzbeschreibung;100;g ;2,49;€;1,25;;Süssigkeiten/Sonstige süsse Backwaren
+5145;;Ofen-Frites, tiefgekühlt;Kurzbeschreibung;200;g ;0,98;€;1,96;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Kartoffeln
+6631;;Olive, grün;Kurzbeschreibung;375;g ;0,98;€;1,47;;Nüsse, Samen und Ölfrüchte
+6632;;Olive, schwarz;Kurzbeschreibung;120;g ;0,98;€;0,2;;Nüsse, Samen und Ölfrüchte
+6633;;Olivenöl;Kurzbeschreibung;100;g ;7,99;€;4;;Fette und Öle/Öle
+6634;;Orange, roh;Kurzbeschreibung;250;g ;1,39;€;1,39;;Früchte/Früchte frisch
+6635;;Orangennektar;Kurzbeschreibung;100;g ;1,49;€;1,49;;"Alkoholfreie Getränke/Süssgetränke;Alkoholfreie Getränke/Frucht- und Gemüsesäfte"
+6636;;Orangensaft;Kurzbeschreibung;200;g ;0,77;€;0,39;;"Früchte/Fruchtsäfte;Alkoholfreie Getränke/Frucht- und Gemüsesäfte"
+6637;;Orangensaft, angereichert mit Vitamin C;Kurzbeschreibung;375;g ;0,39;€;0,33;;"Früchte/Fruchtsäfte;Alkoholfreie Getränke/Frucht- und Gemüsesäfte"
+5146;;Palmöl - Palmfett;Kurzbeschreibung;120;g ;1,1;€;2,2;;"Fette und Öle/Öle;Fette und Öle/Fette"
+5147;;Pancetta;Kurzbeschreibung;100;g ;1,49;€;2,24;;Fleisch- und Wurstwaren/Rohwurstware
+6638;;Panettone;Kurzbeschreibung;250;g ;0,69;€;0,14;;Süssigkeiten/Sonstige süsse Backwaren
+6639;;Paniermehl;Kurzbeschreibung;100;g ;0,69;€;0,35;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+6640;;Pantli;Kurzbeschreibung;200;g ;5,99;€;5,99;;Fleisch- und Wurstwaren/Rohwurstware
+5148;;Paprika (Gewürz);Kurzbeschreibung;375;g ;0,99;€;0,99;;Verschiedenes/Salz, Gewürze und Aromen
+6641;;Paranuss;Kurzbeschreibung;120;g ;0,69;€;0,35;;Nüsse, Samen und Ölfrüchte
+6642;;Pariserbrot;Kurzbeschreibung;100;g ;1,49;€;1,24;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+5149;;Parmesan;Kurzbeschreibung;250;g ;0,69;€;1,38;;Milch und Milchprodukte/Hartkäse
+5150;;Passionsfrucht, roh;Kurzbeschreibung;100;g ;0,79;€;1,19;;Früchte/Früchte frisch
+5151;;Pâté de campagne;Kurzbeschreibung;200;g ;0,69;€;0,14;;Fleisch- und Wurstwaren/Kochwurstware
+5152;;Peperoni, grün, gedünstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;375;g ;1,29;€;0,65;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6643;;Peperoni, grün, roh;Kurzbeschreibung;120;g ;0,69;€;0,69;;Gemüse/Gemüse frisch
+6644;;Peperoni, rot, gedünstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;100;g ;0,69;€;0,69;;Gemüse/Gemüse gekocht (inkl. Konserven)
+5153;;Peperoni, rot, roh;Kurzbeschreibung;250;g ;0,79;€;0,4;;Gemüse/Gemüse frisch
+6645;;Petersilie, roh;Kurzbeschreibung;100;g ;0,89;€;0,74;;Gemüse/Kräuter
+2117;;Pfefferminze, roh;Kurzbeschreibung;200;g ;0,69;€;1,38;;Gemüse/Kräuter
+6646;;Pferd, Filet, gebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;375;g ;2,49;€;3,74;;Fleisch und Innereien/Sonstige Tierarten
+3890;;Pferd, Filet, roh;Kurzbeschreibung;120;g ;1,99;€;0,4;;Fleisch und Innereien/Sonstige Tierarten
+3939;;Pferderagout mit Sauce, zubereitet;Kurzbeschreibung;100;g ;1,98;€;0,99;;Gerichte/Sonstige salzige/rezente Gerichte
+4250;;Pfirsich, gezuckert (Konserve);Kurzbeschreibung;250;g ;3,49;€;3,49;;Früchte/Früchte gekocht (inkl. Konserven)
+4188;;Pfirsich, roh;Kurzbeschreibung;100;g ;3,49;€;3,49;;Früchte/Früchte frisch
+4034;;Pfirsich, ungezuckert (Konserve);Kurzbeschreibung;200;g ;2,49;€;1,25;;Früchte/Früchte gekocht (inkl. Konserven)
+3983;;Pflaume, gedünstet, abgetropft (ohne Zugabe von Zucker);Kurzbeschreibung;375;g ;0,98;€;0,82;;Früchte/Früchte gekocht (inkl. Konserven)
+3955;;Pflaume, getrocknet;Kurzbeschreibung;120;g ;0,98;€;1,96;;Früchte/Früchte getrocknet
+11538;;Pflaume, roh;Kurzbeschreibung;100;g ;0,98;€;1,47;;Früchte/Früchte frisch
+4191;;Pflaumenkuchen, gebacken (mit Blätterteig);Kurzbeschreibung;250;g ;7,99;€;1,6;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+11539;;Pflaumenkuchen, gebacken (mit Kuchenteig);Kurzbeschreibung;100;g ;1,39;€;0,7;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+4176;;Pilz (Durchschnitt), gedünstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;200;g ;1,49;€;1,49;;Gemüse/Pilze
+4066;;Pilz (Durchschnitt), roh;Kurzbeschreibung;375;g ;0,77;€;0,39;;Gemüse/Pilze
+11066;;Pilzrisotto, gekocht;Kurzbeschreibung;120;g ;0,39;€;0,33;;Gerichte/Sonstige salzige/rezente Gerichte
+4069;;Pilzsauce, gebunden;Kurzbeschreibung;100;g ;1,1;€;2,2;;Verschiedenes/Saucen
+11135;;Pilzsuppe;Kurzbeschreibung;250;g ;1,49;€;2,24;;Gerichte/Eintöpfe und Suppen
+4083;;Pinienkerne;Kurzbeschreibung;100;g ;0,69;€;0,14;;Nüsse, Samen und Ölfrüchte
+4333;;Pistazie;Kurzbeschreibung;200;g ;0,69;€;0,35;;Nüsse, Samen und Ölfrüchte
+11136;;Pizza al tonno, gebacken;Kurzbeschreibung;375;g ;5,99;€;5,99;;Gerichte/Italienische Gerichte
+4114;;Pizza Calzone, gebacken;Kurzbeschreibung;120;g ;0,99;€;0,99;;Gerichte/Italienische Gerichte
+11540;;Pizza Hawaii, gebacken;Kurzbeschreibung;100;g ;0,69;€;0,35;;Gerichte/Italienische Gerichte
+3893;;Pizza Margherita, gebacken;Kurzbeschreibung;100;g ;1,49;€;1,24;;Gerichte/Italienische Gerichte
+3936;;Pizza mit Gemüse, gebacken;Kurzbeschreibung;200;g ;0,69;€;1,38;;Gerichte/Italienische Gerichte
+3804;;Pizza mit Mascarpone und Rucola, gebacken;Kurzbeschreibung;375;g ;0,79;€;1,19;;Gerichte/Italienische Gerichte
+4112;;Pizza Prosciutto e Funghi, gebacken;Kurzbeschreibung;120;g ;0,69;€;0,14;;Gerichte/Italienische Gerichte
+1724;;Pizza Prosciutto, gebacken;Kurzbeschreibung;100;g ;1,29;€;0,65;;Gerichte/Italienische Gerichte
+1725;;Pizza Quattro Formaggi, gebacken;Kurzbeschreibung;250;g ;0,69;€;1,38;;Gerichte/Italienische Gerichte
+1780;;Pizzateig (mit Olivenöl), ungebacken;Kurzbeschreibung;100;g ;0,69;€;1,04;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teige
+6647;;Plätzli (Durchschnitt aus Geflügel, Kalb, Rind, Schwein), gebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;200;g ;0,79;€;0,16;;Fleisch und Innereien
+12886;;Plätzli (Durchschnitt aus Rind, Kalb, Schwein, Geflügel), roh ;Kurzbeschreibung;375;g ;0,89;€;0,45;;"Fleisch und Innereien/Kalb;Fleisch und Innereien/Rind;Fleisch und Innereien/Schwein;Fleisch und Innereien/Geflügel"
+1817;;Polenta nera (aus Maisgriess und Buchweizenmehl), gekocht;Kurzbeschreibung;120;g ;0,69;€;0,69;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mais
+1305;;Pommes Chips;Kurzbeschreibung;100;g ;2,49;€;2,49;;Salzige Snacks/Chips
+1304;;Pommes Chips fettreduziert;Kurzbeschreibung;250;g ;1,99;€;1;;Salzige Snacks/Chips
+1295;;Pommes Frites (im Ofen gebacken), ungesalzen;Kurzbeschreibung;100;g ;1,98;€;1,65;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Kartoffeln
+10682;;Pommes Frites (in HO Sonnenblumenöl fritiert), ungesalzen;Kurzbeschreibung;200;g ;3,49;€;6,98;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Kartoffeln
+6648;;Popcorn;Kurzbeschreibung;375;g ;3,49;€;5,24;;Salzige Snacks/Sonstige salzige Snacks
+10498;;Portwein, 18.5 vol%;Kurzbeschreibung;120;g ;2,49;€;0,5;;Alkoholhaltige Getränke/Wein
+4087;;Poulet, Brust, mit Haut, roh (Frankreich);Kurzbeschreibung;100;g ;0,98;€;0,49;;Fleisch und Innereien/Geflügel
+1702;;Poulet, Brust, mit Haut, roh (Schweiz);Kurzbeschreibung;250;g ;0,98;€;0,98;;Fleisch und Innereien/Geflügel
+6649;;Poulet, Brust, ohne Haut, roh (Frankreich);Kurzbeschreibung;100;g ;0,98;€;0,98;;Fleisch und Innereien/Geflügel
+6650;;Poulet, Brust, ohne Haut, roh (Schweiz);Kurzbeschreibung;200;g ;7,99;€;4;;Fleisch und Innereien/Geflügel
+11541;;Poulet, Brust, Schnitzel oder Geschnetzeltes, gebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;375;g ;1,39;€;1,16;;Fleisch und Innereien/Geflügel
+6651;;Poulet, Brust, Schnitzel, roh;Kurzbeschreibung;120;g ;1,49;€;2,98;;Fleisch und Innereien/Geflügel
+5154;;Poulet, ganz, mit Haut, gebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;100;g ;0,77;€;1,16;;Fleisch und Innereien/Geflügel
+6652;;Poulet, ganz, mit Haut, roh;Kurzbeschreibung;250;g ;0,39;€;0,08;;Fleisch und Innereien/Geflügel
+1254;;Poulet, Schenkel, mit Haut, gebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;100;ml;1,1;€;0,55;;Fleisch und Innereien/Geflügel
+1255;;Poulet, Schenkel, mit Haut, roh;Kurzbeschreibung;200;ml;1,49;€;1,49;;Fleisch und Innereien/Geflügel
+6653;;Poulet, Schenkel, mit Haut, roh (Frankreich);Kurzbeschreibung;375;g ;0,69;€;0,69;;Fleisch und Innereien/Geflügel
+1818;;Poulet, Schenkel, mit Haut, roh (Schweiz);Kurzbeschreibung;120;g ;0,69;€;0,35;;Fleisch und Innereien/Geflügel
+6654;;Poulet, Schenkel, ohne Haut, roh (Frankreich);Kurzbeschreibung;100;g ;5,99;€;4,99;;Fleisch und Innereien/Geflügel
+6655;;Poulet, Schenkel, ohne Haut, roh (Schweiz);Kurzbeschreibung;250;g ;0,99;€;1,98;;Fleisch und Innereien/Geflügel
+6656;;Preiselbeere, roh;Kurzbeschreibung;100;g ;0,69;€;1,04;;Früchte/Früchte frisch
+10717;;Prussien;Kurzbeschreibung;200;ml;1,49;€;0,3;;Süssigkeiten/Guetzli
+157;;Pudding, Caramel;Kurzbeschreibung;375;g ;0,69;€;0,35;;Süssigkeiten/Cremen und Pudding
+6657;;Pudding, Schokolade;Kurzbeschreibung;120;g ;0,79;€;0,79;;Süssigkeiten/Cremen und Pudding
+12822;;Pudding, Vanille;Kurzbeschreibung;100;g ;0,69;€;0,69;;Süssigkeiten/Cremen und Pudding
+5155;;Quark, nature, halbfett;Kurzbeschreibung;250;g ;1,29;€;0,65;;Milch und Milchprodukte/Frischkäse und Quark
+6658;;Quark, nature, mager;Kurzbeschreibung;100;g ;0,69;€;0,58;;Milch und Milchprodukte/Frischkäse und Quark
+1819;;Quark, nature, Rahm;Kurzbeschreibung;200;g ;0,69;€;1,38;;Milch und Milchprodukte/Frischkäse und Quark
+6659;;Quarkblätterteig (mit Butter), ungebacken;Kurzbeschreibung;375;g ;0,79;€;1,19;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teige
+6660;;Quarkblätterteig (mit pflanzlichem Fett), ungebacken;Kurzbeschreibung;120;g ;0,89;€;0,18;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teige
+6661;;Quiche Lorraine, gebacken (mit Blätterteig);Kurzbeschreibung;100;g ;0,69;€;0,35;;Gerichte/Kuchen und Gratins
+6662;;Quiche Lorraine, gebacken (mit Kuchenteig);Kurzbeschreibung;250;g ;2,49;€;4,98;;Gerichte/Kuchen und Gratins
+6663;;Quitte, gekocht, abgetropft (ohne Zugabe von Zucker);Kurzbeschreibung;100;g ;1,99;€;2,99;;Früchte/Früchte gekocht (inkl. Konserven)
+6664;;Quitte, roh;Kurzbeschreibung;200;g ;1,98;€;0,4;;Früchte/Früchte frisch
+5156;;Raclettekäse;Kurzbeschreibung;375;g ;3,49;€;1,75;;Milch und Milchprodukte/Hartkäse
+5157;;Radieschen, roh;Kurzbeschreibung;120;g ;1,49;€;1,49;;Gemüse/Gemüse frisch
+6665;;Rahm (Durchschnitt);Kurzbeschreibung;100;g ;0,69;€;0,69;;"Fette und Öle/Rahm;Milch und Milchprodukte/Rahm und Butter"
+6666;;Rahmglace, Frucht;Kurzbeschreibung;250;g ;0,69;€;0,35;;Süssigkeiten/Glacen auf Milchbasis
+5158;;Rahmkaramellen;Kurzbeschreibung;100;g ;5,99;€;4,99;;Süssigkeiten/Bonbons, Frucht- und Kaugummi
+5159;;Rande, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;200;g ;0,99;€;1,98;;Gemüse/Gemüse gekocht (inkl. Konserven)
+5160;;Rande, roh;Kurzbeschreibung;375;g ;0,69;€;1,04;;Gemüse/Gemüse frisch
+5161;;Rapsöl;Kurzbeschreibung;120;g ;1,49;€;0,3;;Fette und Öle/Öle
+6667;;Rapsöl HOLL (high oleic, low linolenic);Kurzbeschreibung;100;g ;0,69;€;0,35;;Fette und Öle/Öle
+6668;;Ratatouille, zubereitet;Kurzbeschreibung;250;g ;0,79;€;0,79;;Gemüse/Gemüse gekocht (inkl. Konserven)
+5162;;Rauchsalami;Kurzbeschreibung;100;g ;0,69;€;0,69;;Fleisch- und Wurstwaren/Rohwurstware
+5163;;Reblochon;Kurzbeschreibung;200;g ;1,29;€;0,65;;Milch und Milchprodukte/Weichkäse
+5164;;Reh (Durchschnitt), roh;Kurzbeschreibung;375;g ;0,69;€;0,58;;Fleisch und Innereien/Wild
+6669;;Reh, Ragout, roh;Kurzbeschreibung;120;ml;0,69;€;1,38;;Fleisch und Innereien/Wild
+6670;;Reh, Schnitzel, roh;Kurzbeschreibung;100;g ;0,79;€;1,19;;Fleisch und Innereien/Wild
+12044;;Reibkäse;Kurzbeschreibung;250;g ;0,89;€;0,18;;Milch und Milchprodukte/Hartkäse
+12045;;Reis parboiled, gekocht in Salzwasser (unjodiert);Kurzbeschreibung;100;g ;0,69;€;0,35;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Reis
+6671;;Reis parboiled, trocken;Kurzbeschreibung;200;g ;2,49;€;2,49;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Reis
+6672;;Reis poliert, gekocht in Salzwasser (unjodiert);Kurzbeschreibung;375;g ;1,99;€;1,99;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Reis
+12046;;Reis poliert, trocken;Kurzbeschreibung;120;g ;1,98;€;0,99;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Reis
+6673;;Reis unpoliert, gekocht in Salzwasser (unjodiert);Kurzbeschreibung;100;g ;3,49;€;2,91;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Reis
+12047;;Reis unpoliert, trocken;Kurzbeschreibung;250;g ;3,49;€;6,98;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Reis
+6674;;Rettich, roh;Kurzbeschreibung;100;ml;2,49;€;3,74;;Gemüse/Gemüse frisch
+6675;;Rhabarber, roh;Kurzbeschreibung;200;ml;0,98;€;0,2;;Früchte/Früchte frisch
+6676;;Rhabarberkuchen, gebacken (mit Blätterteig);Kurzbeschreibung;375;g ;0,98;€;0,49;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+199;;Rhabarberkuchen, gebacken (mit Kuchenteig);Kurzbeschreibung;120;g ;0,98;€;0,98;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+200;;Riesenkürbis, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;100;g ;7,99;€;7,99;;Gemüse/Gemüse gekocht (inkl. Konserven)
+6677;;Riesenkürbis, roh;Kurzbeschreibung;250;g ;1,39;€;0,7;;Gemüse/Gemüse frisch
+5165;;Rind, Brust, gekocht (ohne Zugabe von Fett und Salz);Kurzbeschreibung;100;g ;1,49;€;1,24;;Fleisch und Innereien/Rind
+6678;;Rind, Brust, roh;Kurzbeschreibung;200;g ;0,77;€;1,54;;Fleisch und Innereien/Rind
+6679;;Rind, Eckstück, roh;Kurzbeschreibung;375;g ;0,39;€;0,59;;Fleisch und Innereien/Rind
+12933;;"Rind, Entrecôte, medium"" gebraten (ohne Zusatz von Fett und Salz)""";Kurzbeschreibung;120;g ;1,1;€;0,22;;Fleisch und Innereien/Rind
+5166;;Rind, Entrecôte, roh;Kurzbeschreibung;100;g ;1,49;€;0,75;;Fleisch und Innereien/Rind
+6680;;Rind, Entrecôte, roh (Schweiz);Kurzbeschreibung;250;g ;0,69;€;1,38;;Fleisch und Innereien/Rind
+12896;;Rind, Entrecôte, roh (USA);Kurzbeschreibung;100;g ;0,69;€;1,04;;Fleisch und Innereien/Rind
+6681;;"Rind, Filet, medium"" gebraten (ohne Zustatz von Fett und Salz)""";Kurzbeschreibung;200;g ;5,99;€;1,2;;Fleisch und Innereien/Rind
+6682;;Rind, Filet, roh;Kurzbeschreibung;375;g ;0,99;€;0,5;;Fleisch und Innereien/Rind
+5167;;Rind, Gehacktes, gebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;120;g ;0,69;€;0,69;;Fleisch und Innereien/Rind
+6683;;Rind, Gehacktes, roh;Kurzbeschreibung;100;g ;1,49;€;1,49;;Fleisch und Innereien/Rind
+6684;;Rind, Geschnetzeltes, roh;Kurzbeschreibung;250;g ;0,69;€;0,35;;Fleisch und Innereien/Rind
+1820;;Rind, Hals, roh;Kurzbeschreibung;100;g ;0,79;€;0,66;;Fleisch und Innereien/Rind
+6685;;Rind, Hohrücken, roh (Schweiz);Kurzbeschreibung;200;g ;0,69;€;1,38;;Fleisch und Innereien/Rind
+6686;;Rind, Hohrücken, roh (USA);Kurzbeschreibung;375;g ;1,29;€;1,94;;Fleisch und Innereien/Rind
+6687;;Rind, Leber, roh;Kurzbeschreibung;120;g ;0,69;€;0,14;;Fleisch und Innereien/Rind
+6688;;Rind, Runder Mocken, roh;Kurzbeschreibung;100;g ;0,69;€;0,35;;Fleisch und Innereien/Rind
+5168;;"Rind, Schulter, Braten medium"", im Ofen gebraten (ohne Zugabe von Fett und Salz)""";Kurzbeschreibung;250;g ;0,79;€;0,79;;Fleisch und Innereien/Rind
+6689;;"Rind, Schulter, Braten rare"", im Ofen gebraten (ohne Zugabe von Fett und Salz)""";Kurzbeschreibung;100;g ;0,89;€;0,89;;Fleisch und Innereien/Rind
+6690;;"Rind, Schulter, Braten well done"", im Ofen gebraten (ohne Zugabe von Fett und Salz)""";Kurzbeschreibung;200;g ;0,69;€;0,35;;Fleisch und Innereien/Rind
+6691;;Rind, Schulter, Braten, roh;Kurzbeschreibung;375;g ;2,49;€;2,08;;Fleisch und Innereien/Rind
+6692;;Rind, Siedfleisch, durchzogen,  roh;Kurzbeschreibung;120;g ;1,99;€;3,98;;Fleisch und Innereien/Rind
+6693;;Rind, Siedfleisch, durchzogen, gekocht (ohne Zusatz von Fett und Salz);Kurzbeschreibung;100;g ;1,98;€;2,97;;Fleisch und Innereien/Rind
+6694;;Rind, Siedfleisch, mager, gekocht (ohne Zusatz von Fett and Salz);Kurzbeschreibung;250;g ;3,49;€;0,7;;Fleisch und Innereien/Rind
+5169;;Rind, Siedfleisch, mager, roh;Kurzbeschreibung;100;g ;3,49;€;1,75;;Fleisch und Innereien/Rind
+5170;;Rind, Voressen, roh;Kurzbeschreibung;200;g ;2,49;€;2,49;;Fleisch und Innereien/Rind
+5171;;Rind, Zunge, roh;Kurzbeschreibung;375;g ;0,98;€;0,98;;Fleisch und Innereien/Rind
+6695;;Rindfleisch (Durchschnitt exkl. Innereien, Rippensteak), roh;Kurzbeschreibung;120;g ;0,98;€;0,49;;Fleisch und Innereien/Rind
+5172;;Rindsragout mit Sauce, zubereitet;Kurzbeschreibung;100;g ;0,98;€;0,82;;Gerichte/Sonstige salzige/rezente Gerichte
+6696;;Rippli (Nierstück), roh;Kurzbeschreibung;250;ml;7,99;€;15,98;;Fleisch- und Wurstwaren/Kochwurstware
+6697;;Risotto ohne Käse, gekocht;Kurzbeschreibung;100;ml;1,39;€;2,09;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Reis
+1786;;Ristretto crème, ungezuckert;Kurzbeschreibung;200;ml;1,49;€;0,3;;Alkoholfreie Getränke/Kaffee
+11234;;Riz Casimir mit Kalbfleisch, zubereitet;Kurzbeschreibung;375;g ;0,77;€;0,39;;Gerichte/Sonstige salzige/rezente Gerichte
+11196;;Riz Casimir mit Poulet, zubereitet;Kurzbeschreibung;120;g ;0,39;€;0,39;;Gerichte/Sonstige salzige/rezente Gerichte
+3300;;Roggenbrot mit Sauerteig;Kurzbeschreibung;100;g ;1,1;€;1,1;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+11427;;Roggenmehl, halbweiss, Typ 815;Kurzbeschreibung;100;g ;1,49;€;0,75;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+11852;;Roggenmehl, Ruch, Typ 1050;Kurzbeschreibung;200;g ;0,69;€;0,58;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+4845;;Roggenmehl, Vollkorn, Schrot, Typ 1800;Kurzbeschreibung;375;g ;0,69;€;1,38;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+11853;;Roggenschrotbrot;Kurzbeschreibung;120;g ;5,99;€;8,99;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+10969;;Rohessspeck;Kurzbeschreibung;100;g ;0,99;€;0,2;;Fleisch- und Wurstwaren/Rohwurstware
+10853;;Rohpökelwaren (Durchschnitt);Kurzbeschreibung;250;g ;0,69;€;0,35;;Fleisch- und Wurstwaren/Rohwurstware
+10884;;Rohschinken;Kurzbeschreibung;100;g ;1,49;€;1,49;;Fleisch- und Wurstwaren/Rohwurstware
+10882;;Rohwürste mit abgebrochener Reifung (Durchschnitt);Kurzbeschreibung;200;g ;0,69;€;0,35;;Fleisch- und Wurstwaren/Rohwurstware
+11348;;Rohwürste/Dauerwürste (Durchschnitt);Kurzbeschreibung;375;g ;0,79;€;0,66;;Fleisch- und Wurstwaren/Rohwurstware
+11642;;Rollgerste;Kurzbeschreibung;120;g ;0,69;€;1,38;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Sonstige Getreideprodukte
+3767;;Rollmops;Kurzbeschreibung;100;g ;1,29;€;1,94;;Fisch/Fischerzeugnisse
+11972;;Rollschinken;Kurzbeschreibung;250;g ;0,69;€;0,14;;Fleisch- und Wurstwaren/Kochwurstware
+3766;;Rollschinken, gekocht (ohne Zusatz von Fett und Salz);Kurzbeschreibung;100;g ;0,69;€;0,35;;Fleisch- und Wurstwaren/Sonstige Fleisch- und Wurstwaren
+3636;;Roquefort;Kurzbeschreibung;200;g ;0,79;€;0,79;;Milch und Milchprodukte/Hartkäse
+11736;;Rosenkohl, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;375;g ;0,89;€;0,89;;Gemüse/Gemüse gekocht (inkl. Konserven)
+3252;;Rosenkohl, roh;Kurzbeschreibung;120;g ;0,69;€;0,35;;Gemüse/Gemüse frisch
+11212;;Rosine, getrocknet;Kurzbeschreibung;100;g ;2,49;€;2,08;;Früchte/Früchte getrocknet
+11180;;Rosmarin, roh;Kurzbeschreibung;250;g ;1,99;€;3,98;;Gemüse/Kräuter
+11253;;Rösti, Fertigprodukt;Kurzbeschreibung;100;g ;1,98;€;2,97;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Kartoffeln
+320;;Rotkohl, gedünstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;200;g ;3,49;€;0,7;;Gemüse/Gemüse gekocht (inkl. Konserven)
+11737;;Rotkohl, roh;Kurzbeschreibung;375;g ;3,49;€;1,75;;Gemüse/Gemüse frisch
+3516;;Ruchbrot;Kurzbeschreibung;120;g ;2,49;€;4,98;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+3044;;Rucola, roh;Kurzbeschreibung;100;g ;0,98;€;1,47;;Gemüse/Gemüse frisch
+11296;;Rüeblitorte;Kurzbeschreibung;250;g ;0,98;€;0,2;;Süssigkeiten/Kuchen, Torten und Cake
+11297;;Rührei mit Champignons, zubereitet;Kurzbeschreibung;100;g ;0,98;€;0,49;;Gerichte/Sonstige salzige/rezente Gerichte
+11967;;Rührei mit Käse, zubereitet;Kurzbeschreibung;200;g ;7,99;€;7,99;;Gerichte/Sonstige salzige/rezente Gerichte
+4214;;Rührei mit Kräutern, zubereitet;Kurzbeschreibung;375;g ;1,39;€;1,39;;Gerichte/Sonstige salzige/rezente Gerichte
+11013;;Rührei mit Schinken, zubereitet;Kurzbeschreibung;120;g ;1,49;€;0,75;;Gerichte/Sonstige salzige/rezente Gerichte
+10896;;Rührei, zubereitet;Kurzbeschreibung;100;ml;0,77;€;0,64;;Gerichte/Sonstige salzige/rezente Gerichte
+3470;;"Rührteigcake Gleichschwer""""";Kurzbeschreibung;250;g ;0,39;€;0,78;;Süssigkeiten/Kuchen, Torten und Cake
+4443;;Russischer Salat, zubereitet;Kurzbeschreibung;100;ml;1,1;€;1,65;;Gerichte/Salate
+3659;;Sablé, Butter;Kurzbeschreibung;200;g ;1,49;€;0,3;;Süssigkeiten/Guetzli
+11738;;Salametti;Kurzbeschreibung;375;g ;0,69;€;0,35;;Fleisch- und Wurstwaren/Rohwurstware
+11178;;Salami (Billiglinie);Kurzbeschreibung;120;g ;0,69;€;0,69;;Fleisch- und Wurstwaren/Rohwurstware
+316;;Salami Typ Nostrano;Kurzbeschreibung;100;g ;5,99;€;5,99;;Fleisch- und Wurstwaren/Rohwurstware
+4719;;Salatsauce französisch (mit Rapsöl);Kurzbeschreibung;250;g ;0,99;€;0,5;;Fette und Öle/Salatsaucen
+4552;;Salatsauce italienisch (mit Olivenöl);Kurzbeschreibung;100;g ;0,69;€;0,58;;Fette und Öle/Salatsaucen
+1456;;Salbei, roh;Kurzbeschreibung;200;g ;1,49;€;2,98;;Gemüse/Kräuter
+4553;;Salsiz;Kurzbeschreibung;375;g ;0,69;€;1,04;;Fleisch- und Wurstwaren/Rohwurstware
+4695;;Saltimbocca, gebraten in HOLL-Rapsöl;Kurzbeschreibung;120;g ;0,79;€;0,16;;Fleisch und Innereien/Kalb
+4989;;Samen, Kerne, Nüsse (Durchschnitt), ungesalzen;Kurzbeschreibung;100;g ;0,69;€;0,35;;Nüsse, Samen und Ölfrüchte
+12048;;Samosa frittiert;Kurzbeschreibung;250;g ;1,29;€;1,29;;Gerichte/Asiatische Gerichte
+11278;;Samosa gebacken;Kurzbeschreibung;100;ml;0,69;€;0,69;;Gerichte/Asiatische Gerichte
+11493;;Sandwich (Baguette) mit Aufschnitt;Kurzbeschreibung;200;ml;0,69;€;0,35;;Gerichte/Sandwiches
+3205;;Sandwich (Baguette) mit Fleischkäse;Kurzbeschreibung;375;g ;0,79;€;0,66;;Gerichte/Sandwiches
+4339;;Sandwich (Baguette) mit Halbhartkäse;Kurzbeschreibung;120;g ;0,89;€;1,78;;Gerichte/Sandwiches
+3734;;Sandwich (Baguette) mit Mozzarella;Kurzbeschreibung;100;g ;0,69;€;1,04;;Gerichte/Sandwiches
+11346;;Sandwich (Baguette) mit Rohschinken;Kurzbeschreibung;250;g ;2,49;€;0,5;;Gerichte/Sandwiches
+11169;;Sandwich (Baguette) mit Salami;Kurzbeschreibung;100;g ;1,99;€;1;;Gerichte/Sandwiches
+4769;;Sandwich (Baguette) mit Schinken;Kurzbeschreibung;200;g ;1,98;€;1,98;;Gerichte/Sandwiches
+4768;;Sandwich (Baguette) mit Trockenfleisch;Kurzbeschreibung;375;g ;3,49;€;3,49;;Gerichte/Sandwiches
+11274;;Sandwich (Baguette) mit Weichkäse;Kurzbeschreibung;120;g ;3,49;€;1,75;;Gerichte/Sandwiches
+11132;;Sandwich (Ruchbrot) mit Aufschnitt;Kurzbeschreibung;100;g ;2,49;€;2,08;;Gerichte/Sandwiches
+3214;;Sandwich (Ruchbrot) mit Fleischkäse;Kurzbeschreibung;100;g ;0,98;€;1,96;;Gerichte/Sandwiches
+11739;;Sandwich (Ruchbrot) mit Halbhartkäse;Kurzbeschreibung;200;g ;0,98;€;1,47;;Gerichte/Sandwiches
+3394;;Sandwich (Ruchbrot) mit Mozzarella;Kurzbeschreibung;375;g ;0,98;€;0,2;;Gerichte/Sandwiches
+3666;;Sandwich (Ruchbrot) mit Rohschinken;Kurzbeschreibung;120;g ;7,99;€;4;;Gerichte/Sandwiches
+3459;;Sandwich (Ruchbrot) mit Salami;Kurzbeschreibung;100;g ;1,39;€;2,78;;Gerichte/Sandwiches
+3434;;Sandwich (Ruchbrot) mit Schinken;Kurzbeschreibung;250;g ;1,49;€;2,24;;Gerichte/Sandwiches
+3115;;Sandwich (Ruchbrot) mit Trockenfleisch;Kurzbeschreibung;100;g ;0,77;€;0,15;;Gerichte/Sandwiches
+11037;;Sandwich (Ruchbrot) mit Weichkäse;Kurzbeschreibung;200;g ;0,39;€;0,2;;Gerichte/Sandwiches
+3575;;Sardelle im Öl, abgetropft;Kurzbeschreibung;375;g ;1,49;€;1,49;;Fisch/Meeresfische
+11281;;Sardellenpaste;Kurzbeschreibung;120;g ;0,69;€;0,69;;Verschiedenes/Aufstriche
+11349;;Sardine im Öl, abgetropft;Kurzbeschreibung;100;g ;0,69;€;0,35;;Fisch/Meeresfische
+11370;;Sardine, roh;Kurzbeschreibung;250;g ;5,99;€;4,99;;Fisch/Meeresfische
+11096;;Saucisse aux choux;Kurzbeschreibung;100;g ;0,99;€;1,98;;Fleisch- und Wurstwaren/Rohwurstware
+3546;;Saucisson;Kurzbeschreibung;200;g ;0,69;€;1,04;;Fleisch- und Wurstwaren/Rohwurstware
+2829;;Saucisson vaudois;Kurzbeschreibung;375;g ;1,49;€;0,3;;Fleisch- und Wurstwaren/Rohwurstware
+11230;;Saucisson, gekocht (ohne Zusatz von Fett und Salz);Kurzbeschreibung;120;g ;0,69;€;0,35;;Fleisch- und Wurstwaren/Rohwurstware
+11016;;Sauerkraut, in Essig eingelegt;Kurzbeschreibung;100;g ;0,79;€;0,79;;Gemüse/Gemüse gekocht (inkl. Konserven)
+2976;;Sauerrahm;Kurzbeschreibung;250;g ;0,69;€;0,69;;"Fette und Öle/Rahm;Milch und Milchprodukte/Rahm und Butter"
+11428;;Saurer Halbrahm;Kurzbeschreibung;100;g ;1,29;€;0,65;;"Fette und Öle/Rahm;Milch und Milchprodukte/Rahm und Butter"
+4898;;Sbrinz;Kurzbeschreibung;200;g ;0,69;€;0,58;;Milch und Milchprodukte/Hartkäse
+12049;;Scampi (Kaisergranat), roh;Kurzbeschreibung;375;g ;0,69;€;1,38;;Fisch/Meeresfrüchte, Krusten- und Schalentiere
+11127;;Schafmilch, roh;Kurzbeschreibung;120;g ;0,79;€;1,19;;Milch und Milchprodukte/Milch
+2987;;Schaumwein;Kurzbeschreibung;100;g ;0,89;€;0,18;;Alkoholhaltige Getränke/Wein
+11340;;Schmelzkäse, Scheibe, Rahm;Kurzbeschreibung;250;g ;0,69;€;0,35;;Milch und Milchprodukte/Käseerzeugnisse
+11254;;Schmelzkäse, Scheibe, viertelfett;Kurzbeschreibung;100;g ;2,49;€;2,49;;Milch und Milchprodukte/Käseerzeugnisse
+11213;;Schmelzkäse, Scheibe, vollfett;Kurzbeschreibung;200;g ;1,99;€;1,99;;Milch und Milchprodukte/Käseerzeugnisse
+11162;;Schmelzkäse, streichfähig, Rahm;Kurzbeschreibung;375;g ;1,98;€;0,99;;Milch und Milchprodukte/Käseerzeugnisse
+3313;;Schmelzkäse, streichfähig, viertelfett;Kurzbeschreibung;120;g ;3,49;€;2,91;;Milch und Milchprodukte/Käseerzeugnisse
+2807;;Schmelzkäse, streichfähig, vollfett;Kurzbeschreibung;100;g ;3,49;€;6,98;;Milch und Milchprodukte/Käseerzeugnisse
+11097;;Schnittlauch, roh;Kurzbeschreibung;250;g ;2,49;€;3,74;;Gemüse/Kräuter
+11291;;Schnitzelbrot mit Cocktailsauce;Kurzbeschreibung;100;g ;0,98;€;0,2;;Gerichte/Sandwiches
+11323;;Schnitzelbrot mit Tartarsauce;Kurzbeschreibung;200;g ;0,98;€;0,49;;Gerichte/Sandwiches
+12385;;Schokolade, dunkel (bitter);Kurzbeschreibung;375;g ;0,98;€;0,98;;Süssigkeiten/Schokolade und Kakaoerzeugnisse
+2726;;Schokolade, weiss;Kurzbeschreibung;120;g ;7,99;€;7,99;;Süssigkeiten/Schokolade und Kakaoerzeugnisse
+11307;;Schokoladencrème;Kurzbeschreibung;100;g ;1,39;€;0,7;;Süssigkeiten/Cremen und Pudding
+11324;;Schokoladengugelhopf;Kurzbeschreibung;250;g ;1,49;€;1,24;;Süssigkeiten/Kuchen, Torten und Cake
+11325;;Schokoladenpulver;Kurzbeschreibung;100;g ;0,77;€;1,54;;"Süssigkeiten/Schokolade und Kakaoerzeugnisse;Alkoholfreie Getränke/Kakaogetränke"
+11239;;Scholle, roh;Kurzbeschreibung;200;g ;0,39;€;0,59;;Fisch/Meeresfische
+11163;;Schützenwurst;Kurzbeschreibung;375;g ;1,1;€;0,22;;Fleisch- und Wurstwaren/Brühwurstware
+11204;;Schwarzwälder Kirschtorte;Kurzbeschreibung;120;g ;1,49;€;0,75;;Süssigkeiten/Kuchen, Torten und Cake
+11170;;Schwarzwurzel, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;100;g ;0,69;€;1,38;;Gemüse/Gemüse gekocht (inkl. Konserven)
+11517;;Schwarzwurzel, roh;Kurzbeschreibung;250;g ;0,69;€;1,04;;Gemüse/Gemüse frisch
+2902;;Schwein, Brustspitz, roh;Kurzbeschreibung;100;g ;5,99;€;1,2;;Fleisch und Innereien/Schwein
+10850;;Schwein, Eckstück, Plätzli, gebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;200;g ;0,99;€;0,5;;Fleisch und Innereien/Schwein
+11287;;Schwein, Eckstück, roh;Kurzbeschreibung;375;g ;0,69;€;0,69;;Fleisch und Innereien/Schwein
+11189;;Schwein, Filet, gebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;120;g ;1,49;€;1,49;;Fleisch und Innereien/Schwein
+4900;;Schwein, Filet, roh;Kurzbeschreibung;100;g ;0,69;€;0,35;;Fleisch und Innereien/Schwein
+11643;;Schwein, Gehacktes, roh;Kurzbeschreibung;250;g ;0,79;€;0,66;;Fleisch und Innereien/Schwein
+4526;;Schwein, Geschnetzeltes, gebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;100;ml;0,69;€;1,38;;Fleisch und Innereien/Schwein
+12262;;Schwein, Geschnetzeltes, roh;Kurzbeschreibung;200;g ;1,29;€;1,94;;Fleisch und Innereien/Schwein
+3683;;Schwein, Hals, Steak, gebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;375;g ;0,69;€;0,14;;Fleisch und Innereien/Schwein
+11740;;Schwein, Hals, Steak, roh;Kurzbeschreibung;120;g ;0,69;€;0,35;;Fleisch und Innereien/Schwein
+3699;;Schwein, Haxe, geschmort (ohne zusatz von Fett und Salz);Kurzbeschreibung;100;g ;0,79;€;0,79;;Fleisch und Innereien/Schwein
+11219;;Schwein, Haxe, roh;Kurzbeschreibung;100;ml;0,89;€;0,89;;Fleisch und Innereien/Schwein
+11696;;Schwein, Kotelett, gebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;200;ml;0,69;€;0,35;;Fleisch und Innereien/Schwein
+3078;;Schwein, Kotelett, roh;Kurzbeschreibung;375;g ;2,49;€;2,08;;Fleisch und Innereien/Schwein
+3979;;Schwein, Leber, roh;Kurzbeschreibung;120;g ;1,99;€;3,98;;Fleisch und Innereien/Schwein
+11741;;Schwein, Nierstück, roh;Kurzbeschreibung;100;g ;1,98;€;2,97;;Fleisch und Innereien/Schwein
+11231;;Schwein, Runder Mocken, roh;Kurzbeschreibung;250;g ;3,49;€;0,7;;Fleisch und Innereien/Schwein
+11742;;"Schwein, Schulter, Braten medium"", im Ofen gebraten (ohne Zugabe von Fett und Salz)""";Kurzbeschreibung;100;g ;3,49;€;1,75;;Fleisch und Innereien/Schwein
+11266;;"Schwein, Schulter, Braten well done"", im Ofen gebraten (ohne Zugabe von Fett und Salz)""";Kurzbeschreibung;200;g ;2,49;€;2,49;;Fleisch und Innereien/Schwein
+11854;;Schwein, Schulter, Braten, roh;Kurzbeschreibung;375;g ;0,98;€;0,98;;Fleisch und Innereien/Schwein
+4251;;Schwein, Voressen, roh;Kurzbeschreibung;120;g ;0,98;€;0,49;;Fleisch und Innereien/Schwein
+4027;;Schweinefleisch (Durchschnitt exkl. Innereien, Kotelett, Haxe), roh;Kurzbeschreibung;100;g ;0,98;€;0,82;;Fleisch und Innereien/Schwein
+3590;;Schweineschmalz;Kurzbeschreibung;250;g ;7,99;€;15,98;;Fette und Öle/Fette
+3016;;Schweinsbratwurst;Kurzbeschreibung;100;g ;1,39;€;2,09;;Fleisch- und Wurstwaren/Brühwurstware
+4101;;Schweinspiccata, zubereitet;Kurzbeschreibung;200;g ;1,49;€;0,3;;Gerichte/Sonstige salzige/rezente Gerichte
+11743;;Schweinsragout mit Sauce, zubereitet;Kurzbeschreibung;375;g ;0,77;€;0,39;;Gerichte/Sonstige salzige/rezente Gerichte
+11148;;Schweinswurst;Kurzbeschreibung;120;g ;0,39;€;0,39;;Fleisch- und Wurstwaren/Brühwurstware
+3279;;Schweizer Salami, Schweine- und Rindfleisch;Kurzbeschreibung;100;g ;1,1;€;1,1;;Fleisch- und Wurstwaren/Rohwurstware
+11322;;Seehecht, roh;Kurzbeschreibung;250;g ;1,49;€;0,75;;Fisch/Meeresfische
+2609;;Seelachs, roh;Kurzbeschreibung;100;g ;0,69;€;0,58;;Fisch/Meeresfische
+11744;;Seezunge, roh;Kurzbeschreibung;200;g ;0,69;€;1,38;;Fisch/Meeresfische
+11745;;Sellerie-Piccata, zubereitet;Kurzbeschreibung;375;g ;5,99;€;8,99;;Gerichte/Sonstige salzige/rezente Gerichte
+11226;;Selleriescheiben, paniert, zubereitet;Kurzbeschreibung;120;g ;0,99;€;0,2;;Gemüse/Gemüse gekocht (inkl. Konserven)
+3200;;Semmeli;Kurzbeschreibung;100;g ;0,69;€;0,35;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+2743;;Sesamsamen ungeschält;Kurzbeschreibung;250;g ;1,49;€;1,49;;Nüsse, Samen und Ölfrüchte
+2694;;Sherry, 18.5 vol%;Kurzbeschreibung;100;g ;0,69;€;0,35;;Alkoholhaltige Getränke/Wein
+2823;;Siedfleischsalat, zubereitet;Kurzbeschreibung;200;g ;0,79;€;0,66;;Gerichte/Salate
+2727;;Silberzwiebel, in Essig eingelegt;Kurzbeschreibung;375;g ;0,69;€;1,38;;Gemüse/Gemüse gekocht (inkl. Konserven)
+2714;;Sirup unverdünnt;Kurzbeschreibung;120;g ;1,29;€;1,94;;Alkoholfreie Getränke/Sirup
+11240;;Sirup zubereitet (verdünnt im Verhältnis 1:5.5);Kurzbeschreibung;100;g ;0,69;€;0,14;;"Alkoholfreie Getränke/Sirup;Alkoholfreie Getränke/Süssgetränke"
+11149;;Soja Drink, nature;Kurzbeschreibung;250;g ;0,69;€;0,35;;Milch und Milchprodukte/Milchersatzprodukte
+2756;;Sojabohne, gekocht (ohne Zugabe von Fett und Salz);Kurzbeschreibung;100;g ;0,79;€;0,79;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Hülsenfrüchte
+3119;;Sojabohne, getrocknet;Kurzbeschreibung;200;g ;0,89;€;0,89;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Hülsenfrüchte
+11973;;Sojamehl, entfettet;Kurzbeschreibung;375;g ;0,69;€;0,35;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+2690;;Sojamehl, vollfett;Kurzbeschreibung;120;g ;2,49;€;2,08;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+3086;;Sojaöl;Kurzbeschreibung;100;g ;1,99;€;3,98;;Fette und Öle/Öle
+3181;;Sojasprossen, roh;Kurzbeschreibung;250;g ;1,98;€;2,97;;Gemüse/Sprossen und Keimlinge
+3084;;Sonnenblumenkerne;Kurzbeschreibung;100;g ;3,49;€;0,7;;Nüsse, Samen und Ölfrüchte
+3093;;Sonnenblumenöl;Kurzbeschreibung;200;g ;3,49;€;1,75;;Fette und Öle/Öle
+11241;;Sonnenblumenöl HO (high oleic), raffiniert;Kurzbeschreibung;375;g ;2,49;€;4,98;;Fette und Öle/Öle
+4920;;Sorbet, Frucht;Kurzbeschreibung;120;ml;0,98;€;1,47;;Süssigkeiten/Glacen auf Wasserbasis
+4094;;Spargel, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;100;g ;0,98;€;0,2;;Gemüse/Gemüse gekocht (inkl. Konserven)
+3155;;Spargel, roh;Kurzbeschreibung;250;g ;0,98;€;0,49;;Gemüse/Gemüse frisch
+3022;;Spinat, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;100;g ;7,99;€;7,99;;Gemüse/Gemüse gekocht (inkl. Konserven)
+11350;;Spinat, roh;Kurzbeschreibung;200;g ;1,39;€;1,39;;Gemüse/Gemüse frisch
+2925;;Spinatkuchen, gebacken (mit Blätterteig);Kurzbeschreibung;375;g ;1,49;€;0,75;;Gerichte/Kuchen und Gratins
+11232;;Spinatkuchen, gebacken (mit Kuchenteig);Kurzbeschreibung;120;g ;0,77;€;0,64;;Gerichte/Kuchen und Gratins
+2825;;Spirituosen 40 vol% (z.B. Brandy, Gin);Kurzbeschreibung;100;g ;0,39;€;0,78;;Alkoholhaltige Getränke/Spirituosen
+3232;;Spitzbube (Mürbeteiggebäck mit Konfitüre);Kurzbeschreibung;250;g ;1,1;€;1,65;;Süssigkeiten/Sonstige süsse Backwaren
+11319;;St. Galler Bürli (halbweiss);Kurzbeschreibung;100;g ;1,49;€;0,3;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+3414;;St. Galler Schüblig;Kurzbeschreibung;200;g ;0,69;€;0,35;;Fleisch- und Wurstwaren/Brühwurstware
+3149;;St. Paulin;Kurzbeschreibung;375;g ;0,69;€;0,69;;Milch und Milchprodukte/Hartkäse
+3231;;Stachelbeere, roh;Kurzbeschreibung;120;g ;5,99;€;5,99;;Früchte/Früchte frisch
+3204;;Stangensellerie, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;100;g ;0,99;€;0,5;;Gemüse/Gemüse gekocht (inkl. Konserven)
+11276;;Stangensellerie, roh;Kurzbeschreibung;250;g ;0,69;€;0,58;;Gemüse/Gemüse frisch
+3217;;Steinpilz, gedünstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;100;g ;1,49;€;2,98;;Gemüse/Pilze
+3087;;Steinpilz, roh;Kurzbeschreibung;200;g ;0,69;€;1,04;;Gemüse/Pilze
+3293;;Surimi;Kurzbeschreibung;375;g ;0,79;€;0,16;;Fisch/Fischerzeugnisse
+11697;;Taboulé, zubereitet (mit Bulgur);Kurzbeschreibung;120;ml;0,69;€;0,35;;Gerichte/Salate
+3170;;Taboulé, zubereitet (mit Couscous);Kurzbeschreibung;100;g ;1,29;€;1,29;;Gerichte/Salate
+11746;;Tartarsauce, selbst zubereitet mit Rapsöl-Mayonnaise;Kurzbeschreibung;250;g ;0,69;€;0,69;;Verschiedenes/Saucen
+3278;;Tee, ungezuckert;Kurzbeschreibung;100;g ;0,69;€;0,35;;Alkoholfreie Getränke/Tee
+3101;;Teigwaren mit Ei, gekocht im Salzwasser (unjodiert);Kurzbeschreibung;200;g ;0,79;€;0,66;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teigwaren
+11257;;Teigwaren mit Ei, trocken;Kurzbeschreibung;375;ml;0,89;€;1,78;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teigwaren
+3431;;Teigwaren ohne Ei, gekocht im Salzwasser (unjodiert);Kurzbeschreibung;120;g ;0,69;€;1,04;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teigwaren
+3014;;Teigwaren ohne Ei, trocken;Kurzbeschreibung;100;g ;2,49;€;0,5;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teigwaren
+11284;;Teigwaren ohne Ei, Vollkorn, gekocht im Salzwasser (unjodiert);Kurzbeschreibung;250;g ;1,99;€;1;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teigwaren
+11160;;Teigwaren ohne Ei, Vollkorn, trocken;Kurzbeschreibung;100;g ;1,98;€;1,98;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Teigwaren
+11514;;Teigwarenauflauf mit Schinken, zubereitet;Kurzbeschreibung;200;g ;3,49;€;3,49;;Gerichte/Kuchen und Gratins
+12153;;Teigwarensalat mit französischer Sauce;Kurzbeschreibung;375;g ;3,49;€;1,75;;Gerichte/Salate
+11644;;Teigwarensalat mit italienischer Sauce;Kurzbeschreibung;120;g ;1,49;€;1,24;;Gerichte/Salate
+3754;;Teilentrahmte Milch, pasteurisiert;Kurzbeschreibung;100;g ;0,69;€;1,38;;Milch und Milchprodukte/Milch
+10943;;Teilentrahmte Milch, UHT;Kurzbeschreibung;250;g ;0,69;€;1,04;;Milch und Milchprodukte/Milch
+11258;;Tessinerbrot;Kurzbeschreibung;100;ml;5,99;€;1,2;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+11855;;Tête de Moine;Kurzbeschreibung;200;g ;0,99;€;0,5;;Milch und Milchprodukte/Hartkäse
+11856;;Thon im Öl, abgetropft;Kurzbeschreibung;375;g ;0,69;€;1,38;;Fisch/Meeresfische
+11857;;Thon im Wasser, abgetropft;Kurzbeschreibung;120;g ;1,49;€;2,24;;Fisch/Meeresfische
+4705;;Thonsalat an Essig-Öl-Sauce (aus Thon im Wasser);Kurzbeschreibung;100;g ;0,69;€;0,14;;Gerichte/Salate
+4706;;Thunfisch, roh;Kurzbeschreibung;250;g ;0,79;€;0,4;;Fisch/Meeresfische
+11248;;Thymian, roh;Kurzbeschreibung;100;g ;0,69;€;0,69;;Gemüse/Kräuter
+4694;;Tilsiter, pasteurisiert, vollfett;Kurzbeschreibung;200;g ;1,29;€;1,29;;Milch und Milchprodukte/Hartkäse
+11286;;Tilsiter, Rohmilch, vollfett;Kurzbeschreibung;375;g ;0,69;€;0,35;;Milch und Milchprodukte/Hartkäse
+2849;;Tirolercake;Kurzbeschreibung;120;ml;0,69;€;0,58;;Süssigkeiten/Kuchen, Torten und Cake
+3140;;Toastbrot mit Butter;Kurzbeschreibung;100;g ;0,79;€;1,58;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+11378;;Toastbrot mit Pflanzenölen;Kurzbeschreibung;250;g ;0,89;€;1,34;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+11308;;Tofu;Kurzbeschreibung;100;g ;0,69;€;0,14;;Fleischersatzprodukte
+11309;;Tomate, gedünstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;200;g ;2,49;€;1,25;;Gemüse/Gemüse gekocht (inkl. Konserven)
+11747;;Tomate, geschält (Konserve);Kurzbeschreibung;375;g ;1,99;€;1,99;;Gemüse/Gemüse gekocht (inkl. Konserven)
+11161;;Tomate, roh;Kurzbeschreibung;120;g ;1,98;€;1,98;;Gemüse/Gemüse frisch
+4370;;Tomatenkuchen, gebacken (mit Blätterteig);Kurzbeschreibung;100;g ;3,49;€;1,75;;Gerichte/Kuchen und Gratins
+2870;;Tomatenkuchen, gebacken (mit Kuchenteig);Kurzbeschreibung;250;g ;3,49;€;2,91;;Gerichte/Kuchen und Gratins
+3847;;Tomatenpüree;Kurzbeschreibung;100;g ;2,49;€;4,98;;Gemüse/Gemüse gekocht (inkl. Konserven)
+4046;;Tomatensaft;Kurzbeschreibung;200;g ;0,98;€;1,47;;"Alkoholfreie Getränke/Frucht- und Gemüsesäfte;Gemüse/Gemüsesäfte"
+3817;;Tomatensauce;Kurzbeschreibung;375;g ;0,98;€;0,2;;Verschiedenes/Saucen
+3682;;Tomatensuppe;Kurzbeschreibung;120;g ;0,98;€;0,49;;Gerichte/Eintöpfe und Suppen
+4044;;Tomme;Kurzbeschreibung;100;g ;7,99;€;7,99;;Milch und Milchprodukte/Weichkäse
+4051;;Traube, roh;Kurzbeschreibung;250;g ;1,39;€;1,39;;Früchte/Früchte frisch
+3662;;Traubenkernöl;Kurzbeschreibung;100;g ;1,49;€;0,75;;Fette und Öle/Öle
+3964;;Traubensaft;Kurzbeschreibung;200;g ;0,77;€;0,64;;"Früchte/Fruchtsäfte;Alkoholfreie Getränke/Frucht- und Gemüsesäfte"
+3733;;Traubenzucker;Kurzbeschreibung;375;g ;0,39;€;0,78;;Süssigkeiten/Zucker und Süssstoffe
+3457;;Trinkwasser (Mittelwert Schweiz);Kurzbeschreibung;120;g ;1,1;€;1,65;;Alkoholfreie Getränke/Trinkwasser
+3159;;Trockenfleisch;Kurzbeschreibung;100;g ;1,49;€;0,3;;Fleisch- und Wurstwaren/Rohwurstware
+11698;;Truthahn, Brust, Schnitzel oder Geschnetzeltes, grebraten (ohne Zusatz von Fett und Salz);Kurzbeschreibung;250;ml;0,69;€;0,35;;Fleisch und Innereien/Geflügel
+4386;;Truthahn, Brust, Schnitzel oder Geschnetzeltes, roh;Kurzbeschreibung;100;g ;0,69;€;0,69;;Fleisch und Innereien/Geflügel
+11318;;Vacherin Mont d'Or;Kurzbeschreibung;200;g ;5,99;€;5,99;;Milch und Milchprodukte/Weichkäse
+4431;;Vanillecrème, gekocht;Kurzbeschreibung;100;g ;0,99;€;0,5;;Süssigkeiten/Cremen und Pudding
+4548;;Vinaigrette (mit Rapsöl);Kurzbeschreibung;200;g ;0,69;€;0,58;;Fette und Öle/Salatsaucen
+12050;;Vitello tonnato mit Garnitur;Kurzbeschreibung;375;g ;1,49;€;2,98;;Fleisch und Innereien/Kalb
+11858;;Vitello tonnato ohne Garnitur;Kurzbeschreibung;120;g ;0,69;€;1,04;;Fleisch und Innereien/Kalb
+11445;;Vollkornreiswaffel;Kurzbeschreibung;100;g ;0,79;€;0,16;;Brote, Flocken und Frühstückscerealien/Knäckebrote, Zwieback, Crackers und Waffeln
+3036;;Vollmilch, pasteurisiert;Kurzbeschreibung;250;g ;0,69;€;0,35;;Milch und Milchprodukte/Milch
+3851;;Vollmilch, UHT;Kurzbeschreibung;100;g ;1,29;€;2,58;;Milch und Milchprodukte/Milch
+2571;;Vollmilchpulver;Kurzbeschreibung;200;g ;0,69;€;1,04;;Milch und Milchprodukte/Milch
+11748;;Vollrahm, pasteurisiert;Kurzbeschreibung;375;g ;0,69;€;0,14;;"Fette und Öle/Rahm;Milch und Milchprodukte/Rahm und Butter"
+3606;;Vollrahm, UHT;Kurzbeschreibung;120;g ;0,79;€;0,4;;"Fette und Öle/Rahm;Milch und Milchprodukte/Rahm und Butter"
+2725;;Vorderschinken;Kurzbeschreibung;100;g ;0,89;€;0,89;;Fleisch- und Wurstwaren/Kochwurstware
+4890;;Vorzugsbutter;Kurzbeschreibung;250;g ;0,69;€;0,69;;"Fette und Öle/Fette;Milch und Milchprodukte/Rahm und Butter"
+3574;;Walliser Roggenbrot;Kurzbeschreibung;100;g ;2,49;€;1,25;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+3677;;Wasabi Paste;Kurzbeschreibung;200;g ;1,99;€;1,66;;Verschiedenes/Saucen
+3686;;Wassereis;Kurzbeschreibung;375;g ;1,98;€;3,96;;Süssigkeiten/Glacen auf Wasserbasis
+11475;;Wassermelone, roh;Kurzbeschreibung;120;g ;3,49;€;5,24;;Früchte/Früchte frisch
+11396;;Weichkaramellen, Bonbons;Kurzbeschreibung;100;g ;3,49;€;0,7;;Süssigkeiten/Bonbons, Frucht- und Kaugummi
+11447;;Weichkäse (Durchschnitt ohne fettreduzierte Varianten);Kurzbeschreibung;250;g ;2,49;€;1,25;;Milch und Milchprodukte/Weichkäse
+11749;;Weichkäse, Doppelrahm;Kurzbeschreibung;100;g ;0,98;€;0,98;;Milch und Milchprodukte/Weichkäse
+11306;;Wein rot, 12 vol%;Kurzbeschreibung;200;g ;0,98;€;0,98;;Alkoholhaltige Getränke/Wein
+11320;;Wein rot, 13.5 vol%;Kurzbeschreibung;375;g ;0,98;€;0,49;;Alkoholhaltige Getränke/Wein
+11494;;Wein rot, 9 vol%;Kurzbeschreibung;120;ml;7,99;€;6,66;;Alkoholhaltige Getränke/Wein
+4640;;Wein weiss, 11 vol%;Kurzbeschreibung;100;g ;1,39;€;2,78;;Alkoholhaltige Getränke/Wein
+4238;;Wein weiss, 12.5 vol%;Kurzbeschreibung;250;g ;1,49;€;2,24;;Alkoholhaltige Getränke/Wein
+10880;;Wein weiss, gespritzt, sauer;Kurzbeschreibung;100;g ;0,77;€;0,15;;Alkoholhaltige Getränke/Wein
+12154;;Wein weiss, gespritzt, süss;Kurzbeschreibung;100;g ;0,39;€;0,2;;Alkoholhaltige Getränke/Wein
+10854;;Weissbrot;Kurzbeschreibung;200;g ;1,1;€;1,1;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+10994;;Weisskohl, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;375;g ;1,49;€;1,49;;Gemüse/Gemüse gekocht (inkl. Konserven)
+10953;;Weisskohl, gedünstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;120;g ;0,69;€;0,35;;Gemüse/Gemüse gekocht (inkl. Konserven)
+10954;;Weisskohl, roh;Kurzbeschreibung;100;g ;0,69;€;0,58;;Gemüse/Gemüse frisch
+10974;;Weisswurst;Kurzbeschreibung;250;g ;5,99;€;11,98;;Fleisch- und Wurstwaren/Brühwurstware
+11699;;Weizen (Weichweizen), ganzes Korn;Kurzbeschreibung;100;ml;0,99;€;1,49;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Sonstige Getreideprodukte
+11700;;Weizenflocken, Vollkorn;Kurzbeschreibung;200;ml;0,69;€;0,14;;Brote, Flocken und Frühstückscerealien/Flocken, Kleie und Keime
+12386;;Weizenkeime;Kurzbeschreibung;375;g ;1,49;€;0,75;;"Brote, Flocken und Frühstückscerealien/Flocken, Kleie und Keime;Speziallebensmittel/Supplemente"
+12512;;Weizenkeimöl;Kurzbeschreibung;120;g ;0,69;€;0,69;;Fette und Öle/Öle
+3331;;Weizenkleie;Kurzbeschreibung;100;g ;0,79;€;0,79;;Brote, Flocken und Frühstückscerealien/Flocken, Kleie und Keime
+11091;;Weizenmehl (Backmehl), Typ 550;Kurzbeschreibung;250;g ;0,69;€;0,35;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+2990;;Weizenmehl, halbweiss, Typ 720;Kurzbeschreibung;100;g ;1,29;€;1,08;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+10927;;Weizenmehl, Ruch, Typ 1100;Kurzbeschreibung;200;g ;0,69;€;1,38;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+4210;;Weizenmehl, Vollkorn, Typ 1700;Kurzbeschreibung;375;g ;0,69;€;1,04;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+4260;;Weizenmehl, weiss, Typ 400;Kurzbeschreibung;120;g ;0,79;€;0,16;;Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke
+11150;;Weizenotto, gekocht;Kurzbeschreibung;100;g ;0,89;€;0,45;;Gerichte/Sonstige salzige/rezente Gerichte
+5015;;Weizenstärke;Kurzbeschreibung;250;ml;0,69;€;0,35;;"Getreideprodukte, Hülsenfrüchte und Kartoffeln/Mehle und Stärke;Verschiedenes/Gelier- und Bindemittel"
+4995;;Weizenvollkornbrot;Kurzbeschreibung;100;ml;2,49;€;2,08;;Brote, Flocken und Frühstückscerealien/Brote und Brotwaren
+10886;;Wermut, 15 vol%;Kurzbeschreibung;200;ml;1,99;€;3,98;;Alkoholhaltige Getränke/Wein
+12165;;Wienerli;Kurzbeschreibung;375;g ;1,98;€;2,97;;Fleisch- und Wurstwaren/Brühwurstware
+11495;;Wienerli, gekocht;Kurzbeschreibung;120;ml;3,49;€;0,7;;Fleisch- und Wurstwaren/Brühwurstware
+4967;;Wildfleisch (Durchschnitt), gekocht (ohne Zusatz von Fett und Salz);Kurzbeschreibung;100;g ;3,49;€;1,75;;Fleisch und Innereien/Wild
+4048;;Wildfleisch (Durchschnitt), roh;Kurzbeschreibung;250;g ;2,49;€;2,49;;Fleisch und Innereien/Wild
+11049;;Wildfleischterrine;Kurzbeschreibung;100;g ;0,98;€;0,98;;Fleisch und Innereien/Wild
+3641;;Wildschwein (Durchschnitt), roh;Kurzbeschreibung;200;g ;0,98;€;0,49;;Fleisch und Innereien/Wild
+4067;;Wirz, gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;375;g ;0,98;€;0,82;;Gemüse/Gemüse gekocht (inkl. Konserven)
+3698;;Wirz, roh;Kurzbeschreibung;120;g ;7,99;€;15,98;;Gemüse/Gemüse frisch
+3578;;Wurst-Käse-Salat, zubereitet;Kurzbeschreibung;100;g ;1,39;€;2,09;;Gerichte/Salate
+3857;;Wurstsalat, zubereitet;Kurzbeschreibung;250;g ;1,49;€;0,3;;Gerichte/Salate
+11082;;Wurzel- und Knollengemüse (Durchschnitt), gedämpft (ohne Zugabe von Salz);Kurzbeschreibung;100;g ;0,77;€;0,39;;Gemüse/Gemüse gekocht (inkl. Konserven)
+3665;;Wurzel- und Knollengemüse (Durchschnitt), gedünstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;200;g ;0,39;€;0,39;;Gemüse/Gemüse gekocht (inkl. Konserven)
+3566;;Wurzel- und Knollengemüse (Durchschnitt), gekocht (ohne Zugabe von Fett und Salz);Kurzbeschreibung;375;g ;1,1;€;1,1;;Gemüse/Gemüse gekocht (inkl. Konserven)
+3687;;Wurzel- und Knollengemüse (Durchschnitt), roh;Kurzbeschreibung;120;g ;1,49;€;0,75;;Gemüse/Gemüse frisch
+3907;;Zampone;Kurzbeschreibung;100;g ;0,69;€;0,58;;Fleisch und Innereien/Schwein
+3581;;Ziege (Durchschnitt), roh;Kurzbeschreibung;250;g ;0,69;€;1,38;;Fleisch und Innereien/Sonstige Tierarten
+3726;;Ziegenmilch;Kurzbeschreibung;100;g ;5,99;€;8,99;;Milch und Milchprodukte/Milch
+3565;;Ziger weiss;Kurzbeschreibung;200;g ;0,99;€;0,2;;Milch und Milchprodukte/Frischkäse und Quark
+11280;;Zimtstern;Kurzbeschreibung;375;g ;0,69;€;0,35;;Süssigkeiten/Guetzli
+11260;;Zitrone, roh;Kurzbeschreibung;120;g ;1,49;€;1,49;;Früchte/Früchte frisch
+2575;;Zitronensaft;Kurzbeschreibung;100;g ;0,69;€;0,69;;"Früchte/Fruchtsäfte;Alkoholfreie Getränke/Frucht- und Gemüsesäfte"
+3572;;Zitrusfrüchte (Durchschnitt), roh;Kurzbeschreibung;250;g ;0,79;€;0,4;;Früchte/Früchte frisch
+3165;;Zucchetti-Piccata, zubereitet;Kurzbeschreibung;100;g ;0,69;€;0,58;;Gerichte/Sonstige salzige/rezente Gerichte
+2706;;Zucchetti, gedünstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;200;g ;1,29;€;2,58;;Gemüse/Gemüse gekocht (inkl. Konserven)
+11171;;Zucchetti, roh;Kurzbeschreibung;375;g ;0,69;€;1,04;;Gemüse/Gemüse frisch
+2974;;Zucchettischeiben, paniert, zubereitet;Kurzbeschreibung;120;g ;0,69;€;0,14;;Gerichte/Sonstige salzige/rezente Gerichte
+3218;;Zucker, braun;Kurzbeschreibung;100;g ;0,79;€;0,4;;Süssigkeiten/Zucker und Süssstoffe
+4100;;Zucker, weiss;Kurzbeschreibung;250;g ;0,89;€;0,18;;Süssigkeiten/Zucker und Süssstoffe
+11190;;Zuckerhutsalat, roh;Kurzbeschreibung;100;g ;0,69;€;0,35;;Gemüse/Gemüse frisch
+11119;;Zuckermais (Konserve);Kurzbeschreibung;200;g ;2,49;€;2,49;;Gemüse/Gemüse gekocht (inkl. Konserven)
+3401;;Zuckermais (Konserve), aufgewärmt (ohne Zugabe von Salz);Kurzbeschreibung;375;g ;1,99;€;1,99;;Gemüse/Gemüse gekocht (inkl. Konserven)
+3142;;Zuger Kirschtorte;Kurzbeschreibung;120;g ;1,98;€;0,99;;Süssigkeiten/Kuchen, Torten und Cake
+11288;;Zunge (Durchschnitt aus Kalb und Rind), roh;Kurzbeschreibung;100;g ;3,49;€;2,91;;"Fleisch und Innereien/Kalb;Fleisch und Innereien/Rind"
+3680;;Zwetschge, gedünstet, abgetropft (ohne Zugabe von Zucker);Kurzbeschreibung;250;g ;3,49;€;6,98;;Früchte/Früchte gekocht (inkl. Konserven)
+3681;;Zwetschge, roh;Kurzbeschreibung;100;g ;2,49;€;3,74;;Früchte/Früchte frisch
+3419;;Zwetschgenkuchen, gebacken (mit Blätterteig);Kurzbeschreibung;200;g ;0,98;€;0,2;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+11075;;Zwetschgenkuchen, gebacken (mit Kuchenteig);Kurzbeschreibung;375;g ;0,98;€;0,49;;"Süssigkeiten/Kuchen, Torten und Cake;Gerichte/Kuchen und Gratins"
+2958;;Zwieback;Kurzbeschreibung;100;g ;0,98;€;0,98;;Brote, Flocken und Frühstückscerealien/Knäckebrote, Zwieback, Crackers und Waffeln
+11242;;Zwieback, Vollkorn;Kurzbeschreibung;200;g ;7,99;€;7,99;;Brote, Flocken und Frühstückscerealien/Knäckebrote, Zwieback, Crackers und Waffeln
+3796;;Zwiebel, gedünstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;375;g ;1,39;€;0,7;;Gemüse/Gemüse gekocht (inkl. Konserven)
+10993;;Zwiebel, geröstet (ohne Zugabe von Fett und Salz);Kurzbeschreibung;120;g ;1,49;€;1,24;;Gemüse/Gemüse gekocht (inkl. Konserven)
+3169;;Zwiebel, roh;Kurzbeschreibung;100;g ;0,77;€;1,54;;Gemüse/Gemüse frisch
+2818;;Zwiebelkuchen, gebacken (mit Blätterteig);Kurzbeschreibung;250;g ;0,39;€;0,59;;Gerichte/Kuchen und Gratins
+2597;;Zwiebelkuchen, gebacken (mit Kuchenteig);Kurzbeschreibung;200;g ;1,1;€;0,22;;Gerichte/Kuchen und Gratins
+10001;;H-Milch 1,5% 1l;H-fettarme Milch, 1,5% Fett, ultrahocherhitzt, homogenisiert;1;l;0,61;€;0,61;;5270
+10002;;Bio H-Vollmilch 3,8% 1l;Bio H-Vollmilch, 3,8% Fett, ultrahocherhitzt, homogenisiert;1;l;1,09;€;1,09;;5270
+10003;;MinusL haltbare Milch laktosefrei 1,5% 1l;fettarme H-Milch, 1,5 % Fett, ultrahocherhitzt, homogenisiert;1;l;0,99;€;0,99;;5270
+10004;;Weihenstephan H-Milch 1,5% 1l;Erleben Sie unseren einzigartig-frischen Geschmack: Machen Sie keine Kompromisse! Denn bei Weihenstephan ist frischer Geschmack trotz langer Haltbarkeit kein Widerspruch mehr. Durch unsere besonders qualitätsschonende Erwärmung können wir die Hitzebelastung gegenüber herkömmlichen Verfahren um 80% reduzieren. ;1;l;1,29;€;1,29;;5270
+10005;;Milram H-Milch 3,5% 500ml;H-Vollmilch , 3,5 % Fett;500;ml;0,59;€;1,18;;5270
+10006;;Kinder Riegel 18 Riegel Big Pack;Gefüllte Vollmilchschokolade mit Milchfüllung. Die Vollmilchschokolade der Marke Kinder ist in der handlichen 18er-Packung erhältlich. Mit diesem süßen Snack für zwischendurch tanken Sie ganz einfach auch unterwegs neue Energie und sind gewappnet für kommende Aufgaben. ;378;g;3,49;€;9,23;;105360
+10007;;Toblerone Milchschokolade klein 100 g;Schweizer Milchschokolade mit Honig- und Mandel-Torrone (10%).;100;g;1,69;€;1,69;;105360
+10008;;Mikado Keks-Sticks Zartherbe Schokolade 75g;Die langen, knusprigen Keks-Sticks mit feiner Milchschokolade von Mikado sind der ideale Snack für zwischendurch - ob zum Teilen mit Freunden oder zum allein Genießen.;75;g;1,39;€;1,85;;105360
+10009;;Milka Tafel Alpenmilch 100g;Milkas Alpenmilch Schokoladentafel ist der Klassiker für alle Schokoladen-Fans. Der leckere, zartschmelzende Schokoladengenuss aus 100% Alpenmilch darf in keinem Haushalt fehlen.;100;g;0,79;€;0,79;;105360
+10010;;Milka Großtafel Schoko & Keks 300g;Milka Schoko & Keks ist die gelungene Kombination aus zartschmelzender Alpenmilch Schokolade und knusprigem Keks - ein Genuss für die ganze Familie!;300;g;2,99;€;9,97;;105360
+10011;;Harry Vital & Fit 250g;Bei diesen Produkten bieten wir Ihnen beste Frische und Qualität. Bitte beachten Sie daher, dass dieses Brot nur eine sehr kurze Restlaufzeit hat.;250;g;0,89;€;3,56;;12680
+10012;;Harry Bäckerfrisch Krustenbrot 500g;Bei diesen Produkten bieten wir Ihnen beste Frische und Qualität. Bitte beachten Sie daher, dass dieses Brot nur eine sehr kurze Restlaufzeit hat.;500;g;0,99;€;1,98;;12680
+10013;;Gab Paderborner Landbrot geschnitten 500g;Roggenmischbrot mit 33 % Roggenanteil;500;g;0,99;€;1,98;;12680
+10014;;Harry GaB Sonnenblumenbrot Vollkorn - geschnitten;Weizenmischbrot mit 55 % Weizenmehl;500;g;1,29;€;1,29;;12680
+10015;;Schär Meisterbäckers Vital 350g;Glutenfreies Körnerbrot;350;g;2,79;€;7,97;;12680
+10016;;Kerrygold Original Irischer Cheddar herzhaft 150g;Der wohl bekannteste irische Käse in Deutschland ist der Cheddar. Der herzhafte Cheddar wird aus pasteurisierter, irischer Weidemilch und ohne künstliche Zusatzstoffe hergestellt. Er reift typischerweise 6 Monate, ist von Natur aus laktosefrei und auch für Vegetarier geeignet. Der herzhafte Scheibenkäse entfaltet seinen vollen Geschmack am besten pur bei einem Glas Rotwein oder als Krönung gratiniert auf einem Auflauf. ;150;g;1,99;€;1,33;;5540
+10017;;Leerdammer Original Scheiben 140g;Der beliebte Klassiker überzeugt seit 1978 mit seinem mild-nussigen Geschmack. LEERDAMMER Original ist der unwiderstehliche Genuss für die ganze Familie und für jede Gelegenheit. ;140;g;1,69;€;1,21;;5540
+10018;;Géramont Cremig-zarte Scheiben sahnig-mild 150g;Französischer Weichkäse aus pasteurisierter Kuhmilch;150;g;2,49;€;1,66;;5540
+10019;;Bergader Almkäse Scheiben nussig 150g;Scheibe für Scheibe feinster bayerischer Käsegenuss:Schnell und unkompliziert lassen sich mit den Bergader Almkäse Scheiben köstliche Brötchen belegen und raffinierte Gerichte zubereiten.;150;g;1,79;€;1,19;;5540
+10020;;Bonbel Scheiben Natur 100g;Butterkäse, 50% Fett. i. Tr.;100;g;1,79;€;1,79;;5540
+10021;;Cherrystrauchtomaten;Tomaten zählen zur Kategorie der Fruchtgemüse und gehören eigentlich in die Obstschale.;500;g;0,99;€;1,98;;10030
+10022;;Bio Speisekartoffeln;Bio-Speisekartoffeln;1;Netz;2,49;€;1,79;;10030
+10023;;Speisezwiebeln;Speisezwiebeln, Größe 40-60 mm oder 50-70 mm;1,5;kg;2,99;€;1,99;;10030
+10024;;Cherry Rispentomaten;Diese Cherryrispentomaten sind am Stiel weiter gereift. Das Ergebnis ist eine besonders vollmundige Tomate. Zusätzlich ist diese Cherryrispentomate süß und köstlich. Hervorragend als Snack oder in einen gesunden Salat.;250;g;1,39;€;0,57;;10030

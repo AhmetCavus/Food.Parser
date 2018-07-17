@@ -6,6 +6,7 @@ class TestParser {
     constructor(resModel) {
         this._resModel = resModel;
         this._testItems = [];
+        this._testCategories = [];
     }
 
     /**
@@ -16,10 +17,18 @@ class TestParser {
         return new Promise(
             (resolve, reject) => {
                 this._resModel
-                .fetchJson(process.env.TEST_DATA_FILE)
+                .fetchCsv(process.env.TEST_DATA_FILE)
                 .then(testItems => {
                     this._testItems = testItems;
-                    resolve(this._testItems);
+                    this._resModel
+                    .fetchJson(process.env.TEST_DATA_FILE_2)
+                    .then(categoryItems => {
+                        this._testCategories = categoryItems;
+                        resolve(this._testCategories);
+                    })
+                    .catch(err => {
+                        reject(err);
+                    });
                 })
                 .catch(err => {
                     reject(err);
@@ -72,7 +81,7 @@ class TestParser {
      * @param {Array} an array of sorting keys 
      * @returns {Array} The sorted address array
      */
-    parse() {
+    parseMergedGenericItems() {
         var categories = [];
         // Execute the query. The context for Mobile Apps is available through
         // request.azureMobile. The data object contains the configured data provider.
@@ -96,6 +105,43 @@ class TestParser {
         });
         var unorderedItems = this.removeDuplicates(mappedItems, 'id');
         var result = _.orderBy(unorderedItems, item => item.id);
+        return { testItems: result };
+    }
+
+        // "id": 1,
+        // "productItemId": 771,
+        // "name": "Mayonnaise",
+        // "productCategoryId": 7720,
+        // "createdAt": "2018-07-04T07:25:57.838Z",
+        // "updatedAt": "2018-07-04T07:25:57.838Z",
+        // "deleted": false,
+        // "version": "AAAAAAAAaek="
+
+    // tradeItemId;globalTradeNumber;descriptionShort;descriptionOfTradeItem;netContent;netContentUOM;tradeItemPrice;tradeItemPriceCurrency;tradeItemPriceUOM;iconId;productCategoryId
+
+    /**
+     * Creates an array of elements, sorted in ascending order by the results 
+     * of running each element in a collection thru each iteratee. 
+     * For more information see
+     * https://lodash.com/docs/#map
+     * 
+     * @param {Array} an array of sorting keys 
+     * @returns {Array} The sorted address array
+     */
+    parseExternalFoods() {
+        this._resModel
+
+        var mappedItems =
+        _.map(this._testItems, item => {
+            var catNames = item.productCategoryId.split('/');
+            var catName = catNames[catNames.length-1];
+            var searchItem = _.find(this._testCategories, cat => cat.name === catName);
+            item.productCategoryId = searchItem ? searchItem.productCategoryId : '';
+            item.tradeItemPrice = parseFloat(item.tradeItemPrice.replace(',','.'));
+            item.tradeItemPriceUOM = parseFloat(item.tradeItemPriceUOM.replace(',','.'));
+            return item;
+        });
+        var result = _.orderBy(mappedItems, item => item.id);
         return { testItems: result };
     }
 

@@ -11,7 +11,7 @@ module.exports = {
 parser
 .init()
 .then(items => {
-    testModel.init(parser.parse());
+    testModel.init(parser.parseExternalFoods());
 })
 .catch(err => {
     console.log(err);

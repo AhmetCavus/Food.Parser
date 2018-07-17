@@ -1,0 +1,968 @@
+[
+    {
+        "productCategoryId": 105330,
+        "name": "Verschiedenes",
+        "parentId": null,
+        "subcategoryId": 105340,
+        "count": 1
+    },
+    {
+        "productCategoryId": 105340,
+        "name": "Gelier- und Bindemittel",
+        "parentId": 105330,
+        "subcategoryId": null,
+        "count": 4
+    },
+    {
+        "productCategoryId": 105360,
+        "name": "Süssigkeiten",
+        "parentId": null,
+        "subcategoryId": 105370,
+        "count": 7
+    },
+    {
+        "productCategoryId": 105370,
+        "name": "Zucker und Süssstoffe",
+        "parentId": 105360,
+        "subcategoryId": null,
+        "count": 4
+    },
+    {
+        "productCategoryId": 14780,
+        "name": "Gerichte",
+        "parentId": null,
+        "subcategoryId": 14790,
+        "count": 1
+    },
+    {
+        "productCategoryId": 14790,
+        "name": "Sonstige salzige",
+        "parentId": 14780,
+        "subcategoryId": 14800,
+        "count": 1
+    },
+    {
+        "productCategoryId": 14800,
+        "name": "rezente Gerichte",
+        "parentId": 14790,
+        "subcategoryId": null,
+        "count": 49
+    },
+    {
+        "productCategoryId": 8690,
+        "name": "Guetzli",
+        "parentId": 105360,
+        "subcategoryId": null,
+        "count": 13
+    },
+    {
+        "productCategoryId": 6170,
+        "name": "Früchte",
+        "parentId": null,
+        "subcategoryId": 6180,
+        "count": 1
+    },
+    {
+        "productCategoryId": 6180,
+        "name": "Früchte gekocht (inkl. Konserven)",
+        "parentId": 6170,
+        "subcategoryId": null,
+        "count": 22
+    },
+    {
+        "productCategoryId": 3780,
+        "name": "Früchte frisch",
+        "parentId": 6170,
+        "subcategoryId": null,
+        "count": 37
+    },
+    {
+        "productCategoryId": 4360,
+        "name": "Früchte getrocknet",
+        "parentId": 6170,
+        "subcategoryId": null,
+        "count": 10
+    },
+    {
+        "productCategoryId": 14800,
+        "name": "Kuchen, Torten und Cake;Gerichte",
+        "parentId": 105360,
+        "subcategoryId": 14810,
+        "count": 49
+    },
+    {
+        "productCategoryId": 14810,
+        "name": "Kuchen und Gratins",
+        "parentId": 14800,
+        "subcategoryId": null,
+        "count": 39
+    },
+    {
+        "productCategoryId": 5690,
+        "name": "Fruchtsäfte;Alkoholfreie Getränke",
+        "parentId": 6170,
+        "subcategoryId": 5700,
+        "count": 1
+    },
+    {
+        "productCategoryId": 5700,
+        "name": "Frucht- und Gemüsesäfte",
+        "parentId": 5690,
+        "subcategoryId": null,
+        "count": 10
+    },
+    {
+        "productCategoryId": 5120,
+        "name": "Alkoholhaltige Getränke",
+        "parentId": null,
+        "subcategoryId": 5130,
+        "count": 1
+    },
+    {
+        "productCategoryId": 5130,
+        "name": "Wein",
+        "parentId": 5120,
+        "subcategoryId": null,
+        "count": 13
+    },
+    {
+        "productCategoryId": 5540,
+        "name": "Milch und Milchprodukte",
+        "parentId": null,
+        "subcategoryId": 5550,
+        "count": 1
+    },
+    {
+        "productCategoryId": 5550,
+        "name": "Hartkäse",
+        "parentId": 5540,
+        "subcategoryId": null,
+        "count": 20
+    },
+    {
+        "productCategoryId": 10030,
+        "name": "Gemüse",
+        "parentId": null,
+        "subcategoryId": 10040,
+        "count": 1
+    },
+    {
+        "productCategoryId": 10040,
+        "name": "Gemüse gekocht (inkl. Konserven)",
+        "parentId": 10030,
+        "subcategoryId": null,
+        "count": 53
+    },
+    {
+        "productCategoryId": 3500,
+        "name": "Gemüse frisch",
+        "parentId": 10030,
+        "subcategoryId": null,
+        "count": 47
+    },
+    {
+        "productCategoryId": 103530,
+        "name": "Fleisch- und Wurstwaren",
+        "parentId": null,
+        "subcategoryId": 103540,
+        "count": 1
+    },
+    {
+        "productCategoryId": 103540,
+        "name": "Brühwurstware",
+        "parentId": 103530,
+        "subcategoryId": null,
+        "count": 18
+    },
+    {
+        "productCategoryId": 3810,
+        "name": "Gemüse frisch;Nüsse, Samen und Ölfrüchte",
+        "parentId": 10030,
+        "subcategoryId": null,
+        "count": 1
+    },
+    {
+        "productCategoryId": 7640,
+        "name": "Hefe;Verschiedenes",
+        "parentId": 105330,
+        "subcategoryId": 7650,
+        "count": 1
+    },
+    {
+        "productCategoryId": 7650,
+        "name": "Backzutaten",
+        "parentId": 7640,
+        "subcategoryId": null,
+        "count": 1
+    },
+    {
+        "productCategoryId": 15780,
+        "name": "Asiatische Gerichte",
+        "parentId": 14780,
+        "subcategoryId": null,
+        "count": 4
+    },
+    {
+        "productCategoryId": 4650,
+        "name": "Kräuter",
+        "parentId": 10030,
+        "subcategoryId": null,
+        "count": 7
+    },
+    {
+        "productCategoryId": 133450,
+        "name": "Rohwurstware",
+        "parentId": 103530,
+        "subcategoryId": null,
+        "count": 29
+    },
+    {
+        "productCategoryId": 12680,
+        "name": "Brote, Flocken und Frühstückscerealien",
+        "parentId": null,
+        "subcategoryId": 12690,
+        "count": 1
+    },
+    {
+        "productCategoryId": 12690,
+        "name": "Brote und Brotwaren",
+        "parentId": 12680,
+        "subcategoryId": null,
+        "count": 26
+    },
+    {
+        "productCategoryId": 2710,
+        "name": "Nüsse, Samen und Ölfrüchte",
+        "parentId": null,
+        "subcategoryId": null,
+        "count": 19
+    },
+    {
+        "productCategoryId": 129820,
+        "name": "Saucen",
+        "parentId": 105330,
+        "subcategoryId": null,
+        "count": 12
+    },
+    {
+        "productCategoryId": 8520,
+        "name": "Sonstige süsse Backwaren",
+        "parentId": 105360,
+        "subcategoryId": null,
+        "count": 13
+    },
+    {
+        "productCategoryId": 11840,
+        "name": "Bier",
+        "parentId": 5120,
+        "subcategoryId": null,
+        "count": 2
+    },
+    {
+        "productCategoryId": 8390,
+        "name": "Speziallebensmittel",
+        "parentId": null,
+        "subcategoryId": 8400,
+        "count": 1
+    },
+    {
+        "productCategoryId": 8400,
+        "name": "Supplemente;Verschiedenes",
+        "parentId": 8390,
+        "subcategoryId": 8410,
+        "count": 1
+    },
+    {
+        "productCategoryId": 8410,
+        "name": "Hefe",
+        "parentId": 8400,
+        "subcategoryId": null,
+        "count": 1
+    },
+    {
+        "productCategoryId": 11990,
+        "name": "Müesli",
+        "parentId": 14780,
+        "subcategoryId": null,
+        "count": 1
+    },
+    {
+        "productCategoryId": 5800,
+        "name": "Frischkäse und Quark",
+        "parentId": 5540,
+        "subcategoryId": null,
+        "count": 11
+    },
+    {
+        "productCategoryId": 9040,
+        "name": "Getreideprodukte, Hülsenfrüchte und Kartoffeln",
+        "parentId": null,
+        "subcategoryId": 9050,
+        "count": 1
+    },
+    {
+        "productCategoryId": 9050,
+        "name": "Teige",
+        "parentId": 9040,
+        "subcategoryId": null,
+        "count": 11
+    },
+    {
+        "productCategoryId": 8500,
+        "name": "Sonstige Getreideprodukte",
+        "parentId": 9040,
+        "subcategoryId": null,
+        "count": 8
+    },
+    {
+        "productCategoryId": 9280,
+        "name": "Salzige Snacks",
+        "parentId": null,
+        "subcategoryId": 9290,
+        "count": 1
+    },
+    {
+        "productCategoryId": 9290,
+        "name": "Blätterteiggebäcke",
+        "parentId": 9280,
+        "subcategoryId": null,
+        "count": 1
+    },
+    {
+        "productCategoryId": 7790,
+        "name": "Kochwurstware",
+        "parentId": 103530,
+        "subcategoryId": null,
+        "count": 11
+    },
+    {
+        "productCategoryId": 133890,
+        "name": "Hülsenfrüchte",
+        "parentId": 9040,
+        "subcategoryId": null,
+        "count": 14
+    },
+    {
+        "productCategoryId": 4740,
+        "name": "Gemüse getrocknet",
+        "parentId": 10030,
+        "subcategoryId": null,
+        "count": 1
+    },
+    {
+        "productCategoryId": 6690,
+        "name": "Eintöpfe und Suppen",
+        "parentId": 14780,
+        "subcategoryId": null,
+        "count": 9
+    },
+    {
+        "productCategoryId": 6430,
+        "name": "Schokolade und Kakaoerzeugnisse",
+        "parentId": 105360,
+        "subcategoryId": null,
+        "count": 9
+    },
+    {
+        "productCategoryId": 5190,
+        "name": "Spirituosen",
+        "parentId": 5120,
+        "subcategoryId": null,
+        "count": 5
+    },
+    {
+        "productCategoryId": 500,
+        "name": "Fette und Öle",
+        "parentId": null,
+        "subcategoryId": 510,
+        "count": 1
+    },
+    {
+        "productCategoryId": 510,
+        "name": "Fette;Milch und Milchprodukte",
+        "parentId": 500,
+        "subcategoryId": 520,
+        "count": 1
+    },
+    {
+        "productCategoryId": 520,
+        "name": "Rahm und Butter",
+        "parentId": 510,
+        "subcategoryId": null,
+        "count": 14
+    },
+    {
+        "productCategoryId": 100520,
+        "name": "Weichkäse",
+        "parentId": 5540,
+        "subcategoryId": null,
+        "count": 13
+    },
+    {
+        "productCategoryId": 4210,
+        "name": "Mehle und Stärke",
+        "parentId": 9040,
+        "subcategoryId": null,
+        "count": 18
+    },
+    {
+        "productCategoryId": 5300,
+        "name": "Milch- und Joghurtgetränke",
+        "parentId": 5540,
+        "subcategoryId": null,
+        "count": 2
+    },
+    {
+        "productCategoryId": 11880,
+        "name": "Alkoholfreie Getränke",
+        "parentId": null,
+        "subcategoryId": 11890,
+        "count": 1
+    },
+    {
+        "productCategoryId": 11890,
+        "name": "Kaffee",
+        "parentId": 11880,
+        "subcategoryId": null,
+        "count": 10
+    },
+    {
+        "productCategoryId": 8780,
+        "name": "Kuchen, Torten und Cake",
+        "parentId": 105360,
+        "subcategoryId": null,
+        "count": 11
+    },
+    {
+        "productCategoryId": 104870,
+        "name": "Süssgetränke;Alkoholhaltige Getränke",
+        "parentId": 11880,
+        "subcategoryId": 104880,
+        "count": 1
+    },
+    {
+        "productCategoryId": 104880,
+        "name": "Sonstige alkoholische Getränke",
+        "parentId": 104870,
+        "subcategoryId": null,
+        "count": 1
+    },
+    {
+        "productCategoryId": 16450,
+        "name": "Italienische Gerichte",
+        "parentId": 14780,
+        "subcategoryId": null,
+        "count": 13
+    },
+    {
+        "productCategoryId": 11220,
+        "name": "Milch- und Joghurtgetränke;Alkoholfreie Getränke",
+        "parentId": 5540,
+        "subcategoryId": 11230,
+        "count": 1
+    },
+    {
+        "productCategoryId": 6300,
+        "name": "Pilze",
+        "parentId": 10030,
+        "subcategoryId": null,
+        "count": 11
+    },
+    {
+        "productCategoryId": 4990,
+        "name": "Süssgetränke",
+        "parentId": 11880,
+        "subcategoryId": null,
+        "count": 3
+    },
+    {
+        "productCategoryId": 5000,
+        "name": "Süssgetränke energievermindert",
+        "parentId": 11880,
+        "subcategoryId": null,
+        "count": 1
+    },
+    {
+        "productCategoryId": 15740,
+        "name": "Salate",
+        "parentId": 14780,
+        "subcategoryId": null,
+        "count": 13
+    },
+    {
+        "productCategoryId": 16490,
+        "name": "Fleisch und Innereien",
+        "parentId": null,
+        "subcategoryId": 16500,
+        "count": 5
+    },
+    {
+        "productCategoryId": 16500,
+        "name": "Kalb",
+        "parentId": 16490,
+        "subcategoryId": null,
+        "count": 27
+    },
+    {
+        "productCategoryId": 16510,
+        "name": "Schwein",
+        "parentId": 16490,
+        "subcategoryId": null,
+        "count": 25
+    },
+    {
+        "productCategoryId": 9410,
+        "name": "Müeslimischungen und Frühstückscerealien",
+        "parentId": 12680,
+        "subcategoryId": null,
+        "count": 1
+    },
+    {
+        "productCategoryId": 9510,
+        "name": "Salzsticks und Bretzel",
+        "parentId": 9280,
+        "subcategoryId": null,
+        "count": 2
+    },
+    {
+        "productCategoryId": 14950,
+        "name": "Sonstige süsse Gerichte",
+        "parentId": 14780,
+        "subcategoryId": null,
+        "count": 5
+    },
+    {
+        "productCategoryId": 5900,
+        "name": "Öle",
+        "parentId": 500,
+        "subcategoryId": null,
+        "count": 11
+    },
+    {
+        "productCategoryId": 7990,
+        "name": "Rahm;Milch und Milchprodukte",
+        "parentId": 500,
+        "subcategoryId": 8000,
+        "count": 1
+    },
+    {
+        "productCategoryId": 133500,
+        "name": "Fisch",
+        "parentId": null,
+        "subcategoryId": 133510,
+        "count": 1
+    },
+    {
+        "productCategoryId": 133510,
+        "name": "Meeresfische",
+        "parentId": 133500,
+        "subcategoryId": null,
+        "count": 23
+    },
+    {
+        "productCategoryId": 105360,
+        "name": "Konfitüren und süsse Brotaufstriche",
+        "parentId": 105360,
+        "subcategoryId": null,
+        "count": 7
+    },
+    {
+        "productCategoryId": 7660,
+        "name": "Süsswasserfische",
+        "parentId": 133500,
+        "subcategoryId": null,
+        "count": 5
+    },
+    {
+        "productCategoryId": 8050,
+        "name": "Süssgetränke;Alkoholfreie Getränke",
+        "parentId": 11880,
+        "subcategoryId": 8060,
+        "count": 1
+    },
+    {
+        "productCategoryId": 8060,
+        "name": "Tee",
+        "parentId": 8050,
+        "subcategoryId": null,
+        "count": 4
+    },
+    {
+        "productCategoryId": 6820,
+        "name": "Chips",
+        "parentId": 9280,
+        "subcategoryId": null,
+        "count": 4
+    },
+    {
+        "productCategoryId": 16940,
+        "name": "Salz, Gewürze und Aromen",
+        "parentId": 105330,
+        "subcategoryId": null,
+        "count": 5
+    },
+    {
+        "productCategoryId": 12000,
+        "name": "Salatsaucen",
+        "parentId": 500,
+        "subcategoryId": null,
+        "count": 5
+    },
+    {
+        "productCategoryId": 10990,
+        "name": "Süsswasserfische;Fisch",
+        "parentId": 133500,
+        "subcategoryId": 11000,
+        "count": 1
+    },
+    {
+        "productCategoryId": 11120,
+        "name": "Kalb;Fleisch und Innereien",
+        "parentId": 16490,
+        "subcategoryId": 11130,
+        "count": 1
+    },
+    {
+        "productCategoryId": 11130,
+        "name": "Geflügel;Fleisch und Innereien",
+        "parentId": 11120,
+        "subcategoryId": 11140,
+        "count": 1
+    },
+    {
+        "productCategoryId": 11140,
+        "name": "Lamm, Schaf;Fleisch und Innereien",
+        "parentId": 11130,
+        "subcategoryId": 11150,
+        "count": 1
+    },
+    {
+        "productCategoryId": 11150,
+        "name": "Rind;Fleisch und Innereien",
+        "parentId": 11140,
+        "subcategoryId": 11160,
+        "count": 1
+    },
+    {
+        "productCategoryId": 11160,
+        "name": "Schwein;Fleisch und Innereien",
+        "parentId": 11150,
+        "subcategoryId": 11170,
+        "count": 1
+    },
+    {
+        "productCategoryId": 11170,
+        "name": "Wild",
+        "parentId": 11160,
+        "subcategoryId": null,
+        "count": 10
+    },
+    {
+        "productCategoryId": 14980,
+        "name": "Meeresfrüchte, Krusten- und Schalentiere",
+        "parentId": 133500,
+        "subcategoryId": null,
+        "count": 6
+    },
+    {
+        "productCategoryId": 11010,
+        "name": "Geflügel",
+        "parentId": 16490,
+        "subcategoryId": null,
+        "count": 22
+    },
+    {
+        "productCategoryId": 7400,
+        "name": "Flocken, Kleie und Keime",
+        "parentId": 12680,
+        "subcategoryId": null,
+        "count": 8
+    },
+    {
+        "productCategoryId": 15100,
+        "name": "Cremen und Pudding",
+        "parentId": 105360,
+        "subcategoryId": null,
+        "count": 12
+    },
+    {
+        "productCategoryId": 9520,
+        "name": "Bonbons, Frucht- und Kaugummi",
+        "parentId": 105360,
+        "subcategoryId": null,
+        "count": 4
+    },
+    {
+        "productCategoryId": 15840,
+        "name": "Rind",
+        "parentId": 16490,
+        "subcategoryId": null,
+        "count": 30
+    },
+    {
+        "productCategoryId": 4870,
+        "name": "Sonstige Tierarten",
+        "parentId": 16490,
+        "subcategoryId": null,
+        "count": 7
+    },
+    {
+        "productCategoryId": 10700,
+        "name": "Eier",
+        "parentId": null,
+        "subcategoryId": null,
+        "count": 4
+    },
+    {
+        "productCategoryId": 8670,
+        "name": "Kartoffeln",
+        "parentId": 9040,
+        "subcategoryId": null,
+        "count": 11
+    },
+    {
+        "productCategoryId": 590,
+        "name": "Joghurt und Sauermilch",
+        "parentId": 5540,
+        "subcategoryId": null,
+        "count": 12
+    },
+    {
+        "productCategoryId": 5820,
+        "name": "Schokolade und Kakaoerzeugnisse;Alkoholfreie Getränke",
+        "parentId": 105360,
+        "subcategoryId": 5830,
+        "count": 1
+    },
+    {
+        "productCategoryId": 5830,
+        "name": "Kakaogetränke",
+        "parentId": 5820,
+        "subcategoryId": null,
+        "count": 2
+    },
+    {
+        "productCategoryId": 5670,
+        "name": "Frucht- und Gemüsesäfte;Gemüse",
+        "parentId": 11880,
+        "subcategoryId": 5680,
+        "count": 1
+    },
+    {
+        "productCategoryId": 5680,
+        "name": "Gemüsesäfte",
+        "parentId": 5670,
+        "subcategoryId": null,
+        "count": 2
+    },
+    {
+        "productCategoryId": 4980,
+        "name": "Mehle und Stärke;Verschiedenes",
+        "parentId": 9040,
+        "subcategoryId": 4990,
+        "count": 1
+    },
+    {
+        "productCategoryId": 5400,
+        "name": "Frischkäse und Quark;Milch und Milchprodukte",
+        "parentId": 5540,
+        "subcategoryId": 5410,
+        "count": 1
+    },
+    {
+        "productCategoryId": 15730,
+        "name": "Sandwiches",
+        "parentId": 14780,
+        "subcategoryId": null,
+        "count": 21
+    },
+    {
+        "productCategoryId": 9190,
+        "name": "Knäckebrote, Zwieback, Crackers und Waffeln",
+        "parentId": 12680,
+        "subcategoryId": null,
+        "count": 6
+    },
+    {
+        "productCategoryId": 6020,
+        "name": "Fette",
+        "parentId": 500,
+        "subcategoryId": null,
+        "count": 4
+    },
+    {
+        "productCategoryId": 5270,
+        "name": "Milch",
+        "parentId": 5540,
+        "subcategoryId": null,
+        "count": 12
+    },
+    {
+        "productCategoryId": 11100,
+        "name": "Lamm, Schaf",
+        "parentId": 11120,
+        "subcategoryId": null,
+        "count": 10
+    },
+    {
+        "productCategoryId": 16200,
+        "name": "Mais",
+        "parentId": 9040,
+        "subcategoryId": null,
+        "count": 3
+    },
+    {
+        "productCategoryId": 2700,
+        "name": "Gesalzene Nüsse, Samen, Kerne",
+        "parentId": 9280,
+        "subcategoryId": null,
+        "count": 2
+    },
+    {
+        "productCategoryId": 4970,
+        "name": "Sonstige Süssigkeiten",
+        "parentId": 105360,
+        "subcategoryId": null,
+        "count": 2
+    },
+    {
+        "productCategoryId": 7720,
+        "name": "Mayonnaisen",
+        "parentId": 500,
+        "subcategoryId": null,
+        "count": 3
+    },
+    {
+        "productCategoryId": 105460,
+        "name": "Sonstige salzige Snacks",
+        "parentId": 9280,
+        "subcategoryId": null,
+        "count": 2
+    },
+    {
+        "productCategoryId": 830,
+        "name": "Weichkäse;Milch und Milchprodukte",
+        "parentId": 5540,
+        "subcategoryId": 840,
+        "count": 1
+    },
+    {
+        "productCategoryId": 7090,
+        "name": "Öle;Fette und Öle",
+        "parentId": 500,
+        "subcategoryId": 7100,
+        "count": 1
+    },
+    {
+        "productCategoryId": 6950,
+        "name": "Glacen auf Milchbasis",
+        "parentId": 105360,
+        "subcategoryId": null,
+        "count": 1
+    },
+    {
+        "productCategoryId": 10660,
+        "name": "Reis",
+        "parentId": 9040,
+        "subcategoryId": null,
+        "count": 7
+    },
+    {
+        "productCategoryId": 8060,
+        "name": "Fischerzeugnisse",
+        "parentId": 133500,
+        "subcategoryId": null,
+        "count": 4
+    },
+    {
+        "productCategoryId": 133340,
+        "name": "Sonstige Fleisch- und Wurstwaren",
+        "parentId": 103530,
+        "subcategoryId": null,
+        "count": 1
+    },
+    {
+        "productCategoryId": 105330,
+        "name": "Aufstriche",
+        "parentId": 105330,
+        "subcategoryId": null,
+        "count": 1
+    },
+    {
+        "productCategoryId": 5640,
+        "name": "Käseerzeugnisse",
+        "parentId": 5540,
+        "subcategoryId": null,
+        "count": 6
+    },
+    {
+        "productCategoryId": 5700,
+        "name": "Sirup",
+        "parentId": 11880,
+        "subcategoryId": null,
+        "count": 10
+    },
+    {
+        "productCategoryId": 11330,
+        "name": "Sirup;Alkoholfreie Getränke",
+        "parentId": 11880,
+        "subcategoryId": 11340,
+        "count": 1
+    },
+    {
+        "productCategoryId": 730,
+        "name": "Milchersatzprodukte",
+        "parentId": 5540,
+        "subcategoryId": null,
+        "count": 1
+    },
+    {
+        "productCategoryId": 4670,
+        "name": "Sprossen und Keimlinge",
+        "parentId": 10030,
+        "subcategoryId": null,
+        "count": 1
+    },
+    {
+        "productCategoryId": 8930,
+        "name": "Glacen auf Wasserbasis",
+        "parentId": 105360,
+        "subcategoryId": null,
+        "count": 2
+    },
+    {
+        "productCategoryId": 10630,
+        "name": "Teigwaren",
+        "parentId": 9040,
+        "subcategoryId": null,
+        "count": 6
+    },
+    {
+        "productCategoryId": 4900,
+        "name": "Fleischersatzprodukte",
+        "parentId": null,
+        "subcategoryId": null,
+        "count": 1
+    },
+    {
+        "productCategoryId": 480,
+        "name": "Trinkwasser",
+        "parentId": 11880,
+        "subcategoryId": null,
+        "count": 1
+    },
+    {
+        "productCategoryId": 4310,
+        "name": "Flocken, Kleie und Keime;Speziallebensmittel",
+        "parentId": 12680,
+        "subcategoryId": 4320,
+        "count": 1
+    },
+    {
+        "productCategoryId": 4320,
+        "name": "Supplemente",
+        "parentId": 4310,
+        "subcategoryId": null,
+        "count": 1
+    }
+]

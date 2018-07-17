@@ -75,7 +75,8 @@ class DbService {
 
         this._tradeItem = this._sequelize.define('tradeItem', {
             id: { type: Sequelize.INTEGER, primaryKey: true, autoIncrement: true },
-            globalTradeItemNumber: Sequelize.TEXT,
+            tradeItemId: Sequelize.TEXT,
+            globalTradeNumber: Sequelize.TEXT,
             effectiveDateTime: Sequelize.DATE,
             descriptionShort: Sequelize.TEXT,
             descriptionOfTradeItem: Sequelize.TEXT,
@@ -84,7 +85,8 @@ class DbService {
             tradeItemPrice: Sequelize.FLOAT,
             tradeItemPriceCurrency: Sequelize.TEXT,
             tradeItemPriceUOM: Sequelize.FLOAT,
-            iconId: Sequelize.TEXT
+            iconId: Sequelize.TEXT,
+            productCategoryId: Sequelize.TEXT
         });
 
         //  SYNC SCHEMA

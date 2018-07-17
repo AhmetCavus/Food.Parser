@@ -62,6 +62,10 @@ class TradeItemParser {
      * @returns {Array} The sorted address array
      */
     parse() {
+        this._tradeItems.forEach((item, index) => {
+            item.tradeItemPrice = parseFloat(item.tradeItemPrice.replace(',','.'));
+            item.tradeItemPriceUOM = parseFloat(item.tradeItemPriceUOM.replace(',','.'));
+        });
         return { items: this._tradeItems };
     }
 
